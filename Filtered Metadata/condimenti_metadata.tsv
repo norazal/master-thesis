@@ -1,0 +1,6 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC0001	NCBI	NA	GCF_004123725.1	Cronobacter condimenti	s37	ASM412372v1	Poland	Europe		radish sprouts	2016	Food and Food Ingredients
+ND_NC0002	NCBI	NA	GCF_041222845.1	Cronobacter condimenti	LMG26250	ASM4122284v1	Slovakia	Europe		spiced meat	2010	Food and Food Ingredients
+ND_NC0003	NCBI	NA	GCF_001277255.1	Cronobacter condimenti	LMG 26250	ASM127725v1	Slovakia	Europe		spiced meat	2007	Food and Food Ingredients
+ND_NC0004	NCBI	NA	GCF_000319285.1	Cronobacter condimenti	1330	ASM31928v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0376	PubMLST	1896		Cronobacter condimenti	s37		Poland	Europe		Vegetable	2017	Food and Food Ingredients

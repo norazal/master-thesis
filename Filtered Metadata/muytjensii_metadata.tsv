@@ -1,0 +1,49 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC0388	NCBI	NA	GCF_001922855.1	Cronobacter muytjensii	MOD1-Md1s	ASM192285v1	USA	North America		fly surface	2012	Animal and Biological Sources
+ND_NC0389	NCBI	NA	GCF_008805515.1	Cronobacter muytjensii	MOD1_GK1257	ASM880551v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2014	Environmental Samples
+ND_NC0392	NCBI	NA	GCF_013363965.1	Cronobacter muytjensii	Cr150	ASM1336396v1	Israel	Asia		powdered infant formula	2007	Food and Food Ingredients
+ND_NC0393	NCBI	NA	GCF_015353315.1	Cronobacter muytjensii	MOD1_GK1258	ASM1535331v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0394	NCBI	NA	GCF_030012015.1	Cronobacter muytjensii	MOD1-E888	ASM3001201v1	Denmark	Europe		Food,Milk Powder	Unknown	Food and Food Ingredients
+ND_NC0395	NCBI	NA	GCF_035796135.1	Cronobacter muytjensii	F18	ASM3579613v1	China	Asia		food	2022	Food and Food Ingredients
+ND_NC0396	NCBI	NA	GCF_040983965.1	Cronobacter muytjensii	K1	ASM4098396v1	India	Asia		Biomedical waste site	2022	Environmental Samples
+ND_NC0397	NCBI	NA	GCA_016076515.1	Cronobacter muytjensii	MOD1_3523-75	PDT000337050.1	USA	North America		bone marrow	1975	Clinical and Medical Samples
+ND_NC0398	NCBI	NA	GCA_029616845.1	Cronobacter muytjensii	CFSAN129928	PDT001681799.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0399	NCBI	NA	GCA_033896145.1	Cronobacter muytjensii	CFSAN135173	PDT001995404.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC0400	NCBI	NA	GCA_033942255.1	Cronobacter muytjensii	CFSAN135129	PDT001996872.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC0401	NCBI	NA	GCA_033944725.1	Cronobacter muytjensii	CFSAN134918	PDT001996064.1	USA	North America		refrigerator	2023	Environmental Samples
+ND_NC0402	NCBI	NA	GCA_033945125.1	Cronobacter muytjensii	CFSAN134935	PDT001996044.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0403	NCBI	NA	GCA_033945465.1	Cronobacter muytjensii	CFSAN135016	PDT001996020.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC0404	NCBI	NA	GCA_033962455.1	Cronobacter muytjensii	CFSAN134959	PDT002008005.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC0405	NCBI	NA	GCA_033962795.1	Cronobacter muytjensii	CFSAN134923	PDT002007978.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0406	NCBI	NA	GCA_033963425.1	Cronobacter muytjensii	CFSAN134922	PDT002007976.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0407	NCBI	NA	GCA_044732125.1	Cronobacter muytjensii	1011-02	PDT002164427.1	Unknown	Unknown		Powdered Infant Formula	2007	Food and Food Ingredients
+ND_NC0408	NCBI	NA	GCA_044733985.1	Cronobacter muytjensii	CFSAN136250	PDT002107401.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0409	NCBI	NA	GCA_047338245.1	Cronobacter muytjensii	FSL-B11-0052	PDT002600696.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC0410	NCBI	NA	GCF_001277195.1	Cronobacter muytjensii	ATCC 51329	ASM127719v1	Unknown	Unknown		missing	1980	Unknown and Unclassified Sources
+ND_NC0411	NCBI	NA	GCF_000409285.1	Cronobacter muytjensii	ATCC 51329	Cmuy final contigs	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0017	PubMLST	124		Cronobacter muytjensii	378		Unknown	Unknown		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0018	PubMLST	126		Cronobacter muytjensii	16		Unknown	Unknown		Spice	2005	Food and Food Ingredients
+ND_PM0036	PubMLST	187		Cronobacter muytjensii	1371		Unknown	Unknown		Spice	2010	Food and Food Ingredients
+ND_PM0042	PubMLST	200		Cronobacter muytjensii	1527		Slovakia	Europe		Food	2010	Food and Food Ingredients
+ND_PM0072	PubMLST	442		Cronobacter muytjensii	1877		Czech Republic	Europe		Herb	2011	Food and Food Ingredients
+ND_PM0088	PubMLST	598	GCA_001277195.1	Cronobacter muytjensii	ATCC 51329	CIP103581	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0121	PubMLST	935		Cronobacter muytjensii	2059	05 CHPL 63	France	Europe		Food	Unknown	Food and Food Ingredients
+ND_PM0297	PubMLST	1497		Cronobacter muytjensii	PO60	DRR015698	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0298	PubMLST	1498		Cronobacter muytjensii	PO61	DRR015699	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0303	PubMLST	1504		Cronobacter muytjensii	PO67	DRR015914	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0368	PubMLST	1841		Cronobacter muytjensii	MOD1-Md1s		USA	North America		Insect	2012	Animal and Biological Sources
+ND_PM0858	PubMLST	3075		Cronobacter muytjensii	Cr150		Israel	Asia		Powdered infant formula	2007	Food and Food Ingredients
+ND_PM0886	PubMLST	3104	GCA_015353315.1	Cronobacter muytjensii	MOD1_GK1258	PDT000890408.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0987	PubMLST	3261		Cronobacter muytjensii	2015049		China	Asia	Zhejiang Wenzhou	Spice	2020	Food and Food Ingredients
+ND_PM1011	PubMLST	3286	GCA_008932145.1	Cronobacter muytjensii	JZ38		Saudi Arabia	Asia		Environmental	2014	Environmental Samples
+ND_PM1015	PubMLST	3408		Cronobacter muytjensii	2115013		China	Asia	Zhejiang Wenzhou	Spice	2021	Food and Food Ingredients
+ND_PM1334	PubMLST	3941		Cronobacter muytjensii	CFSAN129928	SRS17253700	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1622	PubMLST	4743	GCA_035796135.1	Cronobacter muytjensii	F18		China	Asia	Wenzhou	Food	2022	Food and Food Ingredients
+ND_PM1658	PubMLST	4795		Cronobacter muytjensii	Cmuy_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1659	PubMLST	4796		Cronobacter muytjensii	Cmuy_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1660	PubMLST	4797		Cronobacter muytjensii	Cmuy_F3		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1661	PubMLST	4798		Cronobacter muytjensii	Cmuy_F4		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1662	PubMLST	4799		Cronobacter muytjensii	Cmuy_F5		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1664	PubMLST	4817		Cronobacter muytjensii	ACTA017	muy17	France	Europe		Environmental	2020	Environmental Samples
+ND_PM1686	PubMLST	4839	GCA_040983965.1	Cronobacter muytjensii	K1		India	Asia	Ahmedabad, Gujarat	Environmental	2022	Environmental Samples
+ND_PM1728	PubMLST	4901		Cronobacter muytjensii	GY2024-103		China	Asia		Spices	2024	Food and Food Ingredients

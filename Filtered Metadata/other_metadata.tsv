@@ -1,0 +1,81 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC2709	NCBI	NA	GCF_011066255.1	Other	EKM101R	ASM1106625v1	Canada	North America		seeds	2014	Food and Food Ingredients
+ND_NC2711	NCBI	NA	GCF_011066275.1	Other	EKM102R	ASM1106627v1	Canada	North America		seeds	2014	Food and Food Ingredients
+ND_NC2713	NCBI	NA	GCF_011605905.1	Other	HA18003	ASM1160590v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2714	NCBI	NA	GCF_011605445.1	Other	HA18006	ASM1160544v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2715	NCBI	NA	GCF_008932145.1	Other	JZ38	ASM893214v1	Saudi Arabia	Asia			2014	Unknown and Unclassified Sources
+ND_PM0049	PubMLST	395		Other	Pagg-1838		Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0076	PubMLST	559		Other	El-1977		United Kingdom	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0077	PubMLST	564		Other	Ck-BAA-895		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0078	PubMLST	565		Other	E-638		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0090	PubMLST	611		Other	Fp-G-601/05T		Switzerland	Europe		Fruit powder	2007	Food and Food Ingredients
+ND_PM0091	PubMLST	612		Other	Fp-G-1160/04		Switzerland	Europe		Fruit powder	2007	Food and Food Ingredients
+ND_PM0092	PubMLST	613		Other	St-z610		Unknown	Unknown			2007	Unknown and Unclassified Sources
+ND_PM0097	PubMLST	644		Other	St-z508		Unknown	Unknown		Fruit powder	Unknown	Food and Food Ingredients
+ND_PM0102	PubMLST	698		Other	Eaer-KCTC2190T		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0103	PubMLST	699		Other	Eas-LF7a		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0104	PubMLST	700		Other	Eas-L1		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0105	PubMLST	701		Other	Ec-ATCC13047T		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0106	PubMLST	702		Other	Cr-ICC168		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0107	PubMLST	703		Other	Cf-ATCC8090T	MTCC 1658	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0108	PubMLST	834		Other	Sc-2249	NU3	United Kingdom	Europe		Tea	2014	Food and Food Ingredients
+ND_PM0109	PubMLST	836		Other	Ca-ASM73105v		Malaysia	Asia			Unknown	Unknown and Unclassified Sources
+ND_PM0110	PubMLST	837		Other	Eh-ATCC49162T		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0111	PubMLST	838		Other	Yr-ATCC 43003		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0112	PubMLST	839		Other	Ecan-ATCC35316		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0113	PubMLST	840		Other	Cy-ATCC29220T		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0114	PubMLST	841		Other	Emass-JC163T	CSURP161 DSM26120	France	Europe			Unknown	Unknown and Unclassified Sources
+ND_PM0115	PubMLST	842		Other	Emori-LMG 25706T		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0116	PubMLST	843		Other	Esac-SP1		China	Asia			Unknown	Unknown and Unclassified Sources
+ND_PM0117	PubMLST	844		Other	El-EcWSU1		USA	North America			Unknown	Unknown and Unclassified Sources
+ND_PM0123	PubMLST	1096		Other	Ehorm-2224	JP-8701	Mexico	North America		Clinical	2010	Clinical and Medical Samples
+ND_PM0124	PubMLST	1097		Other	Ent-2118	JP-8706	Mexico	North America		Clinical	2010	Clinical and Medical Samples
+ND_PM0182	PubMLST	1157		Other	Fh-1208		Portugal	Europe		Follow up formula	2009	Food and Food Ingredients
+ND_PM0190	PubMLST	1165		Other	Sc-1383T	NCTC14934T CECT 8567T LMG 28204T	United Kingdom	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0191	PubMLST	1166		Other	Fh-1387		United Kingdom	Europe		Spice	2011	Food and Food Ingredients
+ND_PM0192	PubMLST	1167		Other	Fd-1390		United Kingdom	Europe		Spice	2011	Food and Food Ingredients
+ND_PM0193	PubMLST	1168		Other	Fh-1392		United Kingdom	Europe		Tea	2011	Food and Food Ingredients
+ND_PM0194	PubMLST	1169		Other	Fp-1393		United Kingdom	Europe		Tea	2011	Food and Food Ingredients
+ND_PM0205	PubMLST	1180		Other	Fh-1975T	LMG23732T DSM18396T 513/05	Switzerland	Europe		Fruit powder	2007	Food and Food Ingredients
+ND_PM0207	PubMLST	1182		Other	Fp-1991		United Kingdom	Europe		Food	2013	Food and Food Ingredients
+ND_PM0208	PubMLST	1183		Other	St-2025	LMG 23731 610/05	Switzerland	Europe		Fruit powder	2004	Food and Food Ingredients
+ND_PM0276	PubMLST	1379		Other	Sc-2263	E1	United Kingdom	Europe		Tea	2015	Food and Food Ingredients
+ND_PM0278	PubMLST	1476		Other	Fp-DJ34		India	Asia		Environmental	2015	Environmental Samples
+ND_PM0307	PubMLST	1509		Other	Eh-PO72	e29; ERR474280	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0308	PubMLST	1510		Other	Eh-PO73	e1037; ERR474430	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0309	PubMLST	1511		Other	Eh-PO74	e1071 ERR474434	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0310	PubMLST	1512		Other	Eh-PO75	e1075; ERR474435	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0311	PubMLST	1513		Other	Eh-PO76	e1124; ERR474436	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0312	PubMLST	1514		Other	Eh-PO77	e1169; ERR474449	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0313	PubMLST	1515		Other	Eh-PO78	e1184; ERR474450	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0314	PubMLST	1516		Other	Eh-PO79	e1235; ERR474458	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0315	PubMLST	1517		Other	Eh-PO80	e1239; ERR474461	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0316	PubMLST	1518		Other	Eh-PO81	e77; ERR486105	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0317	PubMLST	1519		Other	Eh-PO82	e221; ERR586111	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0318	PubMLST	1520		Other	Eh-PO83	e658; ERR486181	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0319	PubMLST	1521		Other	Ent-PO84	e688; ERR486184	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0320	PubMLST	1522		Other	El-PO85	e491; ERR502554	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0321	PubMLST	1527		Other	Ent-766		France	Europe		Clinical	1994	Clinical and Medical Samples
+ND_PM0511	PubMLST	2399		Other	Ec-CS-35		The Netherlands	Europe		Infant formula	2006	Food and Food Ingredients
+ND_PM0512	PubMLST	2400		Other	Fh-CS-23		New Zealand	Oceania		Infant formula	2005	Food and Food Ingredients
+ND_PM0513	PubMLST	2411		Other	St-6100069499-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0514	PubMLST	2412		Other	Fp-ZJ-B48		China	Asia	Zhejiang Province	Infant rice based formula	2013	Food and Food Ingredients
+ND_PM0544	PubMLST	2449		Other	Ec-CS-22		China	Asia			Unknown	Unknown and Unclassified Sources
+ND_PM0689	PubMLST	2628		Other	St-BJ2016042913		China	Asia		Environmental	2016	Environmental Samples
+ND_PM0690	PubMLST	2629		Other	St-BJ2016102018		China	Asia		Environmental	2016	Environmental Samples
+ND_PM0691	PubMLST	2630		Other	St-BJ2016083010		China	Asia		Environmental	2016	Environmental Samples
+ND_PM0692	PubMLST	2631		Other	St-BJ2016062203		China	Asia		Environmental	2016	Environmental Samples
+ND_PM0693	PubMLST	2632		Other	St-BJ2016062224		China	Asia		Environmental	2016	Environmental Samples
+ND_PM0694	PubMLST	2633		Other	St-BJ2016052026		China	Asia		Environmental	2016	Environmental Samples
+ND_PM0778	PubMLST	2909		Other	B_brenn_ATCC51605		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0779	PubMLST	2910		Other	P_aggl_CFSAN047154		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0780	PubMLST	2911		Other	L_amni_NCTC12124		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0781	PubMLST	2912		Other	Pe_vul_4928STDY70715		Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0922	PubMLST	3194		Other	Eh-51283702		Norway	Europe			2021	Unknown and Unclassified Sources
+ND_PM0930	PubMLST	3202		Other	Fh-CH85	510439-19	Chile	South America			2017	Unknown and Unclassified Sources
+ND_PM0946	PubMLST	3220		Other	Fp-1315001-1		China	Asia	Zhejiang Wenzhou	milk powder	2013	Food and Food Ingredients
+ND_PM1014	PubMLST	3407		Other	Er-51260936		Norway	Europe			Unknown	Unknown and Unclassified Sources
+ND_PM1184	PubMLST	3668		Other	Ec-510428		Chile	South America		Powdered infant formula	Unknown	Food and Food Ingredients
+ND_PM1185	PubMLST	3669		Other	Fh-510439		Chile	South America		Powdered infant formula	Unknown	Food and Food Ingredients
+ND_PM1186	PubMLST	3670		Other	Fh-510440		Chile	South America		Powdered infant formula	Unknown	Food and Food Ingredients
+ND_PM1512	PubMLST	4189		Other	Fh-510441-19		Chile	South America		Food	2019	Food and Food Ingredients

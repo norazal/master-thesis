@@ -1,0 +1,858 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC0001	NCBI	NA	GCF_004123725.1	Cronobacter condimenti	s37	ASM412372v1	Poland	Europe		radish sprouts	2016	Food and Food Ingredients
+ND_NC0002	NCBI	NA	GCF_041222845.1	Cronobacter condimenti	LMG26250	ASM4122284v1	Slovakia	Europe		spiced meat	2010	Food and Food Ingredients
+ND_NC0003	NCBI	NA	GCF_001277255.1	Cronobacter condimenti	LMG 26250	ASM127725v1	Slovakia	Europe		spiced meat	2007	Food and Food Ingredients
+ND_NC0004	NCBI	NA	GCF_000319285.1	Cronobacter condimenti	1330	ASM31928v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_NC0005	NCBI	NA	GCF_002978555.1	Cronobacter dublinensis	cro3540W	ASM297855v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0006	NCBI	NA	GCF_002978615.1	Cronobacter dublinensis	cro680B1-1	ASM297861v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0007	NCBI	NA	GCF_002978625.1	Cronobacter dublinensis	cro965C1	ASM297862v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0008	NCBI	NA	GCF_002978655.1	Cronobacter dublinensis	cro3214W	ASM297865v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0009	NCBI	NA	GCF_002978675.1	Cronobacter dublinensis	cro3213W	ASM297867v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0010	NCBI	NA	GCF_002978695.1	Cronobacter dublinensis	cro4191B1-1	ASM297869v1	China	Asia		food	2016	Food and Food Ingredients
+ND_NC0011	NCBI	NA	GCF_002978705.2	Cronobacter dublinensis	cro946B2	ASM297870v2	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0012	NCBI	NA	GCF_002978715.1	Cronobacter dublinensis	cro2915W	ASM297871v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0013	NCBI	NA	GCF_002978755.1	Cronobacter dublinensis	cro4191A2	ASM297875v1	China	Asia		food	2016	Food and Food Ingredients
+ND_NC0014	NCBI	NA	GCF_002978775.1	Cronobacter dublinensis	cro1046W	ASM297877v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0015	NCBI	NA	GCF_002978795.1	Cronobacter dublinensis	cro1046A1	ASM297879v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0016	NCBI	NA	GCF_002978805.1	Cronobacter dublinensis	cro1046A2-1	ASM297880v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0017	NCBI	NA	GCF_002978815.1	Cronobacter dublinensis	cro981W	ASM297881v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0018	NCBI	NA	GCF_002978855.1	Cronobacter dublinensis	cro981C3	ASM297885v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0020	NCBI	NA	GCF_002978895.1	Cronobacter dublinensis	cro964C2	ASM297889v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0021	NCBI	NA	GCF_002978905.1	Cronobacter dublinensis	cro964A1	ASM297890v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0022	NCBI	NA	GCF_002978915.1	Cronobacter dublinensis	cro981C1	ASM297891v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0023	NCBI	NA	GCF_002978955.1	Cronobacter dublinensis	cro914C1	ASM297895v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0024	NCBI	NA	GCF_002978975.1	Cronobacter dublinensis	cro3314A3-1	ASM297897v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0025	NCBI	NA	GCF_002978995.1	Cronobacter dublinensis	cro580A1	ASM297899v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0026	NCBI	NA	GCF_002979015.1	Cronobacter dublinensis	cro3314A1	ASM297901v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0027	NCBI	NA	GCF_002979035.1	Cronobacter dublinensis	cro2864A2	ASM297903v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0028	NCBI	NA	GCF_002979055.1	Cronobacter dublinensis	cro280A	ASM297905v1	China	Asia		food	2011	Food and Food Ingredients
+ND_NC0029	NCBI	NA	GCF_002979075.1	Cronobacter dublinensis	cro1014W	ASM297907v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0030	NCBI	NA	GCF_002979095.1	Cronobacter dublinensis	cro1364W	ASM297909v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0031	NCBI	NA	GCF_002979115.1	Cronobacter dublinensis	cro1181W	ASM297911v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0032	NCBI	NA	GCF_002979135.1	Cronobacter dublinensis	cro965W	ASM297913v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0033	NCBI	NA	GCF_002979155.1	Cronobacter dublinensis	cro2845B2	ASM297915v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0034	NCBI	NA	GCF_002979175.1	Cronobacter dublinensis	cro910B3	ASM297917v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0035	NCBI	NA	GCF_009938445.1	Cronobacter dublinensis	SD69	ASM993844v1	China	Asia		spice	2016	Food and Food Ingredients
+ND_NC0037	NCBI	NA	GCF_009938535.1	Cronobacter dublinensis	SD28	ASM993853v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0039	NCBI	NA	GCF_009938875.1	Cronobacter dublinensis	BJ09	ASM993887v1	China	Asia		food	2007	Food and Food Ingredients
+ND_NC0040	NCBI	NA	GCF_011605635.1	Cronobacter dublinensis	HA18014	ASM1160563v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC0041	NCBI	NA	GCF_029227755.1	Cronobacter dublinensis	CFSA A14	ASM2922775v1	China	Asia		Cereal-based food (noodle) for infant	2021	Food and Food Ingredients
+ND_NC0042	NCBI	NA	GCF_029227785.1	Cronobacter dublinensis	CFSA A84	ASM2922778v1	China	Asia		Cereal-based food (noodle) for infant	2021	Food and Food Ingredients
+ND_NC0043	NCBI	NA	GCF_030011965.1	Cronobacter dublinensis	MOD1-E465	ASM3001196v1	Pakistan	Asia		Milk powder plant	Unknown	Environmental Samples
+ND_NC0044	NCBI	NA	GCF_030011995.1	Cronobacter dublinensis	MOD1-E791	ASM3001199v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0045	NCBI	NA	GCF_030012135.1	Cronobacter dublinensis	MOD1-E799	ASM3001213v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0046	NCBI	NA	GCF_030012155.1	Cronobacter dublinensis	MOD1-E798	ASM3001215v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0047	NCBI	NA	GCF_030023505.1	Cronobacter dublinensis	MOD1-E187	ASM3002350v1	Ireland	Europe		milk powder production facility	Unknown	Environmental Samples
+ND_NC0048	NCBI	NA	GCF_030023585.1	Cronobacter dublinensis	MOD1-6-3G	ASM3002358v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC0049	NCBI	NA	GCF_030025425.1	Cronobacter dublinensis	MOD1-6-15G	ASM3002542v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC0050	NCBI	NA	GCF_030025445.1	Cronobacter dublinensis	MOD1-KW5	ASM3002544v1	South Korea	Asia		black rice	Unknown	Food and Food Ingredients
+ND_NC0051	NCBI	NA	GCF_030025485.1	Cronobacter dublinensis	MOD1-3-27	ASM3002548v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC0052	NCBI	NA	GCF_030025595.1	Cronobacter dublinensis	MOD1-2-14	ASM3002559v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC0053	NCBI	NA	GCF_030025765.1	Cronobacter dublinensis	MOD1-Sun1	ASM3002576v1	South Korea	Asia		taro	Unknown	Food and Food Ingredients
+ND_NC0054	NCBI	NA	GCF_030126365.1	Cronobacter dublinensis	MOD1-CR1504	ASM3012636v1	Czech Republic	Europe		strawberry	Unknown	Food and Food Ingredients
+ND_NC0055	NCBI	NA	GCF_030126385.1	Cronobacter dublinensis	MOD1-CR1521	ASM3012638v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC0056	NCBI	NA	GCF_030126405.1	Cronobacter dublinensis	MOD1-CR1148	ASM3012640v1	Czech Republic	Europe		Water for Irrigation	Unknown	Environmental Samples
+ND_NC0057	NCBI	NA	GCF_030126425.1	Cronobacter dublinensis	MOD1-CR1541	ASM3012642v1	Czech Republic	Europe		Parsley	Unknown	Food and Food Ingredients
+ND_NC0058	NCBI	NA	GCF_030710875.1	Cronobacter dublinensis	S27	ASM3071087v1	USA	North America		Aquatic Environment	2021	Animal and Biological Sources
+ND_NC0059	NCBI	NA	GCF_032026925.1	Cronobacter dublinensis	Cron-b3	ASM3202692v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0060	NCBI	NA	GCF_032026945.1	Cronobacter dublinensis	Cron-b2	ASM3202694v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0061	NCBI	NA	GCF_032598745.1	Cronobacter dublinensis	CFSA A137	ASM3259874v1	China	Asia		Cereal-based food (noodle) for infant	2021	Food and Food Ingredients
+ND_NC0062	NCBI	NA	GCF_041222905.1	Cronobacter dublinensis	2012-05-18	ASM4122290v1	Unknown	Unknown		unknown	2012	Unknown and Unclassified Sources
+ND_NC0063	NCBI	NA	GCF_043258315.1	Cronobacter dublinensis	S27	ASM4325831v1	USA	North America		surface water	2021	Environmental Samples
+ND_NC0064	NCBI	NA	GCF_044142805.1	Cronobacter dublinensis	BC-14	ASM4414280v1	China	Asia		seed	2023	Food and Food Ingredients
+ND_NC0066	NCBI	NA	GCA_016076555.1	Cronobacter dublinensis	MOD1_5960-70	PDT000337051.1	USA	North America		blood	1970	Clinical and Medical Samples
+ND_NC0067	NCBI	NA	GCA_016076875.1	Cronobacter dublinensis	MOD1_0743-75	PDT000337047.1	USA	North America		foot wound	1975	Clinical and Medical Samples
+ND_NC0068	NCBI	NA	GCA_026609995.2	Cronobacter dublinensis	FDA1207441-S001-001	PDT001509570.2	USA	North America		powdered infant formula	2022	Food and Food Ingredients
+ND_NC0069	NCBI	NA	GCA_028154205.1	Cronobacter dublinensis	CFSAN129044	PDT001590631.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC0070	NCBI	NA	GCA_028171845.1	Cronobacter dublinensis	CFSAN129066	PDT001590993.1	USA	North America		infant formula	2022	Food and Food Ingredients
+ND_NC0071	NCBI	NA	GCA_028216275.1	Cronobacter dublinensis	CFSAN129394	PDT001594974.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC0072	NCBI	NA	GCA_028638895.1	Cronobacter dublinensis	CFSAN129437	PDT001615628.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0073	NCBI	NA	GCA_029228395.1	Cronobacter dublinensis	CFSAN129930	PDT001662074.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0074	NCBI	NA	GCA_030735835.1	Cronobacter dublinensis	CFSAN133213	PDT001851110.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0075	NCBI	NA	GCA_030736055.1	Cronobacter dublinensis	CFSAN133260	PDT001851082.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0076	NCBI	NA	GCA_030736435.1	Cronobacter dublinensis	CFSAN133250	PDT001851023.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0077	NCBI	NA	GCA_030736455.1	Cronobacter dublinensis	CFSAN133265	PDT001851021.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0078	NCBI	NA	GCA_032071845.1	Cronobacter dublinensis		ASM3207184v1	USA	North America		urban	2013	Environmental Samples
+ND_NC0079	NCBI	NA	GCA_032854905.1	Cronobacter dublinensis	CFSAN133872	PDT001946758.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0080	NCBI	NA	GCA_032855605.1	Cronobacter dublinensis	CFSAN133890	PDT001946719.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0081	NCBI	NA	GCA_032855705.1	Cronobacter dublinensis	CFSAN133886	PDT001946690.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0082	NCBI	NA	GCA_032855805.1	Cronobacter dublinensis	CFSAN133885	PDT001946685.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0083	NCBI	NA	GCA_032855965.1	Cronobacter dublinensis	CFSAN133859	PDT001946678.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0084	NCBI	NA	GCA_032856145.1	Cronobacter dublinensis	CFSAN133844	PDT001946668.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0085	NCBI	NA	GCA_032856245.1	Cronobacter dublinensis	CFSAN133848	PDT001946663.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0086	NCBI	NA	GCA_033897305.1	Cronobacter dublinensis	CFSAN134835	PDT001995445.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC0087	NCBI	NA	GCA_033897405.1	Cronobacter dublinensis	CFSAN135118	PDT001995426.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0088	NCBI	NA	GCA_033897625.1	Cronobacter dublinensis	CFSAN134854	PDT001995383.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC0089	NCBI	NA	GCA_033898045.1	Cronobacter dublinensis	CFSAN135065	PDT001996043.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0090	NCBI	NA	GCA_033898165.1	Cronobacter dublinensis	CFSAN135015	PDT001996023.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC0091	NCBI	NA	GCA_033941245.1	Cronobacter dublinensis	CFSAN134889	PDT001996926.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0093	NCBI	NA	GCA_033942095.1	Cronobacter dublinensis	CFSAN135131	PDT001996882.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0094	NCBI	NA	GCA_033942165.1	Cronobacter dublinensis	CFSAN135130	PDT001996878.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0095	NCBI	NA	GCA_033943705.1	Cronobacter dublinensis	CFSAN134897	PDT001996137.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0096	NCBI	NA	GCA_033944145.1	Cronobacter dublinensis	CFSAN135089	PDT001996103.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0097	NCBI	NA	GCA_033944185.1	Cronobacter dublinensis	CFSAN134972	PDT001996106.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0098	NCBI	NA	GCA_033944565.1	Cronobacter dublinensis	CFSAN135066	PDT001996071.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0099	NCBI	NA	GCA_033944645.1	Cronobacter dublinensis	CFSAN134974	PDT001996068.1	USA	North America		kitchen floor	2023	Environmental Samples
+ND_NC0100	NCBI	NA	GCA_033960385.1	Cronobacter dublinensis	CFSAN135132	PDT002008125.1	USA	North America		sprouts	2023	Food and Food Ingredients
+ND_NC0101	NCBI	NA	GCA_033960505.1	Cronobacter dublinensis	CFSAN135080	PDT002008115.1	USA	North America		grain	2023	Food and Food Ingredients
+ND_NC0102	NCBI	NA	GCA_033962475.1	Cronobacter dublinensis	CFSAN134958	PDT002008008.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0103	NCBI	NA	GCA_034001925.1	Cronobacter dublinensis	PNUSAR000004	PDT001994917.2	Unknown	Unknown		missing	2023	Unknown and Unclassified Sources
+ND_NC0104	NCBI	NA	GCA_034257795.1	Cronobacter dublinensis	CFSAN135601	PDT002020611.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0105	NCBI	NA	GCA_034408785.1	Cronobacter dublinensis	CFSAN135220	PDT002008080.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0106	NCBI	NA	GCA_035867885.1	Cronobacter dublinensis	2193-20	PDT002054854.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0108	NCBI	NA	GCA_044703525.1	Cronobacter dublinensis	CFSAN139865	PDT002445444.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0109	NCBI	NA	GCA_044703545.1	Cronobacter dublinensis	CFSAN139879	PDT002445391.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0110	NCBI	NA	GCA_044709875.1	Cronobacter dublinensis	CFSAN139825	PDT002422916.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0111	NCBI	NA	GCA_044710195.1	Cronobacter dublinensis	CFSAN139179	PDT002391279.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0112	NCBI	NA	GCA_044710795.1	Cronobacter dublinensis	CFIAFB20240062	PDT002344651.1	Canada	North America		food	2024	Food and Food Ingredients
+ND_NC0113	NCBI	NA	GCA_044710875.1	Cronobacter dublinensis	CFSAN138568	PDT002342820.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0114	NCBI	NA	GCA_044710975.1	Cronobacter dublinensis	CFSAN138556	PDT002341943.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0115	NCBI	NA	GCA_044711675.1	Cronobacter dublinensis	CFSAN137616	PDT002213432.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0116	NCBI	NA	GCA_044733085.1	Cronobacter dublinensis	PNUSAR000023	PDT002128246.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0117	NCBI	NA	GCA_044734045.1	Cronobacter dublinensis	CFSAN136241	PDT002107393.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0118	NCBI	NA	GCA_044734205.1	Cronobacter dublinensis	CFSAN136238	PDT002107394.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0119	NCBI	NA	GCA_044734225.1	Cronobacter dublinensis	CFSAN136246	PDT002107405.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0120	NCBI	NA	GCA_044734265.1	Cronobacter dublinensis	CFSAN136263	PDT002107389.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0121	NCBI	NA	GCA_044734345.1	Cronobacter dublinensis	CFSAN136239	PDT002107384.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0122	NCBI	NA	GCA_044734365.1	Cronobacter dublinensis	CFSAN136244	PDT002107383.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0123	NCBI	NA	GCA_044734445.1	Cronobacter dublinensis	CFSAN136333	PDT002107373.1	USA	North America		environmental sponge	2024	Environmental Samples
+ND_NC0124	NCBI	NA	GCA_044734505.1	Cronobacter dublinensis	CFSAN136247	PDT002107372.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0125	NCBI	NA	GCA_044734845.1	Cronobacter dublinensis	CFSAN136277	PDT002084562.1	USA	North America		environmental sponge	2024	Environmental Samples
+ND_NC0126	NCBI	NA	GCA_044735485.1	Cronobacter dublinensis	CFSAN135945	PDT002071086.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0128	NCBI	NA	GCA_044736085.1	Cronobacter dublinensis	CFSAN135985	PDT002071037.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0129	NCBI	NA	GCA_044820065.1	Cronobacter dublinensis	25MDFML001191-6A	PDT002451569.1	USA	North America		organic corn cereal	2024	Food and Food Ingredients
+ND_NC0130	NCBI	NA	GCA_044820105.1	Cronobacter dublinensis	25MDFML001191-6B	PDT002451568.1	USA	North America		organic corn cereal	2024	Food and Food Ingredients
+ND_NC0131	NCBI	NA	GCA_044820145.1	Cronobacter dublinensis	25MDFML001191-6C	PDT002451567.1	USA	North America		organic corn cereal	2024	Food and Food Ingredients
+ND_NC0132	NCBI	NA	GCA_044863125.1	Cronobacter dublinensis	CFSAN140052	PDT002464681.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0133	NCBI	NA	GCA_045970235.1	Cronobacter dublinensis	CFSAN140817	PDT002527328.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0134	NCBI	NA	GCA_045970255.1	Cronobacter dublinensis	CFSAN140820	PDT002527311.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0135	NCBI	NA	GCA_047337585.1	Cronobacter dublinensis	FSL-B11-0020	PDT002600730.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC0136	NCBI	NA	GCA_047337605.1	Cronobacter dublinensis	FSL-B11-0015	PDT002600735.1	USA	North America		Kitchen Counter top	2024	Environmental Samples
+ND_NC0137	NCBI	NA	GCA_047337745.1	Cronobacter dublinensis	FSL-B11-0028	PDT002600722.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC0138	NCBI	NA	GCA_047337965.1	Cronobacter dublinensis	FSL-B11-0031	PDT002600719.1	USA	North America		Kitchen Floor	2024	Environmental Samples
+ND_NC0140	NCBI	NA	GCA_047338045.1	Cronobacter dublinensis	FSL-B11-0005	PDT002600706.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC0142	NCBI	NA	GCA_047338165.1	Cronobacter dublinensis	FSL-B11-0049	PDT002600699.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC0143	NCBI	NA	GCA_047338205.1	Cronobacter dublinensis	FSL-B11-0055	PDT002600693.1	USA	North America		Footwear Sole	2024	Environmental Samples
+ND_NC0146	NCBI	NA	GCF_000319345.1	Cronobacter dublinensis	1210	ASM31934v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_NC0148	NCBI	NA	GCF_037070295.1	Cronobacter dublinensis	C49	ASM3707029v1	Lebanon	Asia		Sesame seed based food/processing facility 23	2017	Environmental Samples
+ND_NC0149	NCBI	NA	GCF_037070315.1	Cronobacter dublinensis	C44	ASM3707031v1	Lebanon	Asia		Sesame seed based food/processing facility 21	2017	Environmental Samples
+ND_NC0150	NCBI	NA	GCF_037070335.1	Cronobacter dublinensis	C46	ASM3707033v1	Lebanon	Asia		Sesame seed based food/processing facility 22	2017	Environmental Samples
+ND_NC0151	NCBI	NA	GCF_037070345.1	Cronobacter dublinensis	C40	ASM3707034v1	Lebanon	Asia		Sesame seed based food/processing facility 18	2017	Environmental Samples
+ND_NC0152	NCBI	NA	GCF_037070395.1	Cronobacter dublinensis	C38	ASM3707039v1	Lebanon	Asia		Sesame seed based food/processing facility 17	2017	Environmental Samples
+ND_NC0153	NCBI	NA	GCF_037070405.1	Cronobacter dublinensis	C43	ASM3707040v1	Lebanon	Asia		Sesame seed based food/processing facility 20	2017	Environmental Samples
+ND_NC0154	NCBI	NA	GCF_037070505.1	Cronobacter dublinensis	C32	ASM3707050v1	Lebanon	Asia		Sesame seed based food/processing facility 13	2017	Environmental Samples
+ND_NC0155	NCBI	NA	GCF_037070535.1	Cronobacter dublinensis	C23	ASM3707053v1	Lebanon	Asia		Sesame seed based food/processing facility 10	2017	Environmental Samples
+ND_NC0156	NCBI	NA	GCF_037070575.1	Cronobacter dublinensis	C21	ASM3707057v1	Lebanon	Asia		Sesame seed based food/processing facility 9	2017	Environmental Samples
+ND_NC0157	NCBI	NA	GCA_016085915.1	Cronobacter dublinensis	CFSAN022307	PDT000148463.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0158	NCBI	NA	GCA_016085995.1	Cronobacter dublinensis	CFSAN022309	PDT000148456.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0159	NCBI	NA	GCA_016086035.1	Cronobacter dublinensis	CFSAN022304	PDT000148445.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0160	NCBI	NA	GCA_016086045.1	Cronobacter dublinensis	CFSAN022306	PDT000148442.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0161	NCBI	NA	GCA_016086255.1	Cronobacter dublinensis	CFSAN022303	PDT000148468.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0162	NCBI	NA	GCA_016086335.1	Cronobacter dublinensis	CFSAN022296	PDT000148466.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0163	NCBI	NA	GCA_016086855.1	Cronobacter dublinensis	CFSAN022297	PDT000148479.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0164	NCBI	NA	GCA_016086875.1	Cronobacter dublinensis	CFSAN022294	PDT000148482.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0165	NCBI	NA	GCA_016086975.1	Cronobacter dublinensis	CFSAN022300	PDT000148474.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0166	NCBI	NA	GCA_016087015.1	Cronobacter dublinensis	CFSAN022302	PDT000148451.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0167	NCBI	NA	GCA_016087035.1	Cronobacter dublinensis	CFSAN022308	PDT000148446.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0168	NCBI	NA	GCA_016087115.1	Cronobacter dublinensis	CFSAN022301	PDT000148485.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0169	NCBI	NA	GCA_016087195.1	Cronobacter dublinensis	CFSAN022295	PDT000148484.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0170	NCBI	NA	GCA_016087255.1	Cronobacter dublinensis	CFSAN022305	PDT000148486.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC0171	NCBI	NA	GCA_037070255.1	Cronobacter dublinensis	C58	ASM3707025v1	Lebanon	Asia		Sesame seed based food/processing facility 25	2017	Environmental Samples
+ND_NC0172	NCBI	NA	GCA_037070275.1	Cronobacter dublinensis	C55	ASM3707027v1	Lebanon	Asia		Sesame seed based food/processing facility 24	2017	Environmental Samples
+ND_NC0173	NCBI	NA	GCA_037070365.1	Cronobacter dublinensis	C41	ASM3707036v1	Lebanon	Asia		Sesame seed based food/processing facility 19	2017	Environmental Samples
+ND_NC0174	NCBI	NA	GCA_037070415.1	Cronobacter dublinensis	C34	ASM3707041v1	Lebanon	Asia		Sesame seed based food/processing facility 15	2017	Environmental Samples
+ND_NC0175	NCBI	NA	GCA_037070435.1	Cronobacter dublinensis	C37	ASM3707043v1	Lebanon	Asia		Sesame seed based food/processing facility 16	2017	Environmental Samples
+ND_NC0176	NCBI	NA	GCA_037070455.1	Cronobacter dublinensis	C33	ASM3707045v1	Lebanon	Asia		Sesame seed based food/processing facility 14	2017	Environmental Samples
+ND_NC0177	NCBI	NA	GCA_037070475.1	Cronobacter dublinensis	C31	ASM3707047v1	Lebanon	Asia		Sesame seed based food/processing facility 12	2017	Environmental Samples
+ND_NC0178	NCBI	NA	GCA_037070495.1	Cronobacter dublinensis	C28	ASM3707049v1	Lebanon	Asia		Sesame seed based food/processing facility 11	2017	Environmental Samples
+ND_NC0179	NCBI	NA	GCA_037070555.1	Cronobacter dublinensis	C18	ASM3707055v1	Lebanon	Asia		Sesame seed based food/processing facility 8	2017	Environmental Samples
+ND_NC0180	NCBI	NA	GCA_037070595.1	Cronobacter dublinensis	C14	ASM3707059v1	Lebanon	Asia		Sesame seed based food/processing facility 6	2017	Environmental Samples
+ND_NC0181	NCBI	NA	GCA_037070615.1	Cronobacter dublinensis	C15	ASM3707061v1	Lebanon	Asia		Sesame seed based food/processing facility 7	2017	Environmental Samples
+ND_NC0182	NCBI	NA	GCA_037070635.1	Cronobacter dublinensis	C8	ASM3707063v1	Lebanon	Asia		Sesame seed based food/processing facility 5	2017	Environmental Samples
+ND_NC0183	NCBI	NA	GCA_037070655.1	Cronobacter dublinensis	C6	ASM3707065v1	Lebanon	Asia		Sesame seed based food/processing facility 4	2017	Environmental Samples
+ND_NC0184	NCBI	NA	GCA_037070675.1	Cronobacter dublinensis	C5	ASM3707067v1	Lebanon	Asia		Sesame seed based food/processing facility 3	2017	Environmental Samples
+ND_NC0185	NCBI	NA	GCA_037070695.1	Cronobacter dublinensis	C4	ASM3707069v1	Lebanon	Asia		Sesame seed based food/processing facility 2	2017	Environmental Samples
+ND_NC0186	NCBI	NA	GCA_037070715.1	Cronobacter dublinensis	C2	ASM3707071v1	Lebanon	Asia		Sesame seed based food/processing facility 1	2017	Environmental Samples
+ND_NC0187	NCBI	NA	GCA_037070735.1	Cronobacter dublinensis	C1	ASM3707073v1	Lebanon	Asia		Sesame seed based food/processing facility	2017	Environmental Samples
+ND_NC0188	NCBI	NA	GCF_001277235.1	Cronobacter dublinensis	LMG 23823	ASM127723v1	Ireland	Europe		milk powder production facility	2007	Environmental Samples
+ND_NC0189	NCBI	NA	GCF_000409225.1	Cronobacter dublinensis	LMG 23823	cddub187 final contigs	Ireland	Europe		milk powder plant	Unknown	Environmental Samples
+ND_NC0190	NCBI	NA	GCF_000409345.1	Cronobacter dublinensis	LMG 23825	Cdlac464 final contigs	Zimbabwe	Africa		milk powder plant	Unknown	Environmental Samples
+ND_NC0191	NCBI	NA	GCF_000409365.1	Cronobacter dublinensis	LMG 23824	cdlau515 final contigs	Switzerland	Europe		water fountain basin	Unknown	Environmental Samples
+ND_NC0192	NCBI	NA	GCF_000504545.1	Cronobacter malonaticus	CMCC45402	ASM50454v1	China	Asia		milk	Unknown	Food and Food Ingredients
+ND_NC0193	NCBI	NA	GCF_000742335.1	Cronobacter malonaticus	685	ASM74233v1	USA	North America		blood	1977	Clinical and Medical Samples
+ND_NC0194	NCBI	NA	GCF_000742345.1	Cronobacter malonaticus	687	ASM74234v1	Czech Republic	Europe		sputum	2004	Clinical and Medical Samples
+ND_NC0195	NCBI	NA	GCF_000742355.1	Cronobacter malonaticus	1545	ASM74235v1	Czech Republic	Europe		feces	1984	Clinical and Medical Samples
+ND_NC0196	NCBI	NA	GCF_000742395.1	Cronobacter malonaticus	1558	ASM74239v1	Czech Republic	Europe		feces	1984	Clinical and Medical Samples
+ND_NC0197	NCBI	NA	GCF_000742405.1	Cronobacter malonaticus	1569	ASM74240v1	USA	North America		blood	2011	Clinical and Medical Samples
+ND_NC0198	NCBI	NA	GCF_001922805.1	Cronobacter malonaticus	MOD1-Md25g	ASM192280v1	USA	North America		gut	2012	Clinical and Medical Samples
+ND_NC0199	NCBI	NA	GCF_001922825.1	Cronobacter malonaticus	MOD1-Md27g	ASM192282v1	USA	North America		gut	2012	Clinical and Medical Samples
+ND_NC0200	NCBI	NA	GCF_001922875.1	Cronobacter malonaticus	MOD1-Md99g	ASM192287v1	USA	North America		alimentary canal	2012	Clinical and Medical Samples
+ND_NC0201	NCBI	NA	GCF_002093915.1	Cronobacter malonaticus	HB03	ASM209391v1	China	Asia		cerebrospinal fluid	2014	Clinical and Medical Samples
+ND_NC0202	NCBI	NA	GCF_002978135.2	Cronobacter malonaticus	cro3263A1	ASM297813v2	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0203	NCBI	NA	GCF_002978155.1	Cronobacter malonaticus	cro913A2	ASM297815v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0204	NCBI	NA	GCF_002978165.1	Cronobacter malonaticus	cro913W	ASM297816v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0205	NCBI	NA	GCF_002978175.1	Cronobacter malonaticus	cro795W2	ASM297817v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0206	NCBI	NA	GCF_002978185.1	Cronobacter malonaticus	cro138	ASM297818v1	China	Asia		food	2011	Food and Food Ingredients
+ND_NC0207	NCBI	NA	GCF_002978235.1	Cronobacter malonaticus	cro645W	ASM297823v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0208	NCBI	NA	GCF_002978245.1	Cronobacter malonaticus	cro745W	ASM297824v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0209	NCBI	NA	GCF_002978275.1	Cronobacter malonaticus	cro235	ASM297827v1	China	Asia		food	2011	Food and Food Ingredients
+ND_NC0210	NCBI	NA	GCF_002978285.1	Cronobacter malonaticus	cro645B1	ASM297828v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0211	NCBI	NA	GCF_002978315.1	Cronobacter malonaticus	cro881W1	ASM297831v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0212	NCBI	NA	GCF_002978325.1	Cronobacter malonaticus	cro2841W	ASM297832v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0213	NCBI	NA	GCF_002978335.1	Cronobacter malonaticus	cro931C1	ASM297833v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0214	NCBI	NA	GCF_002978375.1	Cronobacter malonaticus	cro530C3	ASM297837v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0215	NCBI	NA	GCF_002978385.1	Cronobacter malonaticus	cro714W	ASM297838v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0216	NCBI	NA	GCF_002978395.1	Cronobacter malonaticus	cro630W2	ASM297839v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0217	NCBI	NA	GCF_002978405.2	Cronobacter malonaticus	cro4164A3	ASM297840v2	China	Asia		food	2016	Food and Food Ingredients
+ND_NC0218	NCBI	NA	GCF_002978455.1	Cronobacter malonaticus	cro965A1	ASM297845v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0219	NCBI	NA	GCF_002978475.1	Cronobacter malonaticus	cro1031W	ASM297847v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0220	NCBI	NA	GCF_002978485.1	Cronobacter malonaticus	199G	ASM297848v1	China	Asia		food	2007	Food and Food Ingredients
+ND_NC0221	NCBI	NA	GCF_002978495.1	Cronobacter malonaticus	cro695B2	ASM297849v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0222	NCBI	NA	GCF_002978535.1	Cronobacter malonaticus	cro1410A1	ASM297853v1	China	Asia		food	2013	Food and Food Ingredients
+ND_NC0223	NCBI	NA	GCF_002978545.1	Cronobacter malonaticus	cro909B1	ASM297854v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0224	NCBI	NA	GCF_002978565.1	Cronobacter malonaticus	cro2834C2	ASM297856v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0225	NCBI	NA	GCF_002983535.1	Cronobacter malonaticus	cro914W	ASM298353v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0226	NCBI	NA	GCF_002983555.1	Cronobacter malonaticus	cro863C2	ASM298355v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0227	NCBI	NA	GCF_002983565.1	Cronobacter malonaticus	cro864B2-3	ASM298356v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0228	NCBI	NA	GCF_002983575.1	Cronobacter malonaticus	cro831C3	ASM298357v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0229	NCBI	NA	GCF_003795605.1	Cronobacter malonaticus	S1	ASM379560v1	China	Asia		Rectal swab	2016	Clinical and Medical Samples
+ND_NC0230	NCBI	NA	GCF_003858305.1	Cronobacter malonaticus	S3	ASM385830v1	China	Asia		rectal swab	2016	Clinical and Medical Samples
+ND_NC0232	NCBI	NA	GCF_009938605.1	Cronobacter malonaticus	SD16	ASM993860v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0233	NCBI	NA	GCF_009938615.1	Cronobacter malonaticus	SD26	ASM993861v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0234	NCBI	NA	GCF_009938655.1	Cronobacter malonaticus	SD11	ASM993865v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0235	NCBI	NA	GCF_009938735.1	Cronobacter malonaticus	SC01	ASM993873v1	China	Asia		food	2010	Food and Food Ingredients
+ND_NC0236	NCBI	NA	GCF_009938865.1	Cronobacter malonaticus	BJ15	ASM993886v1	China	Asia		stool	2013	Clinical and Medical Samples
+ND_NC0237	NCBI	NA	GCF_013186065.1	Cronobacter malonaticus	CMa3	ASM1318606v1	China	Asia		powdered infant formula	2012	Food and Food Ingredients
+ND_NC0238	NCBI	NA	GCF_015350615.1	Cronobacter malonaticus	MOD1_GK1518	ASM1535061v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0239	NCBI	NA	GCF_015353245.1	Cronobacter malonaticus	MOD1_GK1510	ASM1535324v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0240	NCBI	NA	GCF_015353415.1	Cronobacter malonaticus	MOD1_GK796	ASM1535341v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0241	NCBI	NA	GCF_015353475.1	Cronobacter malonaticus	MOD1_GK1360	ASM1535347v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0242	NCBI	NA	GCF_015353485.1	Cronobacter malonaticus	MOD1_GK1357	ASM1535348v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0243	NCBI	NA	GCF_015353535.1	Cronobacter malonaticus	MOD1_GK1358	ASM1535353v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0244	NCBI	NA	GCF_015353545.1	Cronobacter malonaticus	MOD1_GK1356	ASM1535354v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0245	NCBI	NA	GCF_015353655.1	Cronobacter malonaticus	MOD1_GK1354	ASM1535365v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0246	NCBI	NA	GCF_015353775.1	Cronobacter malonaticus	MOD1_GK1355	ASM1535377v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0247	NCBI	NA	GCF_015354035.1	Cronobacter malonaticus	MOD1_GK962	ASM1535403v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0248	NCBI	NA	GCF_030011955.1	Cronobacter malonaticus	MOD1-E829	ASM3001195v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0249	NCBI	NA	GCF_030012075.1	Cronobacter malonaticus	MOD1-E684	ASM3001207v1	United Kingdom	Europe		food	Unknown	Food and Food Ingredients
+ND_NC0250	NCBI	NA	GCF_030012085.1	Cronobacter malonaticus	MOD1-E766	ASM3001208v1	Australia	Oceania		Food,Milk powder	Unknown	Food and Food Ingredients
+ND_NC0251	NCBI	NA	GCF_030026485.1	Cronobacter malonaticus	MOD1-E633	ASM3002648v1	Czech Republic	Europe		infant food	Unknown	Food and Food Ingredients
+ND_NC0252	NCBI	NA	GCF_030026805.1	Cronobacter malonaticus	MOD1-Jor168B	ASM3002680v1	Jordan	Asia		spices	Unknown	Food and Food Ingredients
+ND_NC0253	NCBI	NA	GCF_030026815.1	Cronobacter malonaticus	MOD1-E265	ASM3002681v1	Malaysia	Asia		milk powder	Unknown	Food and Food Ingredients
+ND_NC0254	NCBI	NA	GCF_030055315.1	Cronobacter malonaticus	MOD1_GK1512	MOD1_GK1512	Germany	Europe		Environment, Powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0255	NCBI	NA	GCF_030055375.1	Cronobacter malonaticus	MOD1_GK1349	MOD1_GK1349	Germany	Europe		Environment, Powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0256	NCBI	NA	GCF_030126265.1	Cronobacter malonaticus	MOD1-CQ62	ASM3012626v1	Ireland	Europe		powdered infant formula production environment	Unknown	Environmental Samples
+ND_NC0258	NCBI	NA	GCF_030126825.1	Cronobacter malonaticus	MOD1-Jor160B	ASM3012682v1	Jordan	Asia		Environmental, Vacuum dust	Unknown	Environmental Samples
+ND_NC0259	NCBI	NA	GCF_030126845.1	Cronobacter malonaticus	MOD1-CR959S	ASM3012684v1	Czech Republic	Europe		Frozen Pea	Unknown	Food and Food Ingredients
+ND_NC0260	NCBI	NA	GCF_030127265.1	Cronobacter malonaticus	MOD1-CQ41	ASM3012726v1	Ireland	Europe		powdered infant formula production environment	Unknown	Environmental Samples
+ND_NC0261	NCBI	NA	GCF_032025765.1	Cronobacter malonaticus	Cron-b40	ASM3202576v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0262	NCBI	NA	GCF_032026045.1	Cronobacter malonaticus	Cron-b23	ASM3202604v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0263	NCBI	NA	GCF_032026265.1	Cronobacter malonaticus	Cron-b19	ASM3202626v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0264	NCBI	NA	GCF_032026395.1	Cronobacter malonaticus	Cron-b38	ASM3202639v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0265	NCBI	NA	GCF_032026545.1	Cronobacter malonaticus	Cron-b32	ASM3202654v1	China	Asia		feces	2022	Clinical and Medical Samples
+ND_NC0266	NCBI	NA	GCF_032026745.1	Cronobacter malonaticus	Cron-b29	ASM3202674v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0267	NCBI	NA	GCF_032026825.1	Cronobacter malonaticus	Cron-b25	ASM3202682v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0268	NCBI	NA	GCF_032026865.1	Cronobacter malonaticus	Cron-b24	ASM3202686v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0269	NCBI	NA	GCF_032854045.1	Cronobacter malonaticus	B11	ASM3285404v1	China	Asia		noodles	2023	Food and Food Ingredients
+ND_NC0270	NCBI	NA	GCF_033798545.1	Cronobacter malonaticus	J6	ASM3379854v1	China	Asia		rice flour	2018	Food and Food Ingredients
+ND_NC0271	NCBI	NA	GCF_033798565.1	Cronobacter malonaticus	J34	ASM3379856v1	China	Asia		rice flour	2022	Food and Food Ingredients
+ND_NC0273	NCBI	NA	GCF_035658535.1	Cronobacter malonaticus	Dcc0527	ASM3565853v1	China	Asia			2022	Unknown and Unclassified Sources
+ND_NC0274	NCBI	NA	GCF_035796035.1	Cronobacter malonaticus	F24	ASM3579603v1	China	Asia		food	2022	Food and Food Ingredients
+ND_NC0275	NCBI	NA	GCF_035796095.1	Cronobacter malonaticus	F20	ASM3579609v1	China	Asia		food	2022	Food and Food Ingredients
+ND_NC0276	NCBI	NA	GCF_040276445.1	Cronobacter malonaticus	B20	ASM4027644v1	China	Asia		food	2023	Food and Food Ingredients
+ND_NC0277	NCBI	NA	GCF_041222915.1	Cronobacter malonaticus	2008-02-01	ASM4122291v1	Unknown	Unknown		unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0278	NCBI	NA	GCF_041222925.1	Cronobacter malonaticus	2004-29-02	ASM4122292v1	Unknown	Unknown		unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0279	NCBI	NA	GCF_045257745.1	Cronobacter malonaticus	NWU01	ASM4525774v1	China	Asia		infant formula; intestinal tract	2024	Clinical and Medical Samples
+ND_NC0283	NCBI	NA	GCA_016076375.1	Cronobacter malonaticus	MOD1_E754	PDT000337068.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0284	NCBI	NA	GCA_016076405.1	Cronobacter malonaticus	MOD1_E765	PDT000337070.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0285	NCBI	NA	GCA_016076495.1	Cronobacter malonaticus	MOD1_E763	PDT000337071.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0287	NCBI	NA	GCA_016076695.1	Cronobacter malonaticus	MOD1_0939A-75	PDT000337064.1	USA	North America		nose	1975	Clinical and Medical Samples
+ND_NC0288	NCBI	NA	GCA_016076835.1	Cronobacter malonaticus	MOD1_E615	PDT000337046.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0289	NCBI	NA	GCA_016076975.1	Cronobacter malonaticus	MOD1-E902	PDT000332673.1	USA	North America		blood	Unknown	Clinical and Medical Samples
+ND_NC0290	NCBI	NA	GCA_016077015.1	Cronobacter malonaticus	MOD1_2149	PDT000332664.1	USA	North America		cerebrospinal fluid	2004	Clinical and Medical Samples
+ND_NC0291	NCBI	NA	GCA_016077135.1	Cronobacter malonaticus	MOD1_2153	PDT000332663.1	USA	North America		blood	2004	Clinical and Medical Samples
+ND_NC0292	NCBI	NA	GCA_016077195.1	Cronobacter malonaticus	MOD1-E833	PDT000332658.1	USA	North America		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0293	NCBI	NA	GCA_016077245.1	Cronobacter malonaticus	MOD1-E532	PDT000332657.1	USA	North America		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0294	NCBI	NA	GCA_016077335.1	Cronobacter malonaticus	MOD1_E608	PDT000332644.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0295	NCBI	NA	GCA_016077355.1	Cronobacter malonaticus	MOD1_E618	PDT000332645.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0296	NCBI	NA	GCA_016077465.1	Cronobacter malonaticus	MOD1-E831	PDT000332659.1	USA	North America		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0297	NCBI	NA	GCA_016077535.1	Cronobacter malonaticus	MOD1_1895-73	PDT000332662.1	USA	North America		stool	1973	Clinical and Medical Samples
+ND_NC0298	NCBI	NA	GCA_029224145.1	Cronobacter malonaticus	CFSAN129929	PDT001662070.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0299	NCBI	NA	GCA_030736515.1	Cronobacter malonaticus	CFSAN133219	PDT001851010.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0300	NCBI	NA	GCA_032854945.1	Cronobacter malonaticus	CFSAN133871	PDT001946756.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0301	NCBI	NA	GCA_032855285.1	Cronobacter malonaticus	CFSAN133866	PDT001946736.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0302	NCBI	NA	GCA_032856285.1	Cronobacter malonaticus	CFSAN133893	PDT001946649.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0303	NCBI	NA	GCA_033896265.1	Cronobacter malonaticus	CFSAN135114	PDT001995396.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC0304	NCBI	NA	GCA_033896705.1	Cronobacter malonaticus	CFSAN134979	PDT001995441.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0305	NCBI	NA	GCA_033897445.1	Cronobacter malonaticus	CFSAN135025	PDT001995418.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0306	NCBI	NA	GCA_033940385.1	Cronobacter malonaticus	CFSAN134886	PDT001996967.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0307	NCBI	NA	GCA_033942125.1	Cronobacter malonaticus	CFSAN134818	PDT001996879.1	USA	North America		pet food	2023	Food and Food Ingredients
+ND_NC0308	NCBI	NA	GCA_033942945.1	Cronobacter malonaticus	CFSAN135060	PDT001996200.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0309	NCBI	NA	GCA_033944425.1	Cronobacter malonaticus	CFSAN134951	PDT001996077.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0310	NCBI	NA	GCA_033944535.1	Cronobacter malonaticus	CFSAN134952	PDT001996073.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC0311	NCBI	NA	GCA_033944965.1	Cronobacter malonaticus	CFSAN134882	PDT001996054.1	USA	North America		footwear	2022	Environmental Samples
+ND_NC0312	NCBI	NA	GCA_033945045.1	Cronobacter malonaticus	CFSAN134832	PDT001996047.1	USA	North America		floor	2022	Environmental Samples
+ND_NC0313	NCBI	NA	GCA_033946905.1	Cronobacter malonaticus	CFSAN135106	PDT001995937.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0314	NCBI	NA	GCA_033946945.1	Cronobacter malonaticus	CFSAN135107	PDT001995934.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0315	NCBI	NA	GCA_033960725.1	Cronobacter malonaticus	CFSAN135214	PDT002008104.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0316	NCBI	NA	GCA_033961125.1	Cronobacter malonaticus	CFSAN135006	PDT002008085.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC0317	NCBI	NA	GCA_033961225.1	Cronobacter malonaticus	CFSAN134826	PDT002008077.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC0318	NCBI	NA	GCA_033962535.1	Cronobacter malonaticus	CFSAN134916	PDT002008006.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0319	NCBI	NA	GCA_033962655.1	Cronobacter malonaticus	CFSAN134956	PDT002007999.1	USA	North America		kitchen sponge	2023	Environmental Samples
+ND_NC0320	NCBI	NA	GCA_033962675.1	Cronobacter malonaticus	CFSAN134955	PDT002007998.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0321	NCBI	NA	GCA_033963075.1	Cronobacter malonaticus	CFSAN134953	PDT002007985.1	USA	North America		kitchen counter	2023	Environmental Samples
+ND_NC0322	NCBI	NA	GCA_033963245.1	Cronobacter malonaticus	CFSAN134954	PDT002007986.1	USA	North America		kitchen sponge	2023	Environmental Samples
+ND_NC0323	NCBI	NA	GCA_033963485.1	Cronobacter malonaticus	CFSAN134920	PDT002007974.1	USA	North America		refrigerator	2023	Environmental Samples
+ND_NC0324	NCBI	NA	GCA_033963765.1	Cronobacter malonaticus	CFSAN134919	PDT002007957.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC0325	NCBI	NA	GCA_034264435.1	Cronobacter malonaticus	CFSAN135602	PDT002020614.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0326	NCBI	NA	GCA_034408585.1	Cronobacter malonaticus	CFSAN134810	PDT002008081.1	USA	North America		pet food	2023	Food and Food Ingredients
+ND_NC0328	NCBI	NA	GCA_035874375.1	Cronobacter malonaticus	2004-29-03	PDT002054853.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0330	NCBI	NA	GCA_044710895.1	Cronobacter malonaticus	CFSAN138564	PDT002342817.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0331	NCBI	NA	GCA_044711295.1	Cronobacter malonaticus	PNUSAR000053	PDT002255833.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0332	NCBI	NA	GCA_044732285.1	Cronobacter malonaticus	CFSAN136654	PDT002139445.1	USA	North America		environmental sponge	2024	Environmental Samples
+ND_NC0333	NCBI	NA	GCA_044732965.1	Cronobacter malonaticus	PNUSAR000049	PDT002130575.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0334	NCBI	NA	GCA_044733025.1	Cronobacter malonaticus	PNUSAR000035	PDT002128249.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0335	NCBI	NA	GCA_044733045.1	Cronobacter malonaticus	PNUSAR000038	PDT002128247.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0336	NCBI	NA	GCA_044733065.1	Cronobacter malonaticus	PNUSAR000036	PDT002128248.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0337	NCBI	NA	GCA_044733945.1	Cronobacter malonaticus	CFSAN136240	PDT002107407.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0339	NCBI	NA	GCA_044820085.1	Cronobacter malonaticus	24MDFML005956-Q	PDT002217036.1	USA	North America		dried black fungus	2024	Food and Food Ingredients
+ND_NC0340	NCBI	NA	GCA_044820125.1	Cronobacter malonaticus	24MDFML005956-K	PDT002217035.1	USA	North America		dried black fungus	2024	Food and Food Ingredients
+ND_NC0341	NCBI	NA	GCA_044820165.1	Cronobacter malonaticus	24MDFML005956-A	PDT002217033.1	USA	North America		dried black fungus	2024	Food and Food Ingredients
+ND_NC0342	NCBI	NA	GCA_045228935.1	Cronobacter malonaticus	25MDFML001320-10B	PDT002483312.1	USA	North America		whole grain oatmeal infant baby cereal	2024	Food and Food Ingredients
+ND_NC0343	NCBI	NA	GCA_045228955.1	Cronobacter malonaticus	25MDFML001318-3A	PDT002483322.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0344	NCBI	NA	GCA_045230055.1	Cronobacter malonaticus	25MDFML001317-10C	PDT002483326.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0346	NCBI	NA	GCA_045230095.1	Cronobacter malonaticus	25MDFML001317-10E	PDT002483324.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0347	NCBI	NA	GCA_045230115.1	Cronobacter malonaticus	25MDFML001318-10A	PDT002483323.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0348	NCBI	NA	GCA_045230135.1	Cronobacter malonaticus	25MDFML001318-3B	PDT002483321.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0352	NCBI	NA	GCA_045328655.1	Cronobacter malonaticus	25MDFML001319-10A	PDT002483317.1	USA	North America		whole grain oatmeal infant baby cereal	2024	Food and Food Ingredients
+ND_NC0353	NCBI	NA	GCA_046447005.1	Cronobacter malonaticus	CFSAN140854	PDT002553071.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0354	NCBI	NA	GCA_046447145.1	Cronobacter malonaticus	CFSAN140848	PDT002553087.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0355	NCBI	NA	GCA_046447365.1	Cronobacter malonaticus	CFSAN140853	PDT002553079.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0356	NCBI	NA	GCA_046461075.1	Cronobacter malonaticus	25MDFML001900-3C	PDT002555179.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0357	NCBI	NA	GCA_046461155.1	Cronobacter malonaticus	25MDFML001966-2D	PDT002555176.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0358	NCBI	NA	GCA_046461175.1	Cronobacter malonaticus	25MDFML001965-2B	PDT002555178.1	USA	North America		whole grain multi-grain infant cereal	2024	Food and Food Ingredients
+ND_NC0359	NCBI	NA	GCA_046461295.1	Cronobacter malonaticus	25MDFML001900-3A	PDT002555181.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0360	NCBI	NA	GCA_046461335.1	Cronobacter malonaticus	25MDFML001900-3B	PDT002555180.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0361	NCBI	NA	GCA_046461355.1	Cronobacter malonaticus	25MDFML001966-6A	PDT002555174.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0362	NCBI	NA	GCA_046463705.1	Cronobacter malonaticus	25MDFML001965-2A	PDT002555230.1	USA	North America		whole grain multi-grain infant cereal	2024	Food and Food Ingredients
+ND_NC0363	NCBI	NA	GCA_047306145.1	Cronobacter malonaticus	25MDFML002061-3B	PDT002598264.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0365	NCBI	NA	GCA_047306205.1	Cronobacter malonaticus	25MDFML002066-1B	PDT002598262.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0366	NCBI	NA	GCA_047306245.1	Cronobacter malonaticus	25MDFML002066-1D	PDT002598261.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0367	NCBI	NA	GCA_047306265.1	Cronobacter malonaticus	25MDFML002063-2A	PDT002598251.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0368	NCBI	NA	GCA_047306285.1	Cronobacter malonaticus	25MDFML002062-3A	PDT002598254.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0370	NCBI	NA	GCA_047306345.1	Cronobacter malonaticus	25MDFML002063-2C	PDT002598249.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0371	NCBI	NA	GCA_047306365.1	Cronobacter malonaticus	25MDFML002064-3D	PDT002598247.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0372	NCBI	NA	GCA_047306385.1	Cronobacter malonaticus	25MDFML002064-2A	PDT002598248.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0373	NCBI	NA	GCA_047306485.1	Cronobacter malonaticus	25MDFML002062-3B	PDT002598253.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0374	NCBI	NA	GCA_047306505.1	Cronobacter malonaticus	25MDFML002068-3B	PDT002598258.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0376	NCBI	NA	GCA_047306645.1	Cronobacter malonaticus	25MDFML002067-2C	PDT002598260.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0377	NCBI	NA	GCA_047306945.1	Cronobacter malonaticus	25MDFML002061-3A	PDT002598265.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0378	NCBI	NA	GCA_047323145.1	Cronobacter malonaticus	25MDFML002068-3D	PDT002598257.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0379	NCBI	NA	GCA_047337945.1	Cronobacter malonaticus	FSL-B11-0033	PDT002600716.1	USA	North America		Dish Towel	2024	Environmental Samples
+ND_NC0384	NCBI	NA	GCF_000878475.1	Cronobacter malonaticus	ENBT0334	CFSAN001453_01.0	Unknown	Unknown		blood	Unknown	Clinical and Medical Samples
+ND_NC0385	NCBI	NA	GCF_001277215.2	Cronobacter malonaticus	LMG 23826	ASM127721v2	USA	North America		breast abscess	2007	Clinical and Medical Samples
+ND_NC0386	NCBI	NA	GCF_000409305.1	Cronobacter malonaticus	LMG 23826	Cmal825 final contigs	USA	North America		breast abscess	Unknown	Clinical and Medical Samples
+ND_NC0387	NCBI	NA	GCF_041222875.1	Cronobacter malonaticus	LMG 23826	ASM4122287v1	USA	North America		breast abscess	1977	Clinical and Medical Samples
+ND_NC0388	NCBI	NA	GCF_001922855.1	Cronobacter muytjensii	MOD1-Md1s	ASM192285v1	USA	North America		fly surface	2012	Animal and Biological Sources
+ND_NC0389	NCBI	NA	GCF_008805515.1	Cronobacter muytjensii	MOD1_GK1257	ASM880551v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2014	Environmental Samples
+ND_NC0392	NCBI	NA	GCF_013363965.1	Cronobacter muytjensii	Cr150	ASM1336396v1	Israel	Asia		powdered infant formula	2007	Food and Food Ingredients
+ND_NC0393	NCBI	NA	GCF_015353315.1	Cronobacter muytjensii	MOD1_GK1258	ASM1535331v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0394	NCBI	NA	GCF_030012015.1	Cronobacter muytjensii	MOD1-E888	ASM3001201v1	Denmark	Europe		Food,Milk Powder	Unknown	Food and Food Ingredients
+ND_NC0395	NCBI	NA	GCF_035796135.1	Cronobacter muytjensii	F18	ASM3579613v1	China	Asia		food	2022	Food and Food Ingredients
+ND_NC0396	NCBI	NA	GCF_040983965.1	Cronobacter muytjensii	K1	ASM4098396v1	India	Asia		Biomedical waste site	2022	Environmental Samples
+ND_NC0397	NCBI	NA	GCA_016076515.1	Cronobacter muytjensii	MOD1_3523-75	PDT000337050.1	USA	North America		bone marrow	1975	Clinical and Medical Samples
+ND_NC0398	NCBI	NA	GCA_029616845.1	Cronobacter muytjensii	CFSAN129928	PDT001681799.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0399	NCBI	NA	GCA_033896145.1	Cronobacter muytjensii	CFSAN135173	PDT001995404.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC0400	NCBI	NA	GCA_033942255.1	Cronobacter muytjensii	CFSAN135129	PDT001996872.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC0401	NCBI	NA	GCA_033944725.1	Cronobacter muytjensii	CFSAN134918	PDT001996064.1	USA	North America		refrigerator	2023	Environmental Samples
+ND_NC0402	NCBI	NA	GCA_033945125.1	Cronobacter muytjensii	CFSAN134935	PDT001996044.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0403	NCBI	NA	GCA_033945465.1	Cronobacter muytjensii	CFSAN135016	PDT001996020.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC0404	NCBI	NA	GCA_033962455.1	Cronobacter muytjensii	CFSAN134959	PDT002008005.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC0405	NCBI	NA	GCA_033962795.1	Cronobacter muytjensii	CFSAN134923	PDT002007978.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0406	NCBI	NA	GCA_033963425.1	Cronobacter muytjensii	CFSAN134922	PDT002007976.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0407	NCBI	NA	GCA_044732125.1	Cronobacter muytjensii	1011-02	PDT002164427.1	Unknown	Unknown		Powdered Infant Formula	2007	Food and Food Ingredients
+ND_NC0408	NCBI	NA	GCA_044733985.1	Cronobacter muytjensii	CFSAN136250	PDT002107401.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0409	NCBI	NA	GCA_047338245.1	Cronobacter muytjensii	FSL-B11-0052	PDT002600696.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC0410	NCBI	NA	GCF_001277195.1	Cronobacter muytjensii	ATCC 51329	ASM127719v1	Unknown	Unknown		missing	1980	Unknown and Unclassified Sources
+ND_NC0411	NCBI	NA	GCF_000409285.1	Cronobacter muytjensii	ATCC 51329	Cmuy final contigs	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_NC2716	NCBI	NA	GCF_041222865.1	Cronobacter turicensis	LMG23827	ASM4122286v1	Switzerland	Europe		blood	2005	Clinical and Medical Samples
+ND_NC2717	NCBI	NA	GCF_001922905.1	Cronobacter turicensis	MOD1-Sh41s	ASM192290v1	USA	North America		insect surface	2012	Animal and Biological Sources
+ND_NC2718	NCBI	NA	GCF_001999505.1	Cronobacter turicensis	MOD1-Sh41g	ASM199950v1	USA	North America		alimentary canal	2012	Clinical and Medical Samples
+ND_NC2719	NCBI	NA	GCF_002421105.1	Cronobacter turicensis		ASM242110v1	USA	North America		wood	Unknown	Animal and Biological Sources
+ND_NC2720	NCBI	NA	GCF_002976535.1	Cronobacter turicensis	cro863W1	ASM297653v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC2721	NCBI	NA	GCF_002976545.1	Cronobacter turicensis	cro3064B1	ASM297654v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC2722	NCBI	NA	GCF_002976555.1	Cronobacter turicensis	cro2991W	ASM297655v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC2723	NCBI	NA	GCF_007845795.1	Cronobacter turicensis	MOD1_Md1sN	ASM784579v1	USA	North America		fly surface	2012	Animal and Biological Sources
+ND_NC2724	NCBI	NA	GCF_009938345.1	Cronobacter turicensis	SD21	ASM993834v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC2726	NCBI	NA	GCF_011605535.1	Cronobacter turicensis	HA18060	ASM1160553v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2727	NCBI	NA	GCF_011605625.1	Cronobacter turicensis	HA18016	ASM1160562v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2728	NCBI	NA	GCF_011605685.1	Cronobacter turicensis	HA18072	ASM1160568v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2729	NCBI	NA	GCF_013363985.1	Cronobacter turicensis	Cr170	ASM1336398v1	Israel	Asia		powdered infant formula	2007	Food and Food Ingredients
+ND_NC2730	NCBI	NA	GCF_030012035.1	Cronobacter turicensis	MOD1-E694	ASM3001203v1	Ireland	Europe		food	Unknown	Food and Food Ingredients
+ND_NC2731	NCBI	NA	GCF_030012055.1	Cronobacter turicensis	MOD1-E626	ASM3001205v1	Ireland	Europe		Food,Infant food	Unknown	Food and Food Ingredients
+ND_NC2732	NCBI	NA	GCF_030012105.1	Cronobacter turicensis	MOD1-E866	ASM3001210v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC2733	NCBI	NA	GCF_030012185.1	Cronobacter turicensis	MOD1-E933	ASM3001218v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC2734	NCBI	NA	GCF_030025495.1	Cronobacter turicensis	MOD1-3-24	ASM3002549v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC2735	NCBI	NA	GCF_030025545.1	Cronobacter turicensis	MOD1-2-15	ASM3002554v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC2736	NCBI	NA	GCF_030025585.1	Cronobacter turicensis	MOD1-5-15G	ASM3002558v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC2737	NCBI	NA	GCF_030026565.1	Cronobacter turicensis	MOD1-E752	ASM3002656v1	Ireland	Europe		milk powder	Unknown	Food and Food Ingredients
+ND_NC2738	NCBI	NA	GCF_030126305.1	Cronobacter turicensis	MOD1-CR1503	ASM3012630v1	Czech Republic	Europe		strawberry	Unknown	Food and Food Ingredients
+ND_NC2739	NCBI	NA	GCF_030126325.1	Cronobacter turicensis	MOD1-CR1516	ASM3012632v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC2740	NCBI	NA	GCF_030126465.1	Cronobacter turicensis	MOD1-CR316	ASM3012646v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC2741	NCBI	NA	GCF_030126485.1	Cronobacter turicensis	MOD1-CR318	ASM3012648v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC2742	NCBI	NA	GCF_030126525.1	Cronobacter turicensis	MOD1-CR342	ASM3012652v1	Czech Republic	Europe		Lettuce	Unknown	Food and Food Ingredients
+ND_NC2743	NCBI	NA	GCF_030126545.1	Cronobacter turicensis	MOD1-CR268	ASM3012654v1	Czech Republic	Europe		Well Water	Unknown	Environmental Samples
+ND_NC2744	NCBI	NA	GCF_030126565.1	Cronobacter turicensis	MOD1-CR447	ASM3012656v1	Czech Republic	Europe		carrot	Unknown	Food and Food Ingredients
+ND_NC2745	NCBI	NA	GCF_030126595.1	Cronobacter turicensis	MOD1-CR505	ASM3012659v1	Czech Republic	Europe		carrot	Unknown	Food and Food Ingredients
+ND_NC2747	NCBI	NA	GCF_032099685.1	Cronobacter turicensis		ASM3209968v1	USA	North America		urban	2013	Environmental Samples
+ND_NC2750	NCBI	NA	GCA_016077285.2	Cronobacter turicensis	MOD1_E621	PDT000332646.2	Czech Republic	Europe		clinical	Unknown	Clinical and Medical Samples
+ND_NC2751	NCBI	NA	GCA_016086315.1	Cronobacter turicensis	CFSAN022293	PDT000148458.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC2752	NCBI	NA	GCA_016086895.1	Cronobacter turicensis	CFSAN022292	PDT000148481.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC2753	NCBI	NA	GCA_028106955.1	Cronobacter turicensis		PDT001586134.1	Austria	Europe		feces	2020	Clinical and Medical Samples
+ND_NC2754	NCBI	NA	GCA_028110265.1	Cronobacter turicensis		PDT001586135.1	Austria	Europe		feces	2020	Clinical and Medical Samples
+ND_NC2755	NCBI	NA	GCA_028573575.1	Cronobacter turicensis	CFSAN129025	PDT001611301.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2756	NCBI	NA	GCA_028573635.1	Cronobacter turicensis	CFSAN129390	PDT001611299.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2757	NCBI	NA	GCA_028573645.1	Cronobacter turicensis	CFSAN129395	PDT001611302.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2758	NCBI	NA	GCA_028573735.1	Cronobacter turicensis	CFSAN129387	PDT001611297.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2759	NCBI	NA	GCA_028574075.1	Cronobacter turicensis	CFSAN129391	PDT001611298.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2760	NCBI	NA	GCA_028574095.1	Cronobacter turicensis	CFSAN129399	PDT001611300.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2761	NCBI	NA	GCA_028574975.1	Cronobacter turicensis	CFSAN129040	PDT001611296.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2763	NCBI	NA	GCA_028636965.1	Cronobacter turicensis	CFSAN129047	PDT001615179.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2764	NCBI	NA	GCA_030126125.1	Cronobacter turicensis	MOD1-CQ4	ASM3012612v1	Ireland	Europe		powdered infant formula production environment	Unknown	Environmental Samples
+ND_NC2765	NCBI	NA	GCA_030721045.1	Cronobacter turicensis	FDA1213745-S071-006	PDT001794522.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2766	NCBI	NA	GCA_030735955.1	Cronobacter turicensis	CFSAN133222	PDT001851092.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2767	NCBI	NA	GCA_030736235.1	Cronobacter turicensis	CFSAN133244	PDT001851039.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2768	NCBI	NA	GCA_030736255.1	Cronobacter turicensis	CFSAN133262	PDT001851065.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2769	NCBI	NA	GCA_030736275.1	Cronobacter turicensis	CFSAN133264	PDT001851038.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2770	NCBI	NA	GCA_030736375.1	Cronobacter turicensis	CFSAN133247	PDT001851028.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2771	NCBI	NA	GCA_030736475.1	Cronobacter turicensis	CFSAN133243	PDT001851020.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2775	NCBI	NA	GCA_032855065.1	Cronobacter turicensis	CFSAN133834	PDT001946749.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2776	NCBI	NA	GCA_032855145.1	Cronobacter turicensis	CFSAN133861	PDT001946744.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2777	NCBI	NA	GCA_032855205.1	Cronobacter turicensis	CFSAN133831	PDT001946741.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2778	NCBI	NA	GCA_032855305.1	Cronobacter turicensis	CFSAN133854	PDT001946735.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2779	NCBI	NA	GCA_032855525.1	Cronobacter turicensis	CFSAN133863	PDT001946723.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2780	NCBI	NA	GCA_032855585.1	Cronobacter turicensis	CFSAN133857	PDT001946720.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2781	NCBI	NA	GCA_032855885.1	Cronobacter turicensis	CFSAN133840	PDT001946682.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2782	NCBI	NA	GCA_032856025.1	Cronobacter turicensis	CFSAN133838	PDT001946674.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2783	NCBI	NA	GCA_032856105.1	Cronobacter turicensis	CFSAN133881	PDT001946670.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2784	NCBI	NA	GCA_032856125.1	Cronobacter turicensis	CFSAN133879	PDT001946669.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2785	NCBI	NA	GCA_032856165.1	Cronobacter turicensis	CFSAN133837	PDT001946666.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2786	NCBI	NA	GCA_032856185.1	Cronobacter turicensis	CFSAN133835	PDT001946667.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2787	NCBI	NA	GCA_032856225.1	Cronobacter turicensis	CFSAN133880	PDT001946664.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2788	NCBI	NA	GCA_032856265.1	Cronobacter turicensis	CFSAN133836	PDT001946650.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2790	NCBI	NA	GCA_033445385.2	Cronobacter turicensis	FDA1219480-S107-009	PDT001974189.2	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2791	NCBI	NA	GCA_033445405.1	Cronobacter turicensis	FDA1219480-S107-001	PDT001974184.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2792	NCBI	NA	GCA_033445425.2	Cronobacter turicensis	FDA1219480-S107-003	PDT001974187.2	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2794	NCBI	NA	GCA_033897285.1	Cronobacter turicensis	CFSAN134980	PDT001995443.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2795	NCBI	NA	GCA_033897385.1	Cronobacter turicensis	CFSAN135187	PDT001995427.1	USA	North America		grain	2023	Food and Food Ingredients
+ND_NC2796	NCBI	NA	GCA_033940225.1	Cronobacter turicensis	CFSAN134947	PDT001996977.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2797	NCBI	NA	GCA_033940265.1	Cronobacter turicensis	CFSAN134942	PDT001996975.1	USA	North America		footwear	2023	Environmental Samples
+ND_NC2798	NCBI	NA	GCA_033940465.1	Cronobacter turicensis	CFSAN134893	PDT001996964.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2799	NCBI	NA	GCA_033940565.1	Cronobacter turicensis	CFSAN134946	PDT001996959.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2800	NCBI	NA	GCA_033941545.1	Cronobacter turicensis	CFSAN135188	PDT001996911.1	USA	North America		nuts nut butter	2023	Food and Food Ingredients
+ND_NC2801	NCBI	NA	GCA_033942605.1	Cronobacter turicensis	CFSAN134901	PDT001996855.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2802	NCBI	NA	GCA_033943045.1	Cronobacter turicensis	CFSAN134899	PDT001996188.1	USA	North America		footwear	2023	Environmental Samples
+ND_NC2803	NCBI	NA	GCA_033943085.1	Cronobacter turicensis	CFSAN134905	PDT001996187.1	USA	North America		kitchen floor	2023	Environmental Samples
+ND_NC2804	NCBI	NA	GCA_033943265.1	Cronobacter turicensis	CFSAN134900	PDT001996178.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2805	NCBI	NA	GCA_033943745.1	Cronobacter turicensis	CFSAN134968	PDT001996135.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2806	NCBI	NA	GCA_033943825.1	Cronobacter turicensis	CFSAN134969	PDT001996131.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2807	NCBI	NA	GCA_033943985.1	Cronobacter turicensis	CFSAN134898	PDT001996124.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2808	NCBI	NA	GCA_033944045.1	Cronobacter turicensis	CFSAN134904	PDT001996119.1	USA	North America		footwear	2023	Environmental Samples
+ND_NC2809	NCBI	NA	GCA_033944585.1	Cronobacter turicensis	CFSAN135072	PDT001996070.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC2810	NCBI	NA	GCA_033944705.1	Cronobacter turicensis	CFSAN135014	PDT001996065.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2811	NCBI	NA	GCA_033944905.1	Cronobacter turicensis	CFSAN134830	PDT001996055.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC2812	NCBI	NA	GCA_033945025.1	Cronobacter turicensis	CFSAN134881	PDT001996049.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC2813	NCBI	NA	GCA_033945445.1	Cronobacter turicensis	CFSAN135017	PDT001996021.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2814	NCBI	NA	GCA_033946715.1	Cronobacter turicensis	CFSAN134917	PDT001995946.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2815	NCBI	NA	GCA_033947285.1	Cronobacter turicensis	CFSAN135163	PDT001995848.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC2816	NCBI	NA	GCA_033960405.1	Cronobacter turicensis	CFSAN135013	PDT002008130.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2817	NCBI	NA	GCA_033960445.1	Cronobacter turicensis	CFSAN135206	PDT002008119.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2818	NCBI	NA	GCA_033960585.1	Cronobacter turicensis	CFSAN134926	PDT002008110.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2819	NCBI	NA	GCA_033960745.1	Cronobacter turicensis	CFSAN134883	PDT002008101.1	USA	North America		hospital nursing home emp sponge	2023	Environmental Samples
+ND_NC2820	NCBI	NA	GCA_033961185.1	Cronobacter turicensis	CFSAN135229	PDT002008078.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2821	NCBI	NA	GCA_033961245.1	Cronobacter turicensis	CFSAN135227	PDT002008076.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2822	NCBI	NA	GCA_033961305.1	Cronobacter turicensis	CFSAN135225	PDT002008072.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2823	NCBI	NA	GCA_033962755.1	Cronobacter turicensis	CFSAN134957	PDT002007994.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2824	NCBI	NA	GCA_033963025.1	Cronobacter turicensis	CFSAN134976	PDT002007968.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2825	NCBI	NA	GCA_033963365.1	Cronobacter turicensis	CFSAN134921	PDT002007981.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2826	NCBI	NA	GCA_033972165.1	Cronobacter turicensis	CFSAN135222	PDT002008557.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2827	NCBI	NA	GCA_033972525.1	Cronobacter turicensis	CFSAN135201	PDT002008538.1	USA	North America		spice seasoning	2023	Food and Food Ingredients
+ND_NC2828	NCBI	NA	GCA_033972905.1	Cronobacter turicensis	CFSAN135218	PDT002008520.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2829	NCBI	NA	GCA_034328345.1	Cronobacter turicensis	CFSAN135134	PDT002026019.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC2830	NCBI	NA	GCA_034408625.1	Cronobacter turicensis	CFSAN135232	PDT002008074.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2831	NCBI	NA	GCA_035867865.1	Cronobacter turicensis	1011-06	PDT002054857.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC2832	NCBI	NA	GCA_044703065.1	Cronobacter turicensis	CFSAN139905	PDT002451690.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2833	NCBI	NA	GCA_044703125.1	Cronobacter turicensis	CFSAN139900	PDT002451655.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2834	NCBI	NA	GCA_044703265.1	Cronobacter turicensis	CFSAN139868	PDT002448216.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2835	NCBI	NA	GCA_044703285.1	Cronobacter turicensis	CFSAN139909	PDT002451638.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2836	NCBI	NA	GCA_044703305.1	Cronobacter turicensis	CFSAN139872	PDT002448210.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2837	NCBI	NA	GCA_044703325.1	Cronobacter turicensis	CFSAN139867	PDT002448211.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2838	NCBI	NA	GCA_044703345.1	Cronobacter turicensis	CFSAN139874	PDT002448212.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2839	NCBI	NA	GCA_044709855.1	Cronobacter turicensis	CFSAN139824	PDT002422917.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2840	NCBI	NA	GCA_044710435.1	Cronobacter turicensis	CFSAN138923	PDT002388185.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2841	NCBI	NA	GCA_044710535.1	Cronobacter turicensis	CFSAN138926	PDT002388174.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2842	NCBI	NA	GCA_044710715.1	Cronobacter turicensis	CFSAN138918	PDT002388148.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2843	NCBI	NA	GCA_044711075.1	Cronobacter turicensis	CFSAN138554	PDT002341942.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2844	NCBI	NA	GCA_044711195.1	Cronobacter turicensis	CFSAN138198	PDT002304935.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2845	NCBI	NA	GCA_044711615.1	Cronobacter turicensis	CFSAN137613	PDT002213428.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2846	NCBI	NA	GCA_044734025.1	Cronobacter turicensis	CFSAN130610	PDT002115947.1	USA	North America		environmental swab	2021	Environmental Samples
+ND_NC2847	NCBI	NA	GCA_044734105.1	Cronobacter turicensis	CFSAN130609	PDT002115985.1	USA	North America		environmental swab	2021	Environmental Samples
+ND_NC2848	NCBI	NA	GCA_044734145.1	Cronobacter turicensis	CFSAN130611	PDT002115956.1	USA	North America		environmental swab	2021	Environmental Samples
+ND_NC2849	NCBI	NA	GCA_044734245.1	Cronobacter turicensis	CFSAN136249	PDT002107397.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2850	NCBI	NA	GCA_044734285.1	Cronobacter turicensis	CFSAN136237	PDT002107390.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2851	NCBI	NA	GCA_044734315.1	Cronobacter turicensis	CFSAN136243	PDT002107392.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2852	NCBI	NA	GCA_044734385.1	Cronobacter turicensis	CFSAN136264	PDT002107382.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2853	NCBI	NA	GCA_044734405.1	Cronobacter turicensis	CFSAN136261	PDT002107380.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2854	NCBI	NA	GCA_044734425.1	Cronobacter turicensis	CFSAN136242	PDT002107375.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2855	NCBI	NA	GCA_044735005.1	Cronobacter turicensis	CFSAN135955	PDT002071108.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2856	NCBI	NA	GCA_044735325.1	Cronobacter turicensis	CFSAN135977	PDT002071091.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2857	NCBI	NA	GCA_044735345.1	Cronobacter turicensis	CFSAN135973	PDT002071089.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2858	NCBI	NA	GCA_044735645.1	Cronobacter turicensis	CFSAN135978	PDT002071075.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2859	NCBI	NA	GCA_044735905.1	Cronobacter turicensis	CFSAN135942	PDT002071063.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2860	NCBI	NA	GCA_044862825.1	Cronobacter turicensis	CFSAN140051	PDT002464701.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2861	NCBI	NA	GCA_044863045.1	Cronobacter turicensis	CFSAN140050	PDT002464686.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2862	NCBI	NA	GCA_044863085.1	Cronobacter turicensis	CFSAN140049	PDT002464683.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2863	NCBI	NA	GCA_045792455.1	Cronobacter turicensis	CFSAN140333	PDT002514955.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2864	NCBI	NA	GCA_045792555.1	Cronobacter turicensis	CFSAN140331	PDT002514947.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2865	NCBI	NA	GCA_045974365.1	Cronobacter turicensis	CFSAN140819	PDT002527330.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2866	NCBI	NA	GCA_046446725.1	Cronobacter turicensis	CFSAN140840	PDT002553099.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2867	NCBI	NA	GCA_046446785.1	Cronobacter turicensis	CFSAN140838	PDT002553081.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2868	NCBI	NA	GCA_046446805.1	Cronobacter turicensis	CFSAN140839	PDT002553096.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2869	NCBI	NA	GCA_046446885.1	Cronobacter turicensis	CFSAN140851	PDT002553089.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2870	NCBI	NA	GCA_046447245.1	Cronobacter turicensis	CFSAN140850	PDT002553082.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2871	NCBI	NA	GCA_046447425.1	Cronobacter turicensis	CFSAN140835	PDT002553085.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2872	NCBI	NA	GCA_047337665.1	Cronobacter turicensis	FSL-B11-0019	PDT002600731.1	USA	North America		Footwear Sole	2024	Environmental Samples
+ND_NC2873	NCBI	NA	GCA_047337705.1	Cronobacter turicensis	FSL-B11-0023	PDT002600727.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC2874	NCBI	NA	GCA_047337725.1	Cronobacter turicensis	FSL-B11-0025	PDT002600725.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC2875	NCBI	NA	GCA_047337765.1	Cronobacter turicensis	FSL-B11-0027	PDT002600723.1	USA	North America		Kitchen Floor	2024	Environmental Samples
+ND_NC2876	NCBI	NA	GCA_047337885.1	Cronobacter turicensis	FSL-B11-0001	PDT002600740.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2877	NCBI	NA	GCA_047337925.1	Cronobacter turicensis	FSL-B11-0003	PDT002600728.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2878	NCBI	NA	GCA_047338005.1	Cronobacter turicensis	FSL-B11-0037	PDT002600712.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2879	NCBI	NA	GCA_047338025.1	Cronobacter turicensis	FSL-B11-0034	PDT002600715.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2880	NCBI	NA	GCA_047338145.1	Cronobacter turicensis	FSL-B11-0048	PDT002600700.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2881	NCBI	NA	GCA_047338285.1	Cronobacter turicensis	FSL-B11-0060	PDT002600688.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2882	NCBI	NA	GCA_047338345.1	Cronobacter turicensis	FSL-B11-0007	PDT002600687.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC2884	NCBI	NA	GCF_000027065.2	Cronobacter turicensis		ASM2706v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_NC2885	NCBI	NA	GCF_030026745.1	Cronobacter universalis	MOD1-CQ7	ASM3002674v1	Ireland	Europe		PIF environment	Unknown	Environmental Samples
+ND_NC2886	NCBI	NA	GCF_041222855.1	Cronobacter universalis	LMG26249	ASM4122285v1	United Kingdom	Europe		water	1980	Food and Food Ingredients
+ND_NC2887	NCBI	NA	GCA_033940045.1	Cronobacter universalis	CFSAN135011	PDT001996985.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2888	NCBI	NA	GCA_033941205.1	Cronobacter universalis	CFSAN134941	PDT001996925.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC2889	NCBI	NA	GCA_033962495.1	Cronobacter universalis	CFSAN134960	PDT002008010.1	USA	North America		kitchen sponge	2023	Environmental Samples
+ND_NC2890	NCBI	NA	GCA_033972325.1	Cronobacter universalis	CFSAN135200	PDT002008546.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC2891	NCBI	NA	GCF_001277175.1	Cronobacter universalis	NCTC 9529	ASM127717v1	United Kingdom	Europe		freshwater	1980	Food and Food Ingredients
+ND_NC2892	NCBI	NA	GCF_000319325.1	Cronobacter universalis	NCTC 9529	ASM31932v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_NC2893	NCBI	NA	GCF_000409325.1	Cronobacter universalis	NCTC 9529	Cuni9529 final contigs	United Kingdom	Europe		water	Unknown	Food and Food Ingredients
+ND_NC2894	NCBI	NA	GCF_900447325.1	Cronobacter universalis	NCTC 9529	37419_E02	Unknown	Unknown		freshwater	1954	Food and Food Ingredients
+ND_PM0007	PubMLST	71		Cronobacter malonaticus	565	CDC 1895-73	USA	North America		Clinical	1973	Clinical and Medical Samples
+ND_PM0009	PubMLST	75		Cronobacter malonaticus	512		Czech Republic	Europe		Clinical	1983	Clinical and Medical Samples
+ND_PM0010	PubMLST	76		Cronobacter malonaticus	514		Czech Republic	Europe		Clinical	1983	Clinical and Medical Samples
+ND_PM0012	PubMLST	84	GCA_001277175.1	Cronobacter universalis	581	NCTC9529T	United Kingdom	Europe		Water	1956	Food and Food Ingredients
+ND_PM0013	PubMLST	110	GCA_000027065.2	Cronobacter turicensis	1211	LMG23827T DSM18703T	Switzerland	Europe		Clinical	2005	Clinical and Medical Samples
+ND_PM0017	PubMLST	124		Cronobacter muytjensii	378		Unknown	Unknown		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0018	PubMLST	126		Cronobacter muytjensii	16		Unknown	Unknown		Spice	2005	Food and Food Ingredients
+ND_PM0019	PubMLST	129		Cronobacter malonaticus	15		Czech Republic	Europe		Clinical	2003	Clinical and Medical Samples
+ND_PM0020	PubMLST	133		Cronobacter malonaticus	101		Unknown	Unknown		Spice	2005	Food and Food Ingredients
+ND_PM0022	PubMLST	144		Cronobacter malonaticus	22		France	Europe		Infant formula	Unknown	Food and Food Ingredients
+ND_PM0023	PubMLST	145		Cronobacter malonaticus	472		South Korea	Asia		Infant formula	2005	Food and Food Ingredients
+ND_PM0024	PubMLST	146	GCA_001277235.1	Cronobacter dublinensis	1210	LMG23823T DSM18705T DES187 CFS237	Ireland	Europe		Environmental	2004	Environmental Samples
+ND_PM0026	PubMLST	148		Cronobacter dublinensis	84		China	Asia		Herb	2004	Food and Food Ingredients
+ND_PM0027	PubMLST	151		Cronobacter dublinensis	1132	C dub dub	South Korea	Asia		Follow up formula	2008	Food and Food Ingredients
+ND_PM0028	PubMLST	152		Cronobacter dublinensis	1133	C dub dub	South Korea	Asia		Follow up formula	2008	Food and Food Ingredients
+ND_PM0029	PubMLST	153		Cronobacter dublinensis	1129		South Korea	Asia		Follow up formula	2008	Food and Food Ingredients
+ND_PM0031	PubMLST	156		Cronobacter universalis	96		United Kingdom	Europe		Spice	2004	Food and Food Ingredients
+ND_PM0032	PubMLST	176		Cronobacter malonaticus	689		Czech Republic	Europe		Clinical	2005	Clinical and Medical Samples
+ND_PM0033	PubMLST	177		Cronobacter malonaticus	688		Czech Republic	Europe		Clinical	2004	Clinical and Medical Samples
+ND_PM0034	PubMLST	185		Cronobacter malonaticus	1369		United Kingdom	Europe		Herb	2010	Food and Food Ingredients
+ND_PM0036	PubMLST	187		Cronobacter muytjensii	1371		Unknown	Unknown		Spice	2010	Food and Food Ingredients
+ND_PM0037	PubMLST	192		Cronobacter dublinensis	1463		South Korea	Asia		Food	2011	Food and Food Ingredients
+ND_PM0038	PubMLST	193		Cronobacter dublinensis	1458		South Korea	Asia		Food	2011	Food and Food Ingredients
+ND_PM0039	PubMLST	194		Cronobacter dublinensis	1460		South Korea	Asia		Food	2011	Food and Food Ingredients
+ND_PM0040	PubMLST	196		Cronobacter dublinensis	1461		South Korea	Asia		Food	2011	Food and Food Ingredients
+ND_PM0041	PubMLST	197		Cronobacter dublinensis	1462		South Korea	Asia		Food	2011	Food and Food Ingredients
+ND_PM0042	PubMLST	200		Cronobacter muytjensii	1527		Slovakia	Europe		Food	2010	Food and Food Ingredients
+ND_PM0043	PubMLST	213		Cronobacter malonaticus	1546	6831; CNCTC Eb3/83; EB2	Czech Republic	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0044	PubMLST	266		Cronobacter malonaticus	1514		Australia	Oceania		Environmental	2007	Environmental Samples
+ND_PM0046	PubMLST	316		Cronobacter malonaticus	893		Brazil	South America		Infant formula	2007	Food and Food Ingredients
+ND_PM0048	PubMLST	385		Cronobacter malonaticus	1834		Czech Republic	Europe		Clinical	2010	Clinical and Medical Samples
+ND_PM0050	PubMLST	399		Cronobacter malonaticus	1827		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0051	PubMLST	400		Cronobacter malonaticus	1828		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0052	PubMLST	402		Cronobacter malonaticus	1830		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0053	PubMLST	405		Cronobacter malonaticus	1833		Czech Republic	Europe		Clinical	2010	Clinical and Medical Samples
+ND_PM0054	PubMLST	406		Cronobacter malonaticus	1835		Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0056	PubMLST	408		Cronobacter universalis	1883		Czech Republic	Europe		Spice	Unknown	Food and Food Ingredients
+ND_PM0057	PubMLST	415		Cronobacter malonaticus	1914		Slovakia	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0058	PubMLST	418		Cronobacter malonaticus	1917		Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0069	PubMLST	434		Cronobacter malonaticus	1893		Czech Republic	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0070	PubMLST	435		Cronobacter turicensis	1895		Czech Republic	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0072	PubMLST	442		Cronobacter muytjensii	1877		Czech Republic	Europe		Herb	2011	Food and Food Ingredients
+ND_PM0073	PubMLST	443		Cronobacter dublinensis	1897		Czech Republic	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0080	PubMLST	590		Cronobacter malonaticus	LMG23826		USA	North America		Clinical	1977	Clinical and Medical Samples
+ND_PM0085	PubMLST	595		Cronobacter dublinensis	LMG 23823	CFS237 DES187 DSM18705	Ireland	Europe		Environmental	2004	Environmental Samples
+ND_PM0086	PubMLST	596		Cronobacter dublinensis	LMG 23824	E515 DSM18706	Switzerland	Europe		Water	2004	Food and Food Ingredients
+ND_PM0087	PubMLST	597		Cronobacter dublinensis	LMG 23825	E464 JF3735 DSM18707	Zimbabwe	Africa		Environmental	2003	Environmental Samples
+ND_PM0088	PubMLST	598	GCA_001277195.1	Cronobacter muytjensii	ATCC 51329	CIP103581	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0089	PubMLST	599		Cronobacter universalis	NCTC9529T		United Kingdom	Europe		Water	1956	Food and Food Ingredients
+ND_PM0093	PubMLST	619		Cronobacter malonaticus	2018		Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM0094	PubMLST	620		Cronobacter malonaticus	2020		Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM0121	PubMLST	935		Cronobacter muytjensii	2059	05 CHPL 63	France	Europe		Food	Unknown	Food and Food Ingredients
+ND_PM0151	PubMLST	1125		Cronobacter turicensis	92		United Kingdom	Europe		Herb	2004	Food and Food Ingredients
+ND_PM0154	PubMLST	1129		Cronobacter malonaticus	510		Czech Republic	Europe		Food	1985	Food and Food Ingredients
+ND_PM0156	PubMLST	1131		Cronobacter dublinensis	583	NCTC 9846	United Kingdom	Europe		Environmental	1956	Environmental Samples
+ND_PM0157	PubMLST	1132		Cronobacter malonaticus	685	CDC 1716-77	USA	North America		Clinical	1977	Clinical and Medical Samples
+ND_PM0158	PubMLST	1133		Cronobacter malonaticus	687		Czech Republic	Europe		Clinical	2004	Clinical and Medical Samples
+ND_PM0195	PubMLST	1170		Cronobacter malonaticus	1545	6830; CNCTC Eb2/81; EB1	Czech Republic	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0196	PubMLST	1171		Cronobacter turicensis	1553		Slovakia	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0197	PubMLST	1172		Cronobacter turicensis	1554		Slovakia	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0198	PubMLST	1173		Cronobacter dublinensis	1556	CDC 1565-79	USA	North America		Clinical	1979	Clinical and Medical Samples
+ND_PM0199	PubMLST	1174		Cronobacter malonaticus	1558	CNCTC 6830 Eb2/81	Czech Republic	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0200	PubMLST	1175		Cronobacter dublinensis	1560	DBM 3154; Eb-12	Czech Republic	Europe		Food	Unknown	Food and Food Ingredients
+ND_PM0201	PubMLST	1176		Cronobacter malonaticus	1569	2193-01	USA	North America		Clinical	2011	Clinical and Medical Samples
+ND_PM0202	PubMLST	1177		Cronobacter malonaticus	1846		Czech Republic	Europe		Food ingredient	2010	Food and Food Ingredients
+ND_PM0203	PubMLST	1178		Cronobacter turicensis	1880		Czech Republic	Europe		Herb	2011	Food and Food Ingredients
+ND_PM0209	PubMLST	1184		Cronobacter dublinensis	2030	05 CHPL 02, CDC 28-83	France	Europe			Unknown	Unknown and Unclassified Sources
+ND_PM0210	PubMLST	1185		Cronobacter malonaticus	2045	05 CHPL 46	France	Europe		Environmental	Unknown	Environmental Samples
+ND_PM0211	PubMLST	1186		Cronobacter malonaticus	2046	05 CHPL 47	France	Europe		Environmental	Unknown	Environmental Samples
+ND_PM0215	PubMLST	1190		Cronobacter malonaticus	2109		Canada	North America		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0216	PubMLST	1313		Cronobacter malonaticus	ENBT0334	CFSAN001453; NTU1569	USA	North America		Clinical	2011	Clinical and Medical Samples
+ND_PM0226	PubMLST	1323		Cronobacter dublinensis	CFSAN022300		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0229	PubMLST	1326		Cronobacter dublinensis	CFSAN022297		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0233	PubMLST	1330		Cronobacter dublinensis	CFSAN022294		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0234	PubMLST	1331		Cronobacter turicensis	CFSAN022292		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0236	PubMLST	1333		Cronobacter dublinensis	CFSAN022305		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0237	PubMLST	1334		Cronobacter dublinensis	CFSAN022301		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0238	PubMLST	1335		Cronobacter dublinensis	CFSAN022295		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0244	PubMLST	1341		Cronobacter dublinensis	CFSAN022308		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0245	PubMLST	1342		Cronobacter dublinensis	CFSAN022304		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0246	PubMLST	1343		Cronobacter dublinensis	CFSAN022302		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0252	PubMLST	1349		Cronobacter turicensis	CFSAN022293		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0254	PubMLST	1351		Cronobacter dublinensis	CFSAN022309		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0259	PubMLST	1356		Cronobacter dublinensis	CFSAN022306		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0260	PubMLST	1357		Cronobacter dublinensis	CFSAN022307		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0263	PubMLST	1360		Cronobacter dublinensis	CFSAN022303		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0265	PubMLST	1362		Cronobacter dublinensis	CFSAN022296		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0273	PubMLST	1370		Cronobacter turicensis	FDA00007991		USA	North America	IA	Environmental	2014	Environmental Samples
+ND_PM0274	PubMLST	1371		Cronobacter turicensis	FDA00007990		USA	North America	IA	Environmental	2014	Environmental Samples
+ND_PM0279	PubMLST	1477		Cronobacter universalis	PO58	DRR015665	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0281	PubMLST	1479		Cronobacter malonaticus	1826		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0284	PubMLST	1484		Cronobacter malonaticus	523		Czech Republic	Europe		Clinical	1983	Clinical and Medical Samples
+ND_PM0285	PubMLST	1485		Cronobacter malonaticus	535		New Zealand	Oceania		Infant formula	1988	Food and Food Ingredients
+ND_PM0288	PubMLST	1488		Cronobacter malonaticus	Chcon-3		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0289	PubMLST	1489		Cronobacter malonaticus	Chcon-4		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0290	PubMLST	1490		Cronobacter turicensis	Chcon-5		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0291	PubMLST	1491		Cronobacter malonaticus	Chcon-6		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0292	PubMLST	1492		Cronobacter dublinensis	Chcon-7		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0294	PubMLST	1494		Cronobacter malonaticus	Chcon-9	RM1	China	Asia		Clinical	2014	Clinical and Medical Samples
+ND_PM0296	PubMLST	1496		Cronobacter universalis	PO59	DRR015666	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0297	PubMLST	1497		Cronobacter muytjensii	PO60	DRR015698	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0298	PubMLST	1498		Cronobacter muytjensii	PO61	DRR015699	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0299	PubMLST	1499		Cronobacter malonaticus	PO62	DRR015811	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0300	PubMLST	1501		Cronobacter turicensis	PO64	DRR015813	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0302	PubMLST	1503		Cronobacter malonaticus	PO66	DRR015913	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0303	PubMLST	1504		Cronobacter muytjensii	PO67	DRR015914	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0306	PubMLST	1507		Cronobacter universalis	PO70	DRR015986	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0333	PubMLST	1592	GCA_028578005.1	Cronobacter turicensis	SDCR0074	25-3	China	Asia		Spice	2016	Food and Food Ingredients
+ND_PM0336	PubMLST	1679		Cronobacter dublinensis	cro2915W		China	Asia		Vegetable	2015	Food and Food Ingredients
+ND_PM0337	PubMLST	1683		Cronobacter dublinensis	cro3314A1		China	Asia		Herb	2015	Food and Food Ingredients
+ND_PM0338	PubMLST	1684		Cronobacter dublinensis	cro3314A3-1		China	Asia		Herb	2015	Food and Food Ingredients
+ND_PM0339	PubMLST	1686		Cronobacter dublinensis	cro2864A2		China	Asia		Herb	2015	Food and Food Ingredients
+ND_PM0341	PubMLST	1709		Cronobacter dublinensis	XZCRO005		China	Asia	Jiangsu Province	Spice	2015	Food and Food Ingredients
+ND_PM0342	PubMLST	1713		Cronobacter turicensis	XZCRO009		China	Asia	Shanghai	Spice	2015	Food and Food Ingredients
+ND_PM0343	PubMLST	1717		Cronobacter dublinensis	XZCRO013		China	Asia	Jiangsu Province	Spice	2015	Food and Food Ingredients
+ND_PM0344	PubMLST	1721		Cronobacter dublinensis	XZCRO017		China	Asia	Hunan Province	Food	2015	Food and Food Ingredients
+ND_PM0345	PubMLST	1748		Cronobacter dublinensis	XZCRO044		China	Asia	Jiangsu Province	Food ingredient	2015	Food and Food Ingredients
+ND_PM0354	PubMLST	1759		Cronobacter malonaticus	KMB-210		Slovakia	Europe		Clinical	2015	Clinical and Medical Samples
+ND_PM0355	PubMLST	1760		Cronobacter malonaticus	KMB-211		Slovakia	Europe		Clinical	2015	Clinical and Medical Samples
+ND_PM0358	PubMLST	1763		Cronobacter malonaticus	161007/29		Slovakia	Europe		Food	2007	Food and Food Ingredients
+ND_PM0359	PubMLST	1806		Cronobacter malonaticus	cro864B2-3		China	Asia		Herb	Unknown	Food and Food Ingredients
+ND_PM0368	PubMLST	1841		Cronobacter muytjensii	MOD1-Md1s		USA	North America		Insect	2012	Animal and Biological Sources
+ND_PM0369	PubMLST	1842		Cronobacter malonaticus	MOD1-Md25g		USA	North America		Insect	2012	Animal and Biological Sources
+ND_PM0370	PubMLST	1843		Cronobacter malonaticus	MOD1-Md27g		USA	North America		Insect	2012	Animal and Biological Sources
+ND_PM0371	PubMLST	1844		Cronobacter malonaticus	MOD1-Md99g		USA	North America	MD	Insect	2012	Animal and Biological Sources
+ND_PM0372	PubMLST	1845		Cronobacter turicensis	MOD1-Sh41s		USA	North America		Insect	2015	Animal and Biological Sources
+ND_PM0373	PubMLST	1856		Cronobacter dublinensis	cro965W		China	Asia		Vegetable	2012	Food and Food Ingredients
+ND_PM0374	PubMLST	1871		Cronobacter dublinensis	cro914C1		China	Asia		Herb	2012	Food and Food Ingredients
+ND_PM0375	PubMLST	1873		Cronobacter dublinensis	cro1014W		China	Asia		Herb	2012	Food and Food Ingredients
+ND_PM0376	PubMLST	1896		Cronobacter condimenti	s37		Poland	Europe		Vegetable	2017	Food and Food Ingredients
+ND_PM0412	PubMLST	1932		Cronobacter turicensis	MOD1-Sh41g		USA	North America	MD	Insect	2012	Animal and Biological Sources
+ND_PM0481	PubMLST	2001		Cronobacter dublinensis	cro2845B2		China	Asia		Vegetable	2015	Food and Food Ingredients
+ND_PM0482	PubMLST	2004		Cronobacter malonaticus	199G		China	Asia		Infant formula	2007	Food and Food Ingredients
+ND_PM0485	PubMLST	2235		Cronobacter turicensis	UBA5650		Australia	Oceania			Unknown	Unknown and Unclassified Sources
+ND_PM0497	PubMLST	2249		Cronobacter turicensis	PAT-z3032		USA	North America		Food ingredient	Unknown	Food and Food Ingredients
+ND_PM0507	PubMLST	2394		Cronobacter turicensis	KMB-539		Slovakia	Europe		Clinical	2016	Clinical and Medical Samples
+ND_PM0562	PubMLST	2489		Cronobacter malonaticus	cro914W	GCA_002983535	China	Asia		Food	2012	Food and Food Ingredients
+ND_PM0563	PubMLST	2490		Cronobacter dublinensis	cro910B3	GCA_002979175	China	Asia		Food	2012	Food and Food Ingredients
+ND_PM0564	PubMLST	2491		Cronobacter dublinensis	cro1364W	GCA_002979095	China	Asia		Food	2012	Food and Food Ingredients
+ND_PM0566	PubMLST	2493		Cronobacter dublinensis	cro1181W	GCA_002979115	China	Asia		Food	2012	Food and Food Ingredients
+ND_PM0567	PubMLST	2494		Cronobacter dublinensis	cro580A1	GCA_002978995	China	Asia		Food	2012	Food and Food Ingredients
+ND_PM0625	PubMLST	2554		Cronobacter malonaticus	ZV-6636-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0626	PubMLST	2555		Cronobacter malonaticus	ZV-4883-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0627	PubMLST	2556		Cronobacter malonaticus	ZV-3718-16		Slovenia	Europe		Food	2016	Food and Food Ingredients
+ND_PM0628	PubMLST	2557		Cronobacter malonaticus	ZV-4784-11		Slovenia	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0629	PubMLST	2558		Cronobacter malonaticus	ZV-6277-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0630	PubMLST	2559		Cronobacter malonaticus	ZV-3046-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0631	PubMLST	2560		Cronobacter malonaticus	ZV-6324-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0632	PubMLST	2561		Cronobacter malonaticus	ZV-3095-17		Slovenia	Europe		Food ingredient	2017	Food and Food Ingredients
+ND_PM0633	PubMLST	2562		Cronobacter malonaticus	EUCRONI013		Belgium	Europe		Milk powder	2014	Food and Food Ingredients
+ND_PM0634	PubMLST	2563		Cronobacter malonaticus	EUCRONI014		Belgium	Europe		Milk powder	2012	Food and Food Ingredients
+ND_PM0635	PubMLST	2564		Cronobacter turicensis	41672-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0636	PubMLST	2565		Cronobacter turicensis	8305931		Denmark	Europe		Clinical	2008	Clinical and Medical Samples
+ND_PM0637	PubMLST	2566		Cronobacter dublinensis	2432-17		Czech Republic	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0638	PubMLST	2567		Cronobacter malonaticus	02-6344		Slovenia	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0639	PubMLST	2568		Cronobacter malonaticus	07-3931		Slovenia	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0640	PubMLST	2569		Cronobacter malonaticus	104025059959		Denmark	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0641	PubMLST	2570		Cronobacter universalis	805608-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0642	PubMLST	2571		Cronobacter malonaticus	272485		Norway	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0643	PubMLST	2572		Cronobacter malonaticus	356463-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0698	PubMLST	2639		Cronobacter malonaticus	G362		China	Asia			Unknown	Unknown and Unclassified Sources
+ND_PM0699	PubMLST	2640		Cronobacter malonaticus	S1		China	Asia	Nanjing	Clinical	2016	Clinical and Medical Samples
+ND_PM0701	PubMLST	2642		Cronobacter malonaticus	S3		China	Asia	Nanjing	Clinical	2016	Clinical and Medical Samples
+ND_PM0731	PubMLST	2687		Cronobacter malonaticus	C.8		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0741	PubMLST	2697		Cronobacter malonaticus	C.19		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0756	PubMLST	2713		Cronobacter malonaticus	C.35		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0758	PubMLST	2715		Cronobacter malonaticus	C.37		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0761	PubMLST	2718		Cronobacter malonaticus	C.40		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0770	PubMLST	2824		Cronobacter dublinensis	014	Assembled014_Genome	China	Asia		Powdered infant formula	2018	Food and Food Ingredients
+ND_PM0782	PubMLST	2954		Cronobacter dublinensis	BJ09		China	Asia		Food	2007	Food and Food Ingredients
+ND_PM0784	PubMLST	2956		Cronobacter malonaticus	BJ15		China	Asia		Clinical	2013	Clinical and Medical Samples
+ND_PM0790	PubMLST	2962		Cronobacter malonaticus	SC01		China	Asia		Food	2010	Food and Food Ingredients
+ND_PM0794	PubMLST	2966		Cronobacter malonaticus	SD11		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0796	PubMLST	2968		Cronobacter malonaticus	SD26		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0797	PubMLST	2969		Cronobacter malonaticus	SD16		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0802	PubMLST	2974		Cronobacter dublinensis	SD28		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0805	PubMLST	2977	GCA_009938445.1	Cronobacter dublinensis	SD69		China	Asia		Food ingredient	2016	Food and Food Ingredients
+ND_PM0810	PubMLST	2982		Cronobacter turicensis	SD21		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0826	PubMLST	3010		Cronobacter turicensis	511296		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0827	PubMLST	3011		Cronobacter turicensis	511300		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0828	PubMLST	3012		Cronobacter turicensis	511297		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0829	PubMLST	3013		Cronobacter turicensis	511298		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0830	PubMLST	3014		Cronobacter turicensis	511299		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0844	PubMLST	3031		Cronobacter malonaticus	CMa3-G	PDT000751092.1	China	Asia		Infant formula	Unknown	Food and Food Ingredients
+ND_PM0856	PubMLST	3059		Cronobacter malonaticus	YO-1		Japan	Asia	Hyogo prefecture	Clinical	2020	Clinical and Medical Samples
+ND_PM0858	PubMLST	3075		Cronobacter muytjensii	Cr150		Israel	Asia		Powdered infant formula	2007	Food and Food Ingredients
+ND_PM0860	PubMLST	3077		Cronobacter turicensis	Cr170		Israel	Asia		Powdered infant formula	2013	Food and Food Ingredients
+ND_PM0861	PubMLST	3079		Cronobacter malonaticus	MOD1_GK1518	CFSAN105816	Germany	Europe		Environmental	2015	Environmental Samples
+ND_PM0886	PubMLST	3104	GCA_015353315.1	Cronobacter muytjensii	MOD1_GK1258	PDT000890408.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0895	PubMLST	3113		Cronobacter malonaticus	MOD1_GK1354	PDT000890424.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0896	PubMLST	3114		Cronobacter malonaticus	MOD1_GK1355	PDT000890430.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0897	PubMLST	3115		Cronobacter malonaticus	MOD1_GK1356	PDT000890419.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0898	PubMLST	3116	GCA_015353485.1	Cronobacter malonaticus	MOD1_GK1357	PDT000890415.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0899	PubMLST	3117		Cronobacter malonaticus	MOD1_GK1358	PDT000890418.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0900	PubMLST	3118	GCA_015353475.1	Cronobacter malonaticus	MOD1_GK1360	PDT000890416.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0901	PubMLST	3119	GCA_015353245.1	Cronobacter malonaticus	MOD1_GK1510	PDT000890404.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0902	PubMLST	3120	GCA_015353415.1	Cronobacter malonaticus	MOD1_GK796	PDT000890413.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0903	PubMLST	3121		Cronobacter malonaticus	MOD1_GK962	PDT000890443.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0916	PubMLST	3134		Cronobacter dublinensis	cro946B2(G)	GCA_002978705.2	China	Asia		Vegetable	2012	Food and Food Ingredients
+ND_PM0917	PubMLST	3135		Cronobacter malonaticus	cro4164A3	GCA_002978405.2	China	Asia		Food	2016	Food and Food Ingredients
+ND_PM0918	PubMLST	3136		Cronobacter malonaticus	cro3263A1	GCA_002978135.2	China	Asia		Food	2015	Food and Food Ingredients
+ND_PM0948	PubMLST	3222		Cronobacter malonaticus	2020-135		China	Asia	Zhejiang Wenzhou	Clinical	2020	Clinical and Medical Samples
+ND_PM0966	PubMLST	3240		Cronobacter dublinensis	1915044		China	Asia	Zhejiang Wenzhou	Food ingredient	2019	Food and Food Ingredients
+ND_PM0971	PubMLST	3245		Cronobacter turicensis	2015002		China	Asia	Zhejiang Wenzhou	Food ingredient	2020	Food and Food Ingredients
+ND_PM0972	PubMLST	3246		Cronobacter malonaticus	2015003		China	Asia	Zhejiang Wenzhou	Food ingredient	2020	Food and Food Ingredients
+ND_PM0987	PubMLST	3261		Cronobacter muytjensii	2015049		China	Asia	Zhejiang Wenzhou	Spice	2020	Food and Food Ingredients
+ND_PM0989	PubMLST	3263		Cronobacter malonaticus	2015051		China	Asia	Zhejiang Wenzhou	Spice	2020	Food and Food Ingredients
+ND_PM0990	PubMLST	3264		Cronobacter turicensis	2015052		China	Asia	Zhejiang Wenzhou	Spice	2020	Food and Food Ingredients
+ND_PM0994	PubMLST	3268		Cronobacter malonaticus	2015056		China	Asia	Zhejiang Wenzhou	Food ingredient	2020	Food and Food Ingredients
+ND_PM1005	PubMLST	3280		Cronobacter dublinensis	cro1046A2-1		China	Asia		Food	2012	Food and Food Ingredients
+ND_PM1006	PubMLST	3281		Cronobacter dublinensis	cro964A1		China	Asia		Food	2012	Food and Food Ingredients
+ND_PM1007	PubMLST	3282		Cronobacter dublinensis	cro1046W		China	Asia		Food	2012	Food and Food Ingredients
+ND_PM1008	PubMLST	3283		Cronobacter dublinensis	cro965C1		China	Asia		Food	2012	Food and Food Ingredients
+ND_PM1009	PubMLST	3284		Cronobacter turicensis	cro2991W		China	Asia		Food	2015	Food and Food Ingredients
+ND_PM1010	PubMLST	3285		Cronobacter turicensis	cro3064B1		China	Asia		Food	2015	Food and Food Ingredients
+ND_PM1011	PubMLST	3286	GCA_008932145.1	Cronobacter muytjensii	JZ38		Saudi Arabia	Asia		Environmental	2014	Environmental Samples
+ND_PM1012	PubMLST	3392		Cronobacter malonaticus	KMB-33	121206/29	Slovakia	Europe		Food	2006	Food and Food Ingredients
+ND_PM1015	PubMLST	3408		Cronobacter muytjensii	2115013		China	Asia	Zhejiang Wenzhou	Spice	2021	Food and Food Ingredients
+ND_PM1021	PubMLST	3414		Cronobacter turicensis	510399-20		Austria	Europe	Lower Austria	Animal	2020	Animal and Biological Sources
+ND_PM1022	PubMLST	3415		Cronobacter turicensis	Cs-510625-20	510625-20	Austria	Europe	Lower Austria	Animal	2020	Animal and Biological Sources
+ND_PM1201	PubMLST	3696		Cronobacter dublinensis	5571		Czech Republic	Europe		Food ingredient	2015	Food and Food Ingredients
+ND_PM1226	PubMLST	3752	GCA_026609995.1	Cronobacter dublinensis	FDA1207441-S001-001	CFSAN128429; SRS15945175	USA	North America	MI	Powdered infant formula	2022	Food and Food Ingredients
+ND_PM1319	PubMLST	3884	GCA_028636965.1	Cronobacter turicensis	CFSAN129047	SRS16760849	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1334	PubMLST	3941		Cronobacter muytjensii	CFSAN129928	SRS17253700	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1335	PubMLST	3942		Cronobacter malonaticus	510097-19	1829	Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM1336	PubMLST	3943		Cronobacter malonaticus	510099-19	1831	Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM1337	PubMLST	3944		Cronobacter malonaticus	510100-19	1832	Czech Republic	Europe		Clinical	2009	Clinical and Medical Samples
+ND_PM1341	PubMLST	3948		Cronobacter malonaticus	510101-19	1999	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1342	PubMLST	3949		Cronobacter malonaticus	510104-19	2015	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1343	PubMLST	3950		Cronobacter malonaticus	510105-19	2014	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1344	PubMLST	3951		Cronobacter malonaticus	510108-19	2004	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1371	PubMLST	3978		Cronobacter malonaticus	510140-19	1914	Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM1413	PubMLST	4050	GCA_028216275.1	Cronobacter dublinensis	CFSAN129394	SRS16610710	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1415	PubMLST	4052	GCA_028573735.1	Cronobacter turicensis	CFSAN129387	SRS16720617	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1416	PubMLST	4053	GCA_028574975.1	Cronobacter turicensis	CFSAN129040	SRS16720610	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1417	PubMLST	4054	GCA_028574075.1	Cronobacter turicensis	CFSAN129391	SRS16720618	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1418	PubMLST	4055	GCA_028573635.1	Cronobacter turicensis	CFSAN129390	SRS16720620	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1419	PubMLST	4056	GCA_028574095.1	Cronobacter turicensis	CFSAN129399	SRS16720619	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1421	PubMLST	4058	GCA_028573645.1	Cronobacter turicensis	CFSAN129395	SRS16720622	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1422	PubMLST	4059	GCA_029224145.1	Cronobacter malonaticus	CFSAN129929	SRS17031540	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1423	PubMLST	4060	GCA_029228395.1	Cronobacter dublinensis	CFSAN129930	SRS17031557	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1425	PubMLST	4081	GCA_030055375.1	Cronobacter malonaticus	MOD1_GK1349	CFSAN105796	Germany	Europe		Environmental	2015	Environmental Samples
+ND_PM1429	PubMLST	4085	GCA_030055315.1	Cronobacter malonaticus	MOD1_GK1512	CFSAN105810	Germany	Europe		Environmental	2015	Environmental Samples
+ND_PM1460	PubMLST	4116	GCA_030721045.1	Cronobacter turicensis	FDA1213745-S071-006		USA	North America	VT	Environmental	2023	Environmental Samples
+ND_PM1464	PubMLST	4120	GCA_030736475.1	Cronobacter turicensis	CFSAN133243		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1472	PubMLST	4128	GCA_030735835.1	Cronobacter dublinensis	CFSAN133213		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1473	PubMLST	4129	GCA_030736435.1	Cronobacter dublinensis	CFSAN133250		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1474	PubMLST	4130	GCA_030736055.1	Cronobacter dublinensis	CFSAN133260		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1475	PubMLST	4131	GCA_030736455.1	Cronobacter dublinensis	CFSAN133265		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1477	PubMLST	4133	GCA_030736255.1	Cronobacter turicensis	CFSAN133262		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1478	PubMLST	4134	GCA_030736275.1	Cronobacter turicensis	CFSAN133264		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1479	PubMLST	4135	GCA_030736515.1	Cronobacter malonaticus	CFSAN133219		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1524	PubMLST	4202	GCA_032855065.1	Cronobacter turicensis	CFSAN133834		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1527	PubMLST	4205	GCA_032855585.1	Cronobacter turicensis	CFSAN133857		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1534	PubMLST	4212	GCA_032854905.1	Cronobacter dublinensis	CFSAN133872		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1539	PubMLST	4217	GCA_032855305.1	Cronobacter turicensis	CFSAN133854		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1543	PubMLST	4221	GCA_032855605.1	Cronobacter dublinensis	CFSAN133890		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1548	PubMLST	4226	GCA_032855965.1	Cronobacter dublinensis	CFSAN133859		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1552	PubMLST	4230	GCA_032856145.1	Cronobacter dublinensis	CFSAN133844		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1553	PubMLST	4231	GCA_032856125.1	Cronobacter turicensis	CFSAN133879		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1554	PubMLST	4232	GCA_032856105.1	Cronobacter turicensis	CFSAN133881		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1556	PubMLST	4234	GCA_032856285.1	Cronobacter malonaticus	CFSAN133893		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1584	PubMLST	4675	GCA_034001925.1	Cronobacter dublinensis	PNUSAR000004		USA	North America		Clinical	2023	Clinical and Medical Samples
+ND_PM1622	PubMLST	4743	GCA_035796135.1	Cronobacter muytjensii	F18		China	Asia	Wenzhou	Food	2022	Food and Food Ingredients
+ND_PM1623	PubMLST	4744	GCA_035796095.1	Cronobacter malonaticus	F20		China	Asia	Wenzhou	Food	2022	Food and Food Ingredients
+ND_PM1626	PubMLST	4747	GCA_035796035.1	Cronobacter malonaticus	F24		China	Asia	Wenzhou	Food	2022	Food and Food Ingredients
+ND_PM1630	PubMLST	4751	GCA_035874375.1	Cronobacter malonaticus	2004-29-03		USA	North America		Clinical	Unknown	Clinical and Medical Samples
+ND_PM1649	PubMLST	4786		Cronobacter malonaticus	Cmal_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1650	PubMLST	4787		Cronobacter malonaticus	Cmal_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1651	PubMLST	4788		Cronobacter malonaticus	Cmal_F3		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1652	PubMLST	4789		Cronobacter dublinensis	Cdub_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1653	PubMLST	4790		Cronobacter dublinensis	Cdub_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1654	PubMLST	4791		Cronobacter universalis	Cuni_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1655	PubMLST	4792		Cronobacter turicensis	Ctur_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1656	PubMLST	4793		Cronobacter turicensis	Ctur_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1657	PubMLST	4794		Cronobacter turicensis	Ctur_F3		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1658	PubMLST	4795		Cronobacter muytjensii	Cmuy_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1659	PubMLST	4796		Cronobacter muytjensii	Cmuy_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1660	PubMLST	4797		Cronobacter muytjensii	Cmuy_F3		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1661	PubMLST	4798		Cronobacter muytjensii	Cmuy_F4		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1662	PubMLST	4799		Cronobacter muytjensii	Cmuy_F5		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1664	PubMLST	4817		Cronobacter muytjensii	ACTA017	muy17	France	Europe		Environmental	2020	Environmental Samples
+ND_PM1671	PubMLST	4824		Cronobacter turicensis	ACTA281	tur281	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1672	PubMLST	4825		Cronobacter turicensis	ACTA323	tur323	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1673	PubMLST	4826		Cronobacter turicensis	ACTA324	tur324	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1674	PubMLST	4827		Cronobacter dublinensis	ACTA328	dub328	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1675	PubMLST	4828		Cronobacter turicensis	ACTA332	tur332	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1676	PubMLST	4829		Cronobacter turicensis	ACTA346	tur346	France	Europe		Environmental	2023	Environmental Samples
+ND_PM1677	PubMLST	4830		Cronobacter turicensis	ACTA347	tur347	France	Europe		Environmental	2023	Environmental Samples
+ND_PM1678	PubMLST	4831		Cronobacter dublinensis	ACTA348	dub348	France	Europe		Environmental	2023	Environmental Samples
+ND_PM1686	PubMLST	4839	GCA_040983965.1	Cronobacter muytjensii	K1		India	Asia	Ahmedabad, Gujarat	Environmental	2022	Environmental Samples
+ND_PM1690	PubMLST	4843	GCA_037070395.1	Cronobacter dublinensis	C38		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1691	PubMLST	4844	GCA_037070405.1	Cronobacter dublinensis	C43		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1692	PubMLST	4845	GCA_037070575.1	Cronobacter dublinensis	C21		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1693	PubMLST	4846	GCA_037070535.1	Cronobacter dublinensis	C23		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1695	PubMLST	4848	GCA_037070345.1	Cronobacter dublinensis	C40		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1696	PubMLST	4849	GCA_037070335.1	Cronobacter dublinensis	C46		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1697	PubMLST	4850	GCA_037070315.1	Cronobacter dublinensis	C44		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1698	PubMLST	4851	GCA_037070295.1	Cronobacter dublinensis	C49		Lebanon	Asia		Food ingredient	2017	Food and Food Ingredients
+ND_PM1700	PubMLST	4857		Cronobacter malonaticus	YNDH-024	DH-024	China	Asia	DEHONG	Food	2024	Food and Food Ingredients
+ND_PM1702	PubMLST	4865	GCA_044142805.1	Cronobacter dublinensis	BC-14		China	Asia		Environmental	2023	Environmental Samples
+ND_PM1704	PubMLST	4867	GCA_044710795.1	Cronobacter dublinensis	CFIAFB20240062	PDT002344651.1	Canada	North America		Food	2024	Food and Food Ingredients
+ND_PM1706	PubMLST	4869	GCA_030023505.1	Cronobacter dublinensis	MOD1-E187	PDT001737481.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1707	PubMLST	4870	GCA_030011955.1	Cronobacter malonaticus	MOD1-E829	PDT001736372.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1709	PubMLST	4872	GCA_030026565.1	Cronobacter turicensis	MOD1-E752	PDT001737492.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1710	PubMLST	4873	GCA_030011995.1	Cronobacter dublinensis	MOD1-E791	PDT001736373.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1716	PubMLST	4879	GCA_030126265.1	Cronobacter malonaticus	MOD1-CQ62	PDT001764471.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1718	PubMLST	4881	GCA_030012105.1	Cronobacter turicensis	MOD1-E866	PDT001736378.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1721	PubMLST	4884	GCA_044735645.1	Cronobacter turicensis	CFSAN135978	PDT002071075.1	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1722	PubMLST	4885	GCA_044863045.1	Cronobacter turicensis	CFSAN140050	PDT002464686.1	USA	North America	MI	Environmental	2024	Environmental Samples
+ND_PM1724	PubMLST	4896		Cronobacter turicensis	YNCX	CX	China	Asia	CHUXIONG	Food	2024	Food and Food Ingredients
+ND_PM1725	PubMLST	4898		Cronobacter malonaticus	YNCX-011	CX-011	China	Asia	CHUXIONG	Food	2024	Food and Food Ingredients
+ND_PM1728	PubMLST	4901		Cronobacter muytjensii	GY2024-103		China	Asia		Spices	2024	Food and Food Ingredients

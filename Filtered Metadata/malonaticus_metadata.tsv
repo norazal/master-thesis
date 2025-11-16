@@ -1,0 +1,300 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC0192	NCBI	NA	GCF_000504545.1	Cronobacter malonaticus	CMCC45402	ASM50454v1	China	Asia		milk	Unknown	Food and Food Ingredients
+ND_NC0193	NCBI	NA	GCF_000742335.1	Cronobacter malonaticus	685	ASM74233v1	USA	North America		blood	1977	Clinical and Medical Samples
+ND_NC0194	NCBI	NA	GCF_000742345.1	Cronobacter malonaticus	687	ASM74234v1	Czech Republic	Europe		sputum	2004	Clinical and Medical Samples
+ND_NC0195	NCBI	NA	GCF_000742355.1	Cronobacter malonaticus	1545	ASM74235v1	Czech Republic	Europe		feces	1984	Clinical and Medical Samples
+ND_NC0196	NCBI	NA	GCF_000742395.1	Cronobacter malonaticus	1558	ASM74239v1	Czech Republic	Europe		feces	1984	Clinical and Medical Samples
+ND_NC0197	NCBI	NA	GCF_000742405.1	Cronobacter malonaticus	1569	ASM74240v1	USA	North America		blood	2011	Clinical and Medical Samples
+ND_NC0198	NCBI	NA	GCF_001922805.1	Cronobacter malonaticus	MOD1-Md25g	ASM192280v1	USA	North America		gut	2012	Clinical and Medical Samples
+ND_NC0199	NCBI	NA	GCF_001922825.1	Cronobacter malonaticus	MOD1-Md27g	ASM192282v1	USA	North America		gut	2012	Clinical and Medical Samples
+ND_NC0200	NCBI	NA	GCF_001922875.1	Cronobacter malonaticus	MOD1-Md99g	ASM192287v1	USA	North America		alimentary canal	2012	Clinical and Medical Samples
+ND_NC0201	NCBI	NA	GCF_002093915.1	Cronobacter malonaticus	HB03	ASM209391v1	China	Asia		cerebrospinal fluid	2014	Clinical and Medical Samples
+ND_NC0202	NCBI	NA	GCF_002978135.2	Cronobacter malonaticus	cro3263A1	ASM297813v2	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0203	NCBI	NA	GCF_002978155.1	Cronobacter malonaticus	cro913A2	ASM297815v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0204	NCBI	NA	GCF_002978165.1	Cronobacter malonaticus	cro913W	ASM297816v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0205	NCBI	NA	GCF_002978175.1	Cronobacter malonaticus	cro795W2	ASM297817v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0206	NCBI	NA	GCF_002978185.1	Cronobacter malonaticus	cro138	ASM297818v1	China	Asia		food	2011	Food and Food Ingredients
+ND_NC0207	NCBI	NA	GCF_002978235.1	Cronobacter malonaticus	cro645W	ASM297823v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0208	NCBI	NA	GCF_002978245.1	Cronobacter malonaticus	cro745W	ASM297824v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0209	NCBI	NA	GCF_002978275.1	Cronobacter malonaticus	cro235	ASM297827v1	China	Asia		food	2011	Food and Food Ingredients
+ND_NC0210	NCBI	NA	GCF_002978285.1	Cronobacter malonaticus	cro645B1	ASM297828v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0211	NCBI	NA	GCF_002978315.1	Cronobacter malonaticus	cro881W1	ASM297831v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0212	NCBI	NA	GCF_002978325.1	Cronobacter malonaticus	cro2841W	ASM297832v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0213	NCBI	NA	GCF_002978335.1	Cronobacter malonaticus	cro931C1	ASM297833v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0214	NCBI	NA	GCF_002978375.1	Cronobacter malonaticus	cro530C3	ASM297837v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0215	NCBI	NA	GCF_002978385.1	Cronobacter malonaticus	cro714W	ASM297838v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0216	NCBI	NA	GCF_002978395.1	Cronobacter malonaticus	cro630W2	ASM297839v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0217	NCBI	NA	GCF_002978405.2	Cronobacter malonaticus	cro4164A3	ASM297840v2	China	Asia		food	2016	Food and Food Ingredients
+ND_NC0218	NCBI	NA	GCF_002978455.1	Cronobacter malonaticus	cro965A1	ASM297845v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0219	NCBI	NA	GCF_002978475.1	Cronobacter malonaticus	cro1031W	ASM297847v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0220	NCBI	NA	GCF_002978485.1	Cronobacter malonaticus	199G	ASM297848v1	China	Asia		food	2007	Food and Food Ingredients
+ND_NC0221	NCBI	NA	GCF_002978495.1	Cronobacter malonaticus	cro695B2	ASM297849v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0222	NCBI	NA	GCF_002978535.1	Cronobacter malonaticus	cro1410A1	ASM297853v1	China	Asia		food	2013	Food and Food Ingredients
+ND_NC0223	NCBI	NA	GCF_002978545.1	Cronobacter malonaticus	cro909B1	ASM297854v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0224	NCBI	NA	GCF_002978565.1	Cronobacter malonaticus	cro2834C2	ASM297856v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC0225	NCBI	NA	GCF_002983535.1	Cronobacter malonaticus	cro914W	ASM298353v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0226	NCBI	NA	GCF_002983555.1	Cronobacter malonaticus	cro863C2	ASM298355v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0227	NCBI	NA	GCF_002983565.1	Cronobacter malonaticus	cro864B2-3	ASM298356v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0228	NCBI	NA	GCF_002983575.1	Cronobacter malonaticus	cro831C3	ASM298357v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC0229	NCBI	NA	GCF_003795605.1	Cronobacter malonaticus	S1	ASM379560v1	China	Asia		Rectal swab	2016	Clinical and Medical Samples
+ND_NC0230	NCBI	NA	GCF_003858305.1	Cronobacter malonaticus	S3	ASM385830v1	China	Asia		rectal swab	2016	Clinical and Medical Samples
+ND_NC0232	NCBI	NA	GCF_009938605.1	Cronobacter malonaticus	SD16	ASM993860v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0233	NCBI	NA	GCF_009938615.1	Cronobacter malonaticus	SD26	ASM993861v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0234	NCBI	NA	GCF_009938655.1	Cronobacter malonaticus	SD11	ASM993865v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC0235	NCBI	NA	GCF_009938735.1	Cronobacter malonaticus	SC01	ASM993873v1	China	Asia		food	2010	Food and Food Ingredients
+ND_NC0236	NCBI	NA	GCF_009938865.1	Cronobacter malonaticus	BJ15	ASM993886v1	China	Asia		stool	2013	Clinical and Medical Samples
+ND_NC0237	NCBI	NA	GCF_013186065.1	Cronobacter malonaticus	CMa3	ASM1318606v1	China	Asia		powdered infant formula	2012	Food and Food Ingredients
+ND_NC0238	NCBI	NA	GCF_015350615.1	Cronobacter malonaticus	MOD1_GK1518	ASM1535061v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0239	NCBI	NA	GCF_015353245.1	Cronobacter malonaticus	MOD1_GK1510	ASM1535324v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0240	NCBI	NA	GCF_015353415.1	Cronobacter malonaticus	MOD1_GK796	ASM1535341v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0241	NCBI	NA	GCF_015353475.1	Cronobacter malonaticus	MOD1_GK1360	ASM1535347v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0242	NCBI	NA	GCF_015353485.1	Cronobacter malonaticus	MOD1_GK1357	ASM1535348v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0243	NCBI	NA	GCF_015353535.1	Cronobacter malonaticus	MOD1_GK1358	ASM1535353v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0244	NCBI	NA	GCF_015353545.1	Cronobacter malonaticus	MOD1_GK1356	ASM1535354v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0245	NCBI	NA	GCF_015353655.1	Cronobacter malonaticus	MOD1_GK1354	ASM1535365v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0246	NCBI	NA	GCF_015353775.1	Cronobacter malonaticus	MOD1_GK1355	ASM1535377v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0247	NCBI	NA	GCF_015354035.1	Cronobacter malonaticus	MOD1_GK962	ASM1535403v1	Germany	Europe		environmental swab sponge powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0248	NCBI	NA	GCF_030011955.1	Cronobacter malonaticus	MOD1-E829	ASM3001195v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0249	NCBI	NA	GCF_030012075.1	Cronobacter malonaticus	MOD1-E684	ASM3001207v1	United Kingdom	Europe		food	Unknown	Food and Food Ingredients
+ND_NC0250	NCBI	NA	GCF_030012085.1	Cronobacter malonaticus	MOD1-E766	ASM3001208v1	Australia	Oceania		Food,Milk powder	Unknown	Food and Food Ingredients
+ND_NC0251	NCBI	NA	GCF_030026485.1	Cronobacter malonaticus	MOD1-E633	ASM3002648v1	Czech Republic	Europe		infant food	Unknown	Food and Food Ingredients
+ND_NC0252	NCBI	NA	GCF_030026805.1	Cronobacter malonaticus	MOD1-Jor168B	ASM3002680v1	Jordan	Asia		spices	Unknown	Food and Food Ingredients
+ND_NC0253	NCBI	NA	GCF_030026815.1	Cronobacter malonaticus	MOD1-E265	ASM3002681v1	Malaysia	Asia		milk powder	Unknown	Food and Food Ingredients
+ND_NC0254	NCBI	NA	GCF_030055315.1	Cronobacter malonaticus	MOD1_GK1512	MOD1_GK1512	Germany	Europe		Environment, Powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0255	NCBI	NA	GCF_030055375.1	Cronobacter malonaticus	MOD1_GK1349	MOD1_GK1349	Germany	Europe		Environment, Powder infant formula manufacturing facility	2015	Environmental Samples
+ND_NC0256	NCBI	NA	GCF_030126265.1	Cronobacter malonaticus	MOD1-CQ62	ASM3012626v1	Ireland	Europe		powdered infant formula production environment	Unknown	Environmental Samples
+ND_NC0258	NCBI	NA	GCF_030126825.1	Cronobacter malonaticus	MOD1-Jor160B	ASM3012682v1	Jordan	Asia		Environmental, Vacuum dust	Unknown	Environmental Samples
+ND_NC0259	NCBI	NA	GCF_030126845.1	Cronobacter malonaticus	MOD1-CR959S	ASM3012684v1	Czech Republic	Europe		Frozen Pea	Unknown	Food and Food Ingredients
+ND_NC0260	NCBI	NA	GCF_030127265.1	Cronobacter malonaticus	MOD1-CQ41	ASM3012726v1	Ireland	Europe		powdered infant formula production environment	Unknown	Environmental Samples
+ND_NC0261	NCBI	NA	GCF_032025765.1	Cronobacter malonaticus	Cron-b40	ASM3202576v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0262	NCBI	NA	GCF_032026045.1	Cronobacter malonaticus	Cron-b23	ASM3202604v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0263	NCBI	NA	GCF_032026265.1	Cronobacter malonaticus	Cron-b19	ASM3202626v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0264	NCBI	NA	GCF_032026395.1	Cronobacter malonaticus	Cron-b38	ASM3202639v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0265	NCBI	NA	GCF_032026545.1	Cronobacter malonaticus	Cron-b32	ASM3202654v1	China	Asia		feces	2022	Clinical and Medical Samples
+ND_NC0266	NCBI	NA	GCF_032026745.1	Cronobacter malonaticus	Cron-b29	ASM3202674v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0267	NCBI	NA	GCF_032026825.1	Cronobacter malonaticus	Cron-b25	ASM3202682v1	China	Asia		bedding	2022	Environmental Samples
+ND_NC0268	NCBI	NA	GCF_032026865.1	Cronobacter malonaticus	Cron-b24	ASM3202686v1	China	Asia		ensilage	2022	Environmental Samples
+ND_NC0269	NCBI	NA	GCF_032854045.1	Cronobacter malonaticus	B11	ASM3285404v1	China	Asia		noodles	2023	Food and Food Ingredients
+ND_NC0270	NCBI	NA	GCF_033798545.1	Cronobacter malonaticus	J6	ASM3379854v1	China	Asia		rice flour	2018	Food and Food Ingredients
+ND_NC0271	NCBI	NA	GCF_033798565.1	Cronobacter malonaticus	J34	ASM3379856v1	China	Asia		rice flour	2022	Food and Food Ingredients
+ND_NC0273	NCBI	NA	GCF_035658535.1	Cronobacter malonaticus	Dcc0527	ASM3565853v1	China	Asia			2022	Unknown and Unclassified Sources
+ND_NC0274	NCBI	NA	GCF_035796035.1	Cronobacter malonaticus	F24	ASM3579603v1	China	Asia		food	2022	Food and Food Ingredients
+ND_NC0275	NCBI	NA	GCF_035796095.1	Cronobacter malonaticus	F20	ASM3579609v1	China	Asia		food	2022	Food and Food Ingredients
+ND_NC0276	NCBI	NA	GCF_040276445.1	Cronobacter malonaticus	B20	ASM4027644v1	China	Asia		food	2023	Food and Food Ingredients
+ND_NC0277	NCBI	NA	GCF_041222915.1	Cronobacter malonaticus	2008-02-01	ASM4122291v1	Unknown	Unknown		unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0278	NCBI	NA	GCF_041222925.1	Cronobacter malonaticus	2004-29-02	ASM4122292v1	Unknown	Unknown		unknown	Unknown	Unknown and Unclassified Sources
+ND_NC0279	NCBI	NA	GCF_045257745.1	Cronobacter malonaticus	NWU01	ASM4525774v1	China	Asia		infant formula; intestinal tract	2024	Clinical and Medical Samples
+ND_NC0283	NCBI	NA	GCA_016076375.1	Cronobacter malonaticus	MOD1_E754	PDT000337068.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0284	NCBI	NA	GCA_016076405.1	Cronobacter malonaticus	MOD1_E765	PDT000337070.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0285	NCBI	NA	GCA_016076495.1	Cronobacter malonaticus	MOD1_E763	PDT000337071.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0287	NCBI	NA	GCA_016076695.1	Cronobacter malonaticus	MOD1_0939A-75	PDT000337064.1	USA	North America		nose	1975	Clinical and Medical Samples
+ND_NC0288	NCBI	NA	GCA_016076835.1	Cronobacter malonaticus	MOD1_E615	PDT000337046.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0289	NCBI	NA	GCA_016076975.1	Cronobacter malonaticus	MOD1-E902	PDT000332673.1	USA	North America		blood	Unknown	Clinical and Medical Samples
+ND_NC0290	NCBI	NA	GCA_016077015.1	Cronobacter malonaticus	MOD1_2149	PDT000332664.1	USA	North America		cerebrospinal fluid	2004	Clinical and Medical Samples
+ND_NC0291	NCBI	NA	GCA_016077135.1	Cronobacter malonaticus	MOD1_2153	PDT000332663.1	USA	North America		blood	2004	Clinical and Medical Samples
+ND_NC0292	NCBI	NA	GCA_016077195.1	Cronobacter malonaticus	MOD1-E833	PDT000332658.1	USA	North America		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0293	NCBI	NA	GCA_016077245.1	Cronobacter malonaticus	MOD1-E532	PDT000332657.1	USA	North America		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0294	NCBI	NA	GCA_016077335.1	Cronobacter malonaticus	MOD1_E608	PDT000332644.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0295	NCBI	NA	GCA_016077355.1	Cronobacter malonaticus	MOD1_E618	PDT000332645.1	Czech Republic	Europe		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0296	NCBI	NA	GCA_016077465.1	Cronobacter malonaticus	MOD1-E831	PDT000332659.1	USA	North America		Not Provided	Unknown	Unknown and Unclassified Sources
+ND_NC0297	NCBI	NA	GCA_016077535.1	Cronobacter malonaticus	MOD1_1895-73	PDT000332662.1	USA	North America		stool	1973	Clinical and Medical Samples
+ND_NC0298	NCBI	NA	GCA_029224145.1	Cronobacter malonaticus	CFSAN129929	PDT001662070.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0299	NCBI	NA	GCA_030736515.1	Cronobacter malonaticus	CFSAN133219	PDT001851010.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0300	NCBI	NA	GCA_032854945.1	Cronobacter malonaticus	CFSAN133871	PDT001946756.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0301	NCBI	NA	GCA_032855285.1	Cronobacter malonaticus	CFSAN133866	PDT001946736.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0302	NCBI	NA	GCA_032856285.1	Cronobacter malonaticus	CFSAN133893	PDT001946649.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC0303	NCBI	NA	GCA_033896265.1	Cronobacter malonaticus	CFSAN135114	PDT001995396.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC0304	NCBI	NA	GCA_033896705.1	Cronobacter malonaticus	CFSAN134979	PDT001995441.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0305	NCBI	NA	GCA_033897445.1	Cronobacter malonaticus	CFSAN135025	PDT001995418.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0306	NCBI	NA	GCA_033940385.1	Cronobacter malonaticus	CFSAN134886	PDT001996967.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0307	NCBI	NA	GCA_033942125.1	Cronobacter malonaticus	CFSAN134818	PDT001996879.1	USA	North America		pet food	2023	Food and Food Ingredients
+ND_NC0308	NCBI	NA	GCA_033942945.1	Cronobacter malonaticus	CFSAN135060	PDT001996200.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0309	NCBI	NA	GCA_033944425.1	Cronobacter malonaticus	CFSAN134951	PDT001996077.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC0310	NCBI	NA	GCA_033944535.1	Cronobacter malonaticus	CFSAN134952	PDT001996073.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC0311	NCBI	NA	GCA_033944965.1	Cronobacter malonaticus	CFSAN134882	PDT001996054.1	USA	North America		footwear	2022	Environmental Samples
+ND_NC0312	NCBI	NA	GCA_033945045.1	Cronobacter malonaticus	CFSAN134832	PDT001996047.1	USA	North America		floor	2022	Environmental Samples
+ND_NC0313	NCBI	NA	GCA_033946905.1	Cronobacter malonaticus	CFSAN135106	PDT001995937.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0314	NCBI	NA	GCA_033946945.1	Cronobacter malonaticus	CFSAN135107	PDT001995934.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC0315	NCBI	NA	GCA_033960725.1	Cronobacter malonaticus	CFSAN135214	PDT002008104.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0316	NCBI	NA	GCA_033961125.1	Cronobacter malonaticus	CFSAN135006	PDT002008085.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC0317	NCBI	NA	GCA_033961225.1	Cronobacter malonaticus	CFSAN134826	PDT002008077.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC0318	NCBI	NA	GCA_033962535.1	Cronobacter malonaticus	CFSAN134916	PDT002008006.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0319	NCBI	NA	GCA_033962655.1	Cronobacter malonaticus	CFSAN134956	PDT002007999.1	USA	North America		kitchen sponge	2023	Environmental Samples
+ND_NC0320	NCBI	NA	GCA_033962675.1	Cronobacter malonaticus	CFSAN134955	PDT002007998.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC0321	NCBI	NA	GCA_033963075.1	Cronobacter malonaticus	CFSAN134953	PDT002007985.1	USA	North America		kitchen counter	2023	Environmental Samples
+ND_NC0322	NCBI	NA	GCA_033963245.1	Cronobacter malonaticus	CFSAN134954	PDT002007986.1	USA	North America		kitchen sponge	2023	Environmental Samples
+ND_NC0323	NCBI	NA	GCA_033963485.1	Cronobacter malonaticus	CFSAN134920	PDT002007974.1	USA	North America		refrigerator	2023	Environmental Samples
+ND_NC0324	NCBI	NA	GCA_033963765.1	Cronobacter malonaticus	CFSAN134919	PDT002007957.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC0325	NCBI	NA	GCA_034264435.1	Cronobacter malonaticus	CFSAN135602	PDT002020614.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC0326	NCBI	NA	GCA_034408585.1	Cronobacter malonaticus	CFSAN134810	PDT002008081.1	USA	North America		pet food	2023	Food and Food Ingredients
+ND_NC0328	NCBI	NA	GCA_035874375.1	Cronobacter malonaticus	2004-29-03	PDT002054853.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0330	NCBI	NA	GCA_044710895.1	Cronobacter malonaticus	CFSAN138564	PDT002342817.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0331	NCBI	NA	GCA_044711295.1	Cronobacter malonaticus	PNUSAR000053	PDT002255833.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0332	NCBI	NA	GCA_044732285.1	Cronobacter malonaticus	CFSAN136654	PDT002139445.1	USA	North America		environmental sponge	2024	Environmental Samples
+ND_NC0333	NCBI	NA	GCA_044732965.1	Cronobacter malonaticus	PNUSAR000049	PDT002130575.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0334	NCBI	NA	GCA_044733025.1	Cronobacter malonaticus	PNUSAR000035	PDT002128249.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0335	NCBI	NA	GCA_044733045.1	Cronobacter malonaticus	PNUSAR000038	PDT002128247.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0336	NCBI	NA	GCA_044733065.1	Cronobacter malonaticus	PNUSAR000036	PDT002128248.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC0337	NCBI	NA	GCA_044733945.1	Cronobacter malonaticus	CFSAN136240	PDT002107407.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC0339	NCBI	NA	GCA_044820085.1	Cronobacter malonaticus	24MDFML005956-Q	PDT002217036.1	USA	North America		dried black fungus	2024	Food and Food Ingredients
+ND_NC0340	NCBI	NA	GCA_044820125.1	Cronobacter malonaticus	24MDFML005956-K	PDT002217035.1	USA	North America		dried black fungus	2024	Food and Food Ingredients
+ND_NC0341	NCBI	NA	GCA_044820165.1	Cronobacter malonaticus	24MDFML005956-A	PDT002217033.1	USA	North America		dried black fungus	2024	Food and Food Ingredients
+ND_NC0342	NCBI	NA	GCA_045228935.1	Cronobacter malonaticus	25MDFML001320-10B	PDT002483312.1	USA	North America		whole grain oatmeal infant baby cereal	2024	Food and Food Ingredients
+ND_NC0343	NCBI	NA	GCA_045228955.1	Cronobacter malonaticus	25MDFML001318-3A	PDT002483322.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0344	NCBI	NA	GCA_045230055.1	Cronobacter malonaticus	25MDFML001317-10C	PDT002483326.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0346	NCBI	NA	GCA_045230095.1	Cronobacter malonaticus	25MDFML001317-10E	PDT002483324.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0347	NCBI	NA	GCA_045230115.1	Cronobacter malonaticus	25MDFML001318-10A	PDT002483323.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0348	NCBI	NA	GCA_045230135.1	Cronobacter malonaticus	25MDFML001318-3B	PDT002483321.1	USA	North America		multi-grain infant baby cereal	2024	Food and Food Ingredients
+ND_NC0352	NCBI	NA	GCA_045328655.1	Cronobacter malonaticus	25MDFML001319-10A	PDT002483317.1	USA	North America		whole grain oatmeal infant baby cereal	2024	Food and Food Ingredients
+ND_NC0353	NCBI	NA	GCA_046447005.1	Cronobacter malonaticus	CFSAN140854	PDT002553071.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0354	NCBI	NA	GCA_046447145.1	Cronobacter malonaticus	CFSAN140848	PDT002553087.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0355	NCBI	NA	GCA_046447365.1	Cronobacter malonaticus	CFSAN140853	PDT002553079.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC0356	NCBI	NA	GCA_046461075.1	Cronobacter malonaticus	25MDFML001900-3C	PDT002555179.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0357	NCBI	NA	GCA_046461155.1	Cronobacter malonaticus	25MDFML001966-2D	PDT002555176.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0358	NCBI	NA	GCA_046461175.1	Cronobacter malonaticus	25MDFML001965-2B	PDT002555178.1	USA	North America		whole grain multi-grain infant cereal	2024	Food and Food Ingredients
+ND_NC0359	NCBI	NA	GCA_046461295.1	Cronobacter malonaticus	25MDFML001900-3A	PDT002555181.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0360	NCBI	NA	GCA_046461335.1	Cronobacter malonaticus	25MDFML001900-3B	PDT002555180.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0361	NCBI	NA	GCA_046461355.1	Cronobacter malonaticus	25MDFML001966-6A	PDT002555174.1	USA	North America		whole grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0362	NCBI	NA	GCA_046463705.1	Cronobacter malonaticus	25MDFML001965-2A	PDT002555230.1	USA	North America		whole grain multi-grain infant cereal	2024	Food and Food Ingredients
+ND_NC0363	NCBI	NA	GCA_047306145.1	Cronobacter malonaticus	25MDFML002061-3B	PDT002598264.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0365	NCBI	NA	GCA_047306205.1	Cronobacter malonaticus	25MDFML002066-1B	PDT002598262.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0366	NCBI	NA	GCA_047306245.1	Cronobacter malonaticus	25MDFML002066-1D	PDT002598261.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0367	NCBI	NA	GCA_047306265.1	Cronobacter malonaticus	25MDFML002063-2A	PDT002598251.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0368	NCBI	NA	GCA_047306285.1	Cronobacter malonaticus	25MDFML002062-3A	PDT002598254.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0370	NCBI	NA	GCA_047306345.1	Cronobacter malonaticus	25MDFML002063-2C	PDT002598249.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0371	NCBI	NA	GCA_047306365.1	Cronobacter malonaticus	25MDFML002064-3D	PDT002598247.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0372	NCBI	NA	GCA_047306385.1	Cronobacter malonaticus	25MDFML002064-2A	PDT002598248.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0373	NCBI	NA	GCA_047306485.1	Cronobacter malonaticus	25MDFML002062-3B	PDT002598253.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0374	NCBI	NA	GCA_047306505.1	Cronobacter malonaticus	25MDFML002068-3B	PDT002598258.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0376	NCBI	NA	GCA_047306645.1	Cronobacter malonaticus	25MDFML002067-2C	PDT002598260.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0377	NCBI	NA	GCA_047306945.1	Cronobacter malonaticus	25MDFML002061-3A	PDT002598265.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0378	NCBI	NA	GCA_047323145.1	Cronobacter malonaticus	25MDFML002068-3D	PDT002598257.1	USA	North America		organic whole grain multi-grain oatmeal infant cereal	2024	Food and Food Ingredients
+ND_NC0379	NCBI	NA	GCA_047337945.1	Cronobacter malonaticus	FSL-B11-0033	PDT002600716.1	USA	North America		Dish Towel	2024	Environmental Samples
+ND_NC0384	NCBI	NA	GCF_000878475.1	Cronobacter malonaticus	ENBT0334	CFSAN001453_01.0	Unknown	Unknown		blood	Unknown	Clinical and Medical Samples
+ND_NC0385	NCBI	NA	GCF_001277215.2	Cronobacter malonaticus	LMG 23826	ASM127721v2	USA	North America		breast abscess	2007	Clinical and Medical Samples
+ND_NC0386	NCBI	NA	GCF_000409305.1	Cronobacter malonaticus	LMG 23826	Cmal825 final contigs	USA	North America		breast abscess	Unknown	Clinical and Medical Samples
+ND_NC0387	NCBI	NA	GCF_041222875.1	Cronobacter malonaticus	LMG 23826	ASM4122287v1	USA	North America		breast abscess	1977	Clinical and Medical Samples
+ND_PM0007	PubMLST	71		Cronobacter malonaticus	565	CDC 1895-73	USA	North America		Clinical	1973	Clinical and Medical Samples
+ND_PM0009	PubMLST	75		Cronobacter malonaticus	512		Czech Republic	Europe		Clinical	1983	Clinical and Medical Samples
+ND_PM0010	PubMLST	76		Cronobacter malonaticus	514		Czech Republic	Europe		Clinical	1983	Clinical and Medical Samples
+ND_PM0019	PubMLST	129		Cronobacter malonaticus	15		Czech Republic	Europe		Clinical	2003	Clinical and Medical Samples
+ND_PM0020	PubMLST	133		Cronobacter malonaticus	101		Unknown	Unknown		Spice	2005	Food and Food Ingredients
+ND_PM0022	PubMLST	144		Cronobacter malonaticus	22		France	Europe		Infant formula	Unknown	Food and Food Ingredients
+ND_PM0023	PubMLST	145		Cronobacter malonaticus	472		South Korea	Asia		Infant formula	2005	Food and Food Ingredients
+ND_PM0032	PubMLST	176		Cronobacter malonaticus	689		Czech Republic	Europe		Clinical	2005	Clinical and Medical Samples
+ND_PM0033	PubMLST	177		Cronobacter malonaticus	688		Czech Republic	Europe		Clinical	2004	Clinical and Medical Samples
+ND_PM0034	PubMLST	185		Cronobacter malonaticus	1369		United Kingdom	Europe		Herb	2010	Food and Food Ingredients
+ND_PM0043	PubMLST	213		Cronobacter malonaticus	1546	6831; CNCTC Eb3/83; EB2	Czech Republic	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0044	PubMLST	266		Cronobacter malonaticus	1514		Australia	Oceania		Environmental	2007	Environmental Samples
+ND_PM0046	PubMLST	316		Cronobacter malonaticus	893		Brazil	South America		Infant formula	2007	Food and Food Ingredients
+ND_PM0048	PubMLST	385		Cronobacter malonaticus	1834		Czech Republic	Europe		Clinical	2010	Clinical and Medical Samples
+ND_PM0050	PubMLST	399		Cronobacter malonaticus	1827		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0051	PubMLST	400		Cronobacter malonaticus	1828		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0052	PubMLST	402		Cronobacter malonaticus	1830		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0053	PubMLST	405		Cronobacter malonaticus	1833		Czech Republic	Europe		Clinical	2010	Clinical and Medical Samples
+ND_PM0054	PubMLST	406		Cronobacter malonaticus	1835		Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0057	PubMLST	415		Cronobacter malonaticus	1914		Slovakia	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0058	PubMLST	418		Cronobacter malonaticus	1917		Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0069	PubMLST	434		Cronobacter malonaticus	1893		Czech Republic	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0080	PubMLST	590		Cronobacter malonaticus	LMG23826		USA	North America		Clinical	1977	Clinical and Medical Samples
+ND_PM0093	PubMLST	619		Cronobacter malonaticus	2018		Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM0094	PubMLST	620		Cronobacter malonaticus	2020		Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM0154	PubMLST	1129		Cronobacter malonaticus	510		Czech Republic	Europe		Food	1985	Food and Food Ingredients
+ND_PM0157	PubMLST	1132		Cronobacter malonaticus	685	CDC 1716-77	USA	North America		Clinical	1977	Clinical and Medical Samples
+ND_PM0158	PubMLST	1133		Cronobacter malonaticus	687		Czech Republic	Europe		Clinical	2004	Clinical and Medical Samples
+ND_PM0195	PubMLST	1170		Cronobacter malonaticus	1545	6830; CNCTC Eb2/81; EB1	Czech Republic	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0199	PubMLST	1174		Cronobacter malonaticus	1558	CNCTC 6830 Eb2/81	Czech Republic	Europe		Clinical	Unknown	Clinical and Medical Samples
+ND_PM0201	PubMLST	1176		Cronobacter malonaticus	1569	2193-01	USA	North America		Clinical	2011	Clinical and Medical Samples
+ND_PM0202	PubMLST	1177		Cronobacter malonaticus	1846		Czech Republic	Europe		Food ingredient	2010	Food and Food Ingredients
+ND_PM0210	PubMLST	1185		Cronobacter malonaticus	2045	05 CHPL 46	France	Europe		Environmental	Unknown	Environmental Samples
+ND_PM0211	PubMLST	1186		Cronobacter malonaticus	2046	05 CHPL 47	France	Europe		Environmental	Unknown	Environmental Samples
+ND_PM0215	PubMLST	1190		Cronobacter malonaticus	2109		Canada	North America		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0216	PubMLST	1313		Cronobacter malonaticus	ENBT0334	CFSAN001453; NTU1569	USA	North America		Clinical	2011	Clinical and Medical Samples
+ND_PM0281	PubMLST	1479		Cronobacter malonaticus	1826		Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM0284	PubMLST	1484		Cronobacter malonaticus	523		Czech Republic	Europe		Clinical	1983	Clinical and Medical Samples
+ND_PM0285	PubMLST	1485		Cronobacter malonaticus	535		New Zealand	Oceania		Infant formula	1988	Food and Food Ingredients
+ND_PM0288	PubMLST	1488		Cronobacter malonaticus	Chcon-3		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0289	PubMLST	1489		Cronobacter malonaticus	Chcon-4		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0291	PubMLST	1491		Cronobacter malonaticus	Chcon-6		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0294	PubMLST	1494		Cronobacter malonaticus	Chcon-9	RM1	China	Asia		Clinical	2014	Clinical and Medical Samples
+ND_PM0299	PubMLST	1499		Cronobacter malonaticus	PO62	DRR015811	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0302	PubMLST	1503		Cronobacter malonaticus	PO66	DRR015913	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0354	PubMLST	1759		Cronobacter malonaticus	KMB-210		Slovakia	Europe		Clinical	2015	Clinical and Medical Samples
+ND_PM0355	PubMLST	1760		Cronobacter malonaticus	KMB-211		Slovakia	Europe		Clinical	2015	Clinical and Medical Samples
+ND_PM0358	PubMLST	1763		Cronobacter malonaticus	161007/29		Slovakia	Europe		Food	2007	Food and Food Ingredients
+ND_PM0359	PubMLST	1806		Cronobacter malonaticus	cro864B2-3		China	Asia		Herb	Unknown	Food and Food Ingredients
+ND_PM0369	PubMLST	1842		Cronobacter malonaticus	MOD1-Md25g		USA	North America		Insect	2012	Animal and Biological Sources
+ND_PM0370	PubMLST	1843		Cronobacter malonaticus	MOD1-Md27g		USA	North America		Insect	2012	Animal and Biological Sources
+ND_PM0371	PubMLST	1844		Cronobacter malonaticus	MOD1-Md99g		USA	North America	MD	Insect	2012	Animal and Biological Sources
+ND_PM0482	PubMLST	2004		Cronobacter malonaticus	199G		China	Asia		Infant formula	2007	Food and Food Ingredients
+ND_PM0562	PubMLST	2489		Cronobacter malonaticus	cro914W	GCA_002983535	China	Asia		Food	2012	Food and Food Ingredients
+ND_PM0625	PubMLST	2554		Cronobacter malonaticus	ZV-6636-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0626	PubMLST	2555		Cronobacter malonaticus	ZV-4883-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0627	PubMLST	2556		Cronobacter malonaticus	ZV-3718-16		Slovenia	Europe		Food	2016	Food and Food Ingredients
+ND_PM0628	PubMLST	2557		Cronobacter malonaticus	ZV-4784-11		Slovenia	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0629	PubMLST	2558		Cronobacter malonaticus	ZV-6277-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0630	PubMLST	2559		Cronobacter malonaticus	ZV-3046-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0631	PubMLST	2560		Cronobacter malonaticus	ZV-6324-17		Slovenia	Europe		Food	2017	Food and Food Ingredients
+ND_PM0632	PubMLST	2561		Cronobacter malonaticus	ZV-3095-17		Slovenia	Europe		Food ingredient	2017	Food and Food Ingredients
+ND_PM0633	PubMLST	2562		Cronobacter malonaticus	EUCRONI013		Belgium	Europe		Milk powder	2014	Food and Food Ingredients
+ND_PM0634	PubMLST	2563		Cronobacter malonaticus	EUCRONI014		Belgium	Europe		Milk powder	2012	Food and Food Ingredients
+ND_PM0638	PubMLST	2567		Cronobacter malonaticus	02-6344		Slovenia	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0639	PubMLST	2568		Cronobacter malonaticus	07-3931		Slovenia	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0640	PubMLST	2569		Cronobacter malonaticus	104025059959		Denmark	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0642	PubMLST	2571		Cronobacter malonaticus	272485		Norway	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM0643	PubMLST	2572		Cronobacter malonaticus	356463-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0698	PubMLST	2639		Cronobacter malonaticus	G362		China	Asia			Unknown	Unknown and Unclassified Sources
+ND_PM0699	PubMLST	2640		Cronobacter malonaticus	S1		China	Asia	Nanjing	Clinical	2016	Clinical and Medical Samples
+ND_PM0701	PubMLST	2642		Cronobacter malonaticus	S3		China	Asia	Nanjing	Clinical	2016	Clinical and Medical Samples
+ND_PM0731	PubMLST	2687		Cronobacter malonaticus	C.8		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0741	PubMLST	2697		Cronobacter malonaticus	C.19		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0756	PubMLST	2713		Cronobacter malonaticus	C.35		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0758	PubMLST	2715		Cronobacter malonaticus	C.37		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0761	PubMLST	2718		Cronobacter malonaticus	C.40		China	Asia		Powdered infant formula	2006	Food and Food Ingredients
+ND_PM0784	PubMLST	2956		Cronobacter malonaticus	BJ15		China	Asia		Clinical	2013	Clinical and Medical Samples
+ND_PM0790	PubMLST	2962		Cronobacter malonaticus	SC01		China	Asia		Food	2010	Food and Food Ingredients
+ND_PM0794	PubMLST	2966		Cronobacter malonaticus	SD11		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0796	PubMLST	2968		Cronobacter malonaticus	SD26		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0797	PubMLST	2969		Cronobacter malonaticus	SD16		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0844	PubMLST	3031		Cronobacter malonaticus	CMa3-G	PDT000751092.1	China	Asia		Infant formula	Unknown	Food and Food Ingredients
+ND_PM0856	PubMLST	3059		Cronobacter malonaticus	YO-1		Japan	Asia	Hyogo prefecture	Clinical	2020	Clinical and Medical Samples
+ND_PM0861	PubMLST	3079		Cronobacter malonaticus	MOD1_GK1518	CFSAN105816	Germany	Europe		Environmental	2015	Environmental Samples
+ND_PM0895	PubMLST	3113		Cronobacter malonaticus	MOD1_GK1354	PDT000890424.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0896	PubMLST	3114		Cronobacter malonaticus	MOD1_GK1355	PDT000890430.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0897	PubMLST	3115		Cronobacter malonaticus	MOD1_GK1356	PDT000890419.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0898	PubMLST	3116	GCA_015353485.1	Cronobacter malonaticus	MOD1_GK1357	PDT000890415.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0899	PubMLST	3117		Cronobacter malonaticus	MOD1_GK1358	PDT000890418.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0900	PubMLST	3118	GCA_015353475.1	Cronobacter malonaticus	MOD1_GK1360	PDT000890416.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0901	PubMLST	3119	GCA_015353245.1	Cronobacter malonaticus	MOD1_GK1510	PDT000890404.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0902	PubMLST	3120	GCA_015353415.1	Cronobacter malonaticus	MOD1_GK796	PDT000890413.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0903	PubMLST	3121		Cronobacter malonaticus	MOD1_GK962	PDT000890443.2	Germany	Europe		Envronmental	2015	Environmental Samples
+ND_PM0917	PubMLST	3135		Cronobacter malonaticus	cro4164A3	GCA_002978405.2	China	Asia		Food	2016	Food and Food Ingredients
+ND_PM0918	PubMLST	3136		Cronobacter malonaticus	cro3263A1	GCA_002978135.2	China	Asia		Food	2015	Food and Food Ingredients
+ND_PM0948	PubMLST	3222		Cronobacter malonaticus	2020-135		China	Asia	Zhejiang Wenzhou	Clinical	2020	Clinical and Medical Samples
+ND_PM0972	PubMLST	3246		Cronobacter malonaticus	2015003		China	Asia	Zhejiang Wenzhou	Food ingredient	2020	Food and Food Ingredients
+ND_PM0989	PubMLST	3263		Cronobacter malonaticus	2015051		China	Asia	Zhejiang Wenzhou	Spice	2020	Food and Food Ingredients
+ND_PM0994	PubMLST	3268		Cronobacter malonaticus	2015056		China	Asia	Zhejiang Wenzhou	Food ingredient	2020	Food and Food Ingredients
+ND_PM1012	PubMLST	3392		Cronobacter malonaticus	KMB-33	121206/29	Slovakia	Europe		Food	2006	Food and Food Ingredients
+ND_PM1335	PubMLST	3942		Cronobacter malonaticus	510097-19	1829	Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM1336	PubMLST	3943		Cronobacter malonaticus	510099-19	1831	Czech Republic	Europe		Clinical	2007	Clinical and Medical Samples
+ND_PM1337	PubMLST	3944		Cronobacter malonaticus	510100-19	1832	Czech Republic	Europe		Clinical	2009	Clinical and Medical Samples
+ND_PM1341	PubMLST	3948		Cronobacter malonaticus	510101-19	1999	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1342	PubMLST	3949		Cronobacter malonaticus	510104-19	2015	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1343	PubMLST	3950		Cronobacter malonaticus	510105-19	2014	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1344	PubMLST	3951		Cronobacter malonaticus	510108-19	2004	Czech Republic	Europe		Clinical	2013	Clinical and Medical Samples
+ND_PM1371	PubMLST	3978		Cronobacter malonaticus	510140-19	1914	Czech Republic	Europe		Clinical	2012	Clinical and Medical Samples
+ND_PM1422	PubMLST	4059	GCA_029224145.1	Cronobacter malonaticus	CFSAN129929	SRS17031540	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1425	PubMLST	4081	GCA_030055375.1	Cronobacter malonaticus	MOD1_GK1349	CFSAN105796	Germany	Europe		Environmental	2015	Environmental Samples
+ND_PM1429	PubMLST	4085	GCA_030055315.1	Cronobacter malonaticus	MOD1_GK1512	CFSAN105810	Germany	Europe		Environmental	2015	Environmental Samples
+ND_PM1479	PubMLST	4135	GCA_030736515.1	Cronobacter malonaticus	CFSAN133219		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1556	PubMLST	4234	GCA_032856285.1	Cronobacter malonaticus	CFSAN133893		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1623	PubMLST	4744	GCA_035796095.1	Cronobacter malonaticus	F20		China	Asia	Wenzhou	Food	2022	Food and Food Ingredients
+ND_PM1626	PubMLST	4747	GCA_035796035.1	Cronobacter malonaticus	F24		China	Asia	Wenzhou	Food	2022	Food and Food Ingredients
+ND_PM1630	PubMLST	4751	GCA_035874375.1	Cronobacter malonaticus	2004-29-03		USA	North America		Clinical	Unknown	Clinical and Medical Samples
+ND_PM1649	PubMLST	4786		Cronobacter malonaticus	Cmal_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1650	PubMLST	4787		Cronobacter malonaticus	Cmal_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1651	PubMLST	4788		Cronobacter malonaticus	Cmal_F3		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1700	PubMLST	4857		Cronobacter malonaticus	YNDH-024	DH-024	China	Asia	DEHONG	Food	2024	Food and Food Ingredients
+ND_PM1707	PubMLST	4870	GCA_030011955.1	Cronobacter malonaticus	MOD1-E829	PDT001736372.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1716	PubMLST	4879	GCA_030126265.1	Cronobacter malonaticus	MOD1-CQ62	PDT001764471.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1725	PubMLST	4898		Cronobacter malonaticus	YNCX-011	CX-011	China	Asia	CHUXIONG	Food	2024	Food and Food Ingredients

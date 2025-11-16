@@ -1,0 +1,20 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC2885	NCBI	NA	GCF_030026745.1	Cronobacter universalis	MOD1-CQ7	ASM3002674v1	Ireland	Europe		PIF environment	Unknown	Environmental Samples
+ND_NC2886	NCBI	NA	GCF_041222855.1	Cronobacter universalis	LMG26249	ASM4122285v1	United Kingdom	Europe		water	1980	Food and Food Ingredients
+ND_NC2887	NCBI	NA	GCA_033940045.1	Cronobacter universalis	CFSAN135011	PDT001996985.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2888	NCBI	NA	GCA_033941205.1	Cronobacter universalis	CFSAN134941	PDT001996925.1	USA	North America		kitchen sink	2023	Environmental Samples
+ND_NC2889	NCBI	NA	GCA_033962495.1	Cronobacter universalis	CFSAN134960	PDT002008010.1	USA	North America		kitchen sponge	2023	Environmental Samples
+ND_NC2890	NCBI	NA	GCA_033972325.1	Cronobacter universalis	CFSAN135200	PDT002008546.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC2891	NCBI	NA	GCF_001277175.1	Cronobacter universalis	NCTC 9529	ASM127717v1	United Kingdom	Europe		freshwater	1980	Food and Food Ingredients
+ND_NC2892	NCBI	NA	GCF_000319325.1	Cronobacter universalis	NCTC 9529	ASM31932v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_NC2893	NCBI	NA	GCF_000409325.1	Cronobacter universalis	NCTC 9529	Cuni9529 final contigs	United Kingdom	Europe		water	Unknown	Food and Food Ingredients
+ND_NC2894	NCBI	NA	GCF_900447325.1	Cronobacter universalis	NCTC 9529	37419_E02	Unknown	Unknown		freshwater	1954	Food and Food Ingredients
+ND_PM0012	PubMLST	84	GCA_001277175.1	Cronobacter universalis	581	NCTC9529T	United Kingdom	Europe		Water	1956	Food and Food Ingredients
+ND_PM0031	PubMLST	156		Cronobacter universalis	96		United Kingdom	Europe		Spice	2004	Food and Food Ingredients
+ND_PM0056	PubMLST	408		Cronobacter universalis	1883		Czech Republic	Europe		Spice	Unknown	Food and Food Ingredients
+ND_PM0089	PubMLST	599		Cronobacter universalis	NCTC9529T		United Kingdom	Europe		Water	1956	Food and Food Ingredients
+ND_PM0279	PubMLST	1477		Cronobacter universalis	PO58	DRR015665	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0296	PubMLST	1496		Cronobacter universalis	PO59	DRR015666	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0306	PubMLST	1507		Cronobacter universalis	PO70	DRR015986	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0641	PubMLST	2570		Cronobacter universalis	805608-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM1654	PubMLST	4791		Cronobacter universalis	Cuni_F1		Austria	Europe		Food	2023	Food and Food Ingredients

@@ -1,0 +1,223 @@
+ID_ND	Database	PubMLST_id	NCBI_assembly_accession	Species	Isolate.Name	Aliases	Country	Continent	Region	Source	Year	Source_harmonized
+ND_NC2716	NCBI	NA	GCF_041222865.1	Cronobacter turicensis	LMG23827	ASM4122286v1	Switzerland	Europe		blood	2005	Clinical and Medical Samples
+ND_NC2717	NCBI	NA	GCF_001922905.1	Cronobacter turicensis	MOD1-Sh41s	ASM192290v1	USA	North America		insect surface	2012	Animal and Biological Sources
+ND_NC2718	NCBI	NA	GCF_001999505.1	Cronobacter turicensis	MOD1-Sh41g	ASM199950v1	USA	North America		alimentary canal	2012	Clinical and Medical Samples
+ND_NC2719	NCBI	NA	GCF_002421105.1	Cronobacter turicensis		ASM242110v1	USA	North America		wood	Unknown	Animal and Biological Sources
+ND_NC2720	NCBI	NA	GCF_002976535.1	Cronobacter turicensis	cro863W1	ASM297653v1	China	Asia		food	2012	Food and Food Ingredients
+ND_NC2721	NCBI	NA	GCF_002976545.1	Cronobacter turicensis	cro3064B1	ASM297654v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC2722	NCBI	NA	GCF_002976555.1	Cronobacter turicensis	cro2991W	ASM297655v1	China	Asia		food	2015	Food and Food Ingredients
+ND_NC2723	NCBI	NA	GCF_007845795.1	Cronobacter turicensis	MOD1_Md1sN	ASM784579v1	USA	North America		fly surface	2012	Animal and Biological Sources
+ND_NC2724	NCBI	NA	GCF_009938345.1	Cronobacter turicensis	SD21	ASM993834v1	China	Asia		water	2010	Food and Food Ingredients
+ND_NC2726	NCBI	NA	GCF_011605535.1	Cronobacter turicensis	HA18060	ASM1160553v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2727	NCBI	NA	GCF_011605625.1	Cronobacter turicensis	HA18016	ASM1160562v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2728	NCBI	NA	GCF_011605685.1	Cronobacter turicensis	HA18072	ASM1160568v1	China	Asia		Powdered Infant Formula	2018	Food and Food Ingredients
+ND_NC2729	NCBI	NA	GCF_013363985.1	Cronobacter turicensis	Cr170	ASM1336398v1	Israel	Asia		powdered infant formula	2007	Food and Food Ingredients
+ND_NC2730	NCBI	NA	GCF_030012035.1	Cronobacter turicensis	MOD1-E694	ASM3001203v1	Ireland	Europe		food	Unknown	Food and Food Ingredients
+ND_NC2731	NCBI	NA	GCF_030012055.1	Cronobacter turicensis	MOD1-E626	ASM3001205v1	Ireland	Europe		Food,Infant food	Unknown	Food and Food Ingredients
+ND_NC2732	NCBI	NA	GCF_030012105.1	Cronobacter turicensis	MOD1-E866	ASM3001210v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC2733	NCBI	NA	GCF_030012185.1	Cronobacter turicensis	MOD1-E933	ASM3001218v1	Ireland	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_NC2734	NCBI	NA	GCF_030025495.1	Cronobacter turicensis	MOD1-3-24	ASM3002549v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC2735	NCBI	NA	GCF_030025545.1	Cronobacter turicensis	MOD1-2-15	ASM3002554v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC2736	NCBI	NA	GCF_030025585.1	Cronobacter turicensis	MOD1-5-15G	ASM3002558v1	South Korea	Asia		nuts	Unknown	Food and Food Ingredients
+ND_NC2737	NCBI	NA	GCF_030026565.1	Cronobacter turicensis	MOD1-E752	ASM3002656v1	Ireland	Europe		milk powder	Unknown	Food and Food Ingredients
+ND_NC2738	NCBI	NA	GCF_030126305.1	Cronobacter turicensis	MOD1-CR1503	ASM3012630v1	Czech Republic	Europe		strawberry	Unknown	Food and Food Ingredients
+ND_NC2739	NCBI	NA	GCF_030126325.1	Cronobacter turicensis	MOD1-CR1516	ASM3012632v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC2740	NCBI	NA	GCF_030126465.1	Cronobacter turicensis	MOD1-CR316	ASM3012646v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC2741	NCBI	NA	GCF_030126485.1	Cronobacter turicensis	MOD1-CR318	ASM3012648v1	Czech Republic	Europe		gloves	Unknown	Environmental Samples
+ND_NC2742	NCBI	NA	GCF_030126525.1	Cronobacter turicensis	MOD1-CR342	ASM3012652v1	Czech Republic	Europe		Lettuce	Unknown	Food and Food Ingredients
+ND_NC2743	NCBI	NA	GCF_030126545.1	Cronobacter turicensis	MOD1-CR268	ASM3012654v1	Czech Republic	Europe		Well Water	Unknown	Environmental Samples
+ND_NC2744	NCBI	NA	GCF_030126565.1	Cronobacter turicensis	MOD1-CR447	ASM3012656v1	Czech Republic	Europe		carrot	Unknown	Food and Food Ingredients
+ND_NC2745	NCBI	NA	GCF_030126595.1	Cronobacter turicensis	MOD1-CR505	ASM3012659v1	Czech Republic	Europe		carrot	Unknown	Food and Food Ingredients
+ND_NC2747	NCBI	NA	GCF_032099685.1	Cronobacter turicensis		ASM3209968v1	USA	North America		urban	2013	Environmental Samples
+ND_NC2750	NCBI	NA	GCA_016077285.2	Cronobacter turicensis	MOD1_E621	PDT000332646.2	Czech Republic	Europe		clinical	Unknown	Clinical and Medical Samples
+ND_NC2751	NCBI	NA	GCA_016086315.1	Cronobacter turicensis	CFSAN022293	PDT000148458.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC2752	NCBI	NA	GCA_016086895.1	Cronobacter turicensis	CFSAN022292	PDT000148481.4	USA	North America		environmental swab	2014	Environmental Samples
+ND_NC2753	NCBI	NA	GCA_028106955.1	Cronobacter turicensis		PDT001586134.1	Austria	Europe		feces	2020	Clinical and Medical Samples
+ND_NC2754	NCBI	NA	GCA_028110265.1	Cronobacter turicensis		PDT001586135.1	Austria	Europe		feces	2020	Clinical and Medical Samples
+ND_NC2755	NCBI	NA	GCA_028573575.1	Cronobacter turicensis	CFSAN129025	PDT001611301.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2756	NCBI	NA	GCA_028573635.1	Cronobacter turicensis	CFSAN129390	PDT001611299.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2757	NCBI	NA	GCA_028573645.1	Cronobacter turicensis	CFSAN129395	PDT001611302.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2758	NCBI	NA	GCA_028573735.1	Cronobacter turicensis	CFSAN129387	PDT001611297.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2759	NCBI	NA	GCA_028574075.1	Cronobacter turicensis	CFSAN129391	PDT001611298.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2760	NCBI	NA	GCA_028574095.1	Cronobacter turicensis	CFSAN129399	PDT001611300.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2761	NCBI	NA	GCA_028574975.1	Cronobacter turicensis	CFSAN129040	PDT001611296.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2763	NCBI	NA	GCA_028636965.1	Cronobacter turicensis	CFSAN129047	PDT001615179.1	USA	North America		environmental swab sponge	2022	Environmental Samples
+ND_NC2764	NCBI	NA	GCA_030126125.1	Cronobacter turicensis	MOD1-CQ4	ASM3012612v1	Ireland	Europe		powdered infant formula production environment	Unknown	Environmental Samples
+ND_NC2765	NCBI	NA	GCA_030721045.1	Cronobacter turicensis	FDA1213745-S071-006	PDT001794522.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2766	NCBI	NA	GCA_030735955.1	Cronobacter turicensis	CFSAN133222	PDT001851092.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2767	NCBI	NA	GCA_030736235.1	Cronobacter turicensis	CFSAN133244	PDT001851039.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2768	NCBI	NA	GCA_030736255.1	Cronobacter turicensis	CFSAN133262	PDT001851065.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2769	NCBI	NA	GCA_030736275.1	Cronobacter turicensis	CFSAN133264	PDT001851038.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2770	NCBI	NA	GCA_030736375.1	Cronobacter turicensis	CFSAN133247	PDT001851028.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2771	NCBI	NA	GCA_030736475.1	Cronobacter turicensis	CFSAN133243	PDT001851020.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2775	NCBI	NA	GCA_032855065.1	Cronobacter turicensis	CFSAN133834	PDT001946749.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2776	NCBI	NA	GCA_032855145.1	Cronobacter turicensis	CFSAN133861	PDT001946744.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2777	NCBI	NA	GCA_032855205.1	Cronobacter turicensis	CFSAN133831	PDT001946741.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2778	NCBI	NA	GCA_032855305.1	Cronobacter turicensis	CFSAN133854	PDT001946735.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2779	NCBI	NA	GCA_032855525.1	Cronobacter turicensis	CFSAN133863	PDT001946723.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2780	NCBI	NA	GCA_032855585.1	Cronobacter turicensis	CFSAN133857	PDT001946720.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2781	NCBI	NA	GCA_032855885.1	Cronobacter turicensis	CFSAN133840	PDT001946682.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2782	NCBI	NA	GCA_032856025.1	Cronobacter turicensis	CFSAN133838	PDT001946674.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2783	NCBI	NA	GCA_032856105.1	Cronobacter turicensis	CFSAN133881	PDT001946670.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2784	NCBI	NA	GCA_032856125.1	Cronobacter turicensis	CFSAN133879	PDT001946669.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2785	NCBI	NA	GCA_032856165.1	Cronobacter turicensis	CFSAN133837	PDT001946666.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2786	NCBI	NA	GCA_032856185.1	Cronobacter turicensis	CFSAN133835	PDT001946667.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2787	NCBI	NA	GCA_032856225.1	Cronobacter turicensis	CFSAN133880	PDT001946664.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2788	NCBI	NA	GCA_032856265.1	Cronobacter turicensis	CFSAN133836	PDT001946650.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2790	NCBI	NA	GCA_033445385.2	Cronobacter turicensis	FDA1219480-S107-009	PDT001974189.2	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2791	NCBI	NA	GCA_033445405.1	Cronobacter turicensis	FDA1219480-S107-001	PDT001974184.1	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2792	NCBI	NA	GCA_033445425.2	Cronobacter turicensis	FDA1219480-S107-003	PDT001974187.2	USA	North America		environmental swab	2023	Environmental Samples
+ND_NC2794	NCBI	NA	GCA_033897285.1	Cronobacter turicensis	CFSAN134980	PDT001995443.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2795	NCBI	NA	GCA_033897385.1	Cronobacter turicensis	CFSAN135187	PDT001995427.1	USA	North America		grain	2023	Food and Food Ingredients
+ND_NC2796	NCBI	NA	GCA_033940225.1	Cronobacter turicensis	CFSAN134947	PDT001996977.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2797	NCBI	NA	GCA_033940265.1	Cronobacter turicensis	CFSAN134942	PDT001996975.1	USA	North America		footwear	2023	Environmental Samples
+ND_NC2798	NCBI	NA	GCA_033940465.1	Cronobacter turicensis	CFSAN134893	PDT001996964.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2799	NCBI	NA	GCA_033940565.1	Cronobacter turicensis	CFSAN134946	PDT001996959.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2800	NCBI	NA	GCA_033941545.1	Cronobacter turicensis	CFSAN135188	PDT001996911.1	USA	North America		nuts nut butter	2023	Food and Food Ingredients
+ND_NC2801	NCBI	NA	GCA_033942605.1	Cronobacter turicensis	CFSAN134901	PDT001996855.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2802	NCBI	NA	GCA_033943045.1	Cronobacter turicensis	CFSAN134899	PDT001996188.1	USA	North America		footwear	2023	Environmental Samples
+ND_NC2803	NCBI	NA	GCA_033943085.1	Cronobacter turicensis	CFSAN134905	PDT001996187.1	USA	North America		kitchen floor	2023	Environmental Samples
+ND_NC2804	NCBI	NA	GCA_033943265.1	Cronobacter turicensis	CFSAN134900	PDT001996178.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2805	NCBI	NA	GCA_033943745.1	Cronobacter turicensis	CFSAN134968	PDT001996135.1	USA	North America		car mats	2023	Environmental Samples
+ND_NC2806	NCBI	NA	GCA_033943825.1	Cronobacter turicensis	CFSAN134969	PDT001996131.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2807	NCBI	NA	GCA_033943985.1	Cronobacter turicensis	CFSAN134898	PDT001996124.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2808	NCBI	NA	GCA_033944045.1	Cronobacter turicensis	CFSAN134904	PDT001996119.1	USA	North America		footwear	2023	Environmental Samples
+ND_NC2809	NCBI	NA	GCA_033944585.1	Cronobacter turicensis	CFSAN135072	PDT001996070.1	USA	North America		seeds	2023	Food and Food Ingredients
+ND_NC2810	NCBI	NA	GCA_033944705.1	Cronobacter turicensis	CFSAN135014	PDT001996065.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2811	NCBI	NA	GCA_033944905.1	Cronobacter turicensis	CFSAN134830	PDT001996055.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC2812	NCBI	NA	GCA_033945025.1	Cronobacter turicensis	CFSAN134881	PDT001996049.1	USA	North America		vacuum dust floor sweepings	2022	Environmental Samples
+ND_NC2813	NCBI	NA	GCA_033945445.1	Cronobacter turicensis	CFSAN135017	PDT001996021.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2814	NCBI	NA	GCA_033946715.1	Cronobacter turicensis	CFSAN134917	PDT001995946.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2815	NCBI	NA	GCA_033947285.1	Cronobacter turicensis	CFSAN135163	PDT001995848.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC2816	NCBI	NA	GCA_033960405.1	Cronobacter turicensis	CFSAN135013	PDT002008130.1	USA	North America		nuts nut butter	2022	Food and Food Ingredients
+ND_NC2817	NCBI	NA	GCA_033960445.1	Cronobacter turicensis	CFSAN135206	PDT002008119.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2818	NCBI	NA	GCA_033960585.1	Cronobacter turicensis	CFSAN134926	PDT002008110.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2819	NCBI	NA	GCA_033960745.1	Cronobacter turicensis	CFSAN134883	PDT002008101.1	USA	North America		hospital nursing home emp sponge	2023	Environmental Samples
+ND_NC2820	NCBI	NA	GCA_033961185.1	Cronobacter turicensis	CFSAN135229	PDT002008078.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2821	NCBI	NA	GCA_033961245.1	Cronobacter turicensis	CFSAN135227	PDT002008076.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2822	NCBI	NA	GCA_033961305.1	Cronobacter turicensis	CFSAN135225	PDT002008072.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2823	NCBI	NA	GCA_033962755.1	Cronobacter turicensis	CFSAN134957	PDT002007994.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2824	NCBI	NA	GCA_033963025.1	Cronobacter turicensis	CFSAN134976	PDT002007968.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2825	NCBI	NA	GCA_033963365.1	Cronobacter turicensis	CFSAN134921	PDT002007981.1	USA	North America		vacuum dust floor sweepings	2023	Environmental Samples
+ND_NC2826	NCBI	NA	GCA_033972165.1	Cronobacter turicensis	CFSAN135222	PDT002008557.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2827	NCBI	NA	GCA_033972525.1	Cronobacter turicensis	CFSAN135201	PDT002008538.1	USA	North America		spice seasoning	2023	Food and Food Ingredients
+ND_NC2828	NCBI	NA	GCA_033972905.1	Cronobacter turicensis	CFSAN135218	PDT002008520.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2829	NCBI	NA	GCA_034328345.1	Cronobacter turicensis	CFSAN135134	PDT002026019.1	USA	North America		trail snack mix	2023	Food and Food Ingredients
+ND_NC2830	NCBI	NA	GCA_034408625.1	Cronobacter turicensis	CFSAN135232	PDT002008074.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2831	NCBI	NA	GCA_035867865.1	Cronobacter turicensis	1011-06	PDT002054857.1	Unknown	Unknown		missing	Unknown	Unknown and Unclassified Sources
+ND_NC2832	NCBI	NA	GCA_044703065.1	Cronobacter turicensis	CFSAN139905	PDT002451690.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2833	NCBI	NA	GCA_044703125.1	Cronobacter turicensis	CFSAN139900	PDT002451655.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2834	NCBI	NA	GCA_044703265.1	Cronobacter turicensis	CFSAN139868	PDT002448216.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2835	NCBI	NA	GCA_044703285.1	Cronobacter turicensis	CFSAN139909	PDT002451638.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2836	NCBI	NA	GCA_044703305.1	Cronobacter turicensis	CFSAN139872	PDT002448210.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2837	NCBI	NA	GCA_044703325.1	Cronobacter turicensis	CFSAN139867	PDT002448211.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2838	NCBI	NA	GCA_044703345.1	Cronobacter turicensis	CFSAN139874	PDT002448212.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2839	NCBI	NA	GCA_044709855.1	Cronobacter turicensis	CFSAN139824	PDT002422917.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2840	NCBI	NA	GCA_044710435.1	Cronobacter turicensis	CFSAN138923	PDT002388185.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2841	NCBI	NA	GCA_044710535.1	Cronobacter turicensis	CFSAN138926	PDT002388174.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2842	NCBI	NA	GCA_044710715.1	Cronobacter turicensis	CFSAN138918	PDT002388148.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2843	NCBI	NA	GCA_044711075.1	Cronobacter turicensis	CFSAN138554	PDT002341942.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2844	NCBI	NA	GCA_044711195.1	Cronobacter turicensis	CFSAN138198	PDT002304935.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2845	NCBI	NA	GCA_044711615.1	Cronobacter turicensis	CFSAN137613	PDT002213428.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2846	NCBI	NA	GCA_044734025.1	Cronobacter turicensis	CFSAN130610	PDT002115947.1	USA	North America		environmental swab	2021	Environmental Samples
+ND_NC2847	NCBI	NA	GCA_044734105.1	Cronobacter turicensis	CFSAN130609	PDT002115985.1	USA	North America		environmental swab	2021	Environmental Samples
+ND_NC2848	NCBI	NA	GCA_044734145.1	Cronobacter turicensis	CFSAN130611	PDT002115956.1	USA	North America		environmental swab	2021	Environmental Samples
+ND_NC2849	NCBI	NA	GCA_044734245.1	Cronobacter turicensis	CFSAN136249	PDT002107397.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2850	NCBI	NA	GCA_044734285.1	Cronobacter turicensis	CFSAN136237	PDT002107390.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2851	NCBI	NA	GCA_044734315.1	Cronobacter turicensis	CFSAN136243	PDT002107392.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2852	NCBI	NA	GCA_044734385.1	Cronobacter turicensis	CFSAN136264	PDT002107382.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2853	NCBI	NA	GCA_044734405.1	Cronobacter turicensis	CFSAN136261	PDT002107380.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2854	NCBI	NA	GCA_044734425.1	Cronobacter turicensis	CFSAN136242	PDT002107375.1	USA	North America		environmental sponge	2022	Environmental Samples
+ND_NC2855	NCBI	NA	GCA_044735005.1	Cronobacter turicensis	CFSAN135955	PDT002071108.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2856	NCBI	NA	GCA_044735325.1	Cronobacter turicensis	CFSAN135977	PDT002071091.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2857	NCBI	NA	GCA_044735345.1	Cronobacter turicensis	CFSAN135973	PDT002071089.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2858	NCBI	NA	GCA_044735645.1	Cronobacter turicensis	CFSAN135978	PDT002071075.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2859	NCBI	NA	GCA_044735905.1	Cronobacter turicensis	CFSAN135942	PDT002071063.1	USA	North America		environmental swab sponge	2023	Environmental Samples
+ND_NC2860	NCBI	NA	GCA_044862825.1	Cronobacter turicensis	CFSAN140051	PDT002464701.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2861	NCBI	NA	GCA_044863045.1	Cronobacter turicensis	CFSAN140050	PDT002464686.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2862	NCBI	NA	GCA_044863085.1	Cronobacter turicensis	CFSAN140049	PDT002464683.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2863	NCBI	NA	GCA_045792455.1	Cronobacter turicensis	CFSAN140333	PDT002514955.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2864	NCBI	NA	GCA_045792555.1	Cronobacter turicensis	CFSAN140331	PDT002514947.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2865	NCBI	NA	GCA_045974365.1	Cronobacter turicensis	CFSAN140819	PDT002527330.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2866	NCBI	NA	GCA_046446725.1	Cronobacter turicensis	CFSAN140840	PDT002553099.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2867	NCBI	NA	GCA_046446785.1	Cronobacter turicensis	CFSAN140838	PDT002553081.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2868	NCBI	NA	GCA_046446805.1	Cronobacter turicensis	CFSAN140839	PDT002553096.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2869	NCBI	NA	GCA_046446885.1	Cronobacter turicensis	CFSAN140851	PDT002553089.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2870	NCBI	NA	GCA_046447245.1	Cronobacter turicensis	CFSAN140850	PDT002553082.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2871	NCBI	NA	GCA_046447425.1	Cronobacter turicensis	CFSAN140835	PDT002553085.1	USA	North America		environmental swab sponge	2024	Environmental Samples
+ND_NC2872	NCBI	NA	GCA_047337665.1	Cronobacter turicensis	FSL-B11-0019	PDT002600731.1	USA	North America		Footwear Sole	2024	Environmental Samples
+ND_NC2873	NCBI	NA	GCA_047337705.1	Cronobacter turicensis	FSL-B11-0023	PDT002600727.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC2874	NCBI	NA	GCA_047337725.1	Cronobacter turicensis	FSL-B11-0025	PDT002600725.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC2875	NCBI	NA	GCA_047337765.1	Cronobacter turicensis	FSL-B11-0027	PDT002600723.1	USA	North America		Kitchen Floor	2024	Environmental Samples
+ND_NC2876	NCBI	NA	GCA_047337885.1	Cronobacter turicensis	FSL-B11-0001	PDT002600740.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2877	NCBI	NA	GCA_047337925.1	Cronobacter turicensis	FSL-B11-0003	PDT002600728.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2878	NCBI	NA	GCA_047338005.1	Cronobacter turicensis	FSL-B11-0037	PDT002600712.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2879	NCBI	NA	GCA_047338025.1	Cronobacter turicensis	FSL-B11-0034	PDT002600715.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2880	NCBI	NA	GCA_047338145.1	Cronobacter turicensis	FSL-B11-0048	PDT002600700.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2881	NCBI	NA	GCA_047338285.1	Cronobacter turicensis	FSL-B11-0060	PDT002600688.1	USA	North America		Vacuum Dustbin	2024	Environmental Samples
+ND_NC2882	NCBI	NA	GCA_047338345.1	Cronobacter turicensis	FSL-B11-0007	PDT002600687.1	USA	North America		Entryway Floor	2024	Environmental Samples
+ND_NC2884	NCBI	NA	GCF_000027065.2	Cronobacter turicensis		ASM2706v1	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0013	PubMLST	110	GCA_000027065.2	Cronobacter turicensis	1211	LMG23827T DSM18703T	Switzerland	Europe		Clinical	2005	Clinical and Medical Samples
+ND_PM0070	PubMLST	435		Cronobacter turicensis	1895		Czech Republic	Europe		Food ingredient	2011	Food and Food Ingredients
+ND_PM0151	PubMLST	1125		Cronobacter turicensis	92		United Kingdom	Europe		Herb	2004	Food and Food Ingredients
+ND_PM0196	PubMLST	1171		Cronobacter turicensis	1553		Slovakia	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0197	PubMLST	1172		Cronobacter turicensis	1554		Slovakia	Europe		Unknown	Unknown	Unknown and Unclassified Sources
+ND_PM0203	PubMLST	1178		Cronobacter turicensis	1880		Czech Republic	Europe		Herb	2011	Food and Food Ingredients
+ND_PM0234	PubMLST	1331		Cronobacter turicensis	CFSAN022292		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0252	PubMLST	1349		Cronobacter turicensis	CFSAN022293		USA	North America	Or	Environmental	2014	Environmental Samples
+ND_PM0273	PubMLST	1370		Cronobacter turicensis	FDA00007991		USA	North America	IA	Environmental	2014	Environmental Samples
+ND_PM0274	PubMLST	1371		Cronobacter turicensis	FDA00007990		USA	North America	IA	Environmental	2014	Environmental Samples
+ND_PM0290	PubMLST	1490		Cronobacter turicensis	Chcon-5		China	Asia		Water	2010	Food and Food Ingredients
+ND_PM0300	PubMLST	1501		Cronobacter turicensis	PO64	DRR015813	Unknown	Unknown			Unknown	Unknown and Unclassified Sources
+ND_PM0333	PubMLST	1592	GCA_028578005.1	Cronobacter turicensis	SDCR0074	25-3	China	Asia		Spice	2016	Food and Food Ingredients
+ND_PM0342	PubMLST	1713		Cronobacter turicensis	XZCRO009		China	Asia	Shanghai	Spice	2015	Food and Food Ingredients
+ND_PM0372	PubMLST	1845		Cronobacter turicensis	MOD1-Sh41s		USA	North America		Insect	2015	Animal and Biological Sources
+ND_PM0412	PubMLST	1932		Cronobacter turicensis	MOD1-Sh41g		USA	North America	MD	Insect	2012	Animal and Biological Sources
+ND_PM0485	PubMLST	2235		Cronobacter turicensis	UBA5650		Australia	Oceania			Unknown	Unknown and Unclassified Sources
+ND_PM0497	PubMLST	2249		Cronobacter turicensis	PAT-z3032		USA	North America		Food ingredient	Unknown	Food and Food Ingredients
+ND_PM0507	PubMLST	2394		Cronobacter turicensis	KMB-539		Slovakia	Europe		Clinical	2016	Clinical and Medical Samples
+ND_PM0635	PubMLST	2564		Cronobacter turicensis	41672-17		Austria	Europe		Clinical	2017	Clinical and Medical Samples
+ND_PM0636	PubMLST	2565		Cronobacter turicensis	8305931		Denmark	Europe		Clinical	2008	Clinical and Medical Samples
+ND_PM0810	PubMLST	2982		Cronobacter turicensis	SD21		China	Asia		Environmental	2010	Environmental Samples
+ND_PM0826	PubMLST	3010		Cronobacter turicensis	511296		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0827	PubMLST	3011		Cronobacter turicensis	511300		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0828	PubMLST	3012		Cronobacter turicensis	511297		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0829	PubMLST	3013		Cronobacter turicensis	511298		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0830	PubMLST	3014		Cronobacter turicensis	511299		Austria	Europe		Clinical	2019	Clinical and Medical Samples
+ND_PM0860	PubMLST	3077		Cronobacter turicensis	Cr170		Israel	Asia		Powdered infant formula	2013	Food and Food Ingredients
+ND_PM0971	PubMLST	3245		Cronobacter turicensis	2015002		China	Asia	Zhejiang Wenzhou	Food ingredient	2020	Food and Food Ingredients
+ND_PM0990	PubMLST	3264		Cronobacter turicensis	2015052		China	Asia	Zhejiang Wenzhou	Spice	2020	Food and Food Ingredients
+ND_PM1009	PubMLST	3284		Cronobacter turicensis	cro2991W		China	Asia		Food	2015	Food and Food Ingredients
+ND_PM1010	PubMLST	3285		Cronobacter turicensis	cro3064B1		China	Asia		Food	2015	Food and Food Ingredients
+ND_PM1021	PubMLST	3414		Cronobacter turicensis	510399-20		Austria	Europe	Lower Austria	Animal	2020	Animal and Biological Sources
+ND_PM1022	PubMLST	3415		Cronobacter turicensis	Cs-510625-20	510625-20	Austria	Europe	Lower Austria	Animal	2020	Animal and Biological Sources
+ND_PM1319	PubMLST	3884	GCA_028636965.1	Cronobacter turicensis	CFSAN129047	SRS16760849	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1415	PubMLST	4052	GCA_028573735.1	Cronobacter turicensis	CFSAN129387	SRS16720617	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1416	PubMLST	4053	GCA_028574975.1	Cronobacter turicensis	CFSAN129040	SRS16720610	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1417	PubMLST	4054	GCA_028574075.1	Cronobacter turicensis	CFSAN129391	SRS16720618	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1418	PubMLST	4055	GCA_028573635.1	Cronobacter turicensis	CFSAN129390	SRS16720620	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1419	PubMLST	4056	GCA_028574095.1	Cronobacter turicensis	CFSAN129399	SRS16720619	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1421	PubMLST	4058	GCA_028573645.1	Cronobacter turicensis	CFSAN129395	SRS16720622	USA	North America	MI	Environmental	2022	Environmental Samples
+ND_PM1460	PubMLST	4116	GCA_030721045.1	Cronobacter turicensis	FDA1213745-S071-006		USA	North America	VT	Environmental	2023	Environmental Samples
+ND_PM1464	PubMLST	4120	GCA_030736475.1	Cronobacter turicensis	CFSAN133243		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1477	PubMLST	4133	GCA_030736255.1	Cronobacter turicensis	CFSAN133262		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1478	PubMLST	4134	GCA_030736275.1	Cronobacter turicensis	CFSAN133264		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1524	PubMLST	4202	GCA_032855065.1	Cronobacter turicensis	CFSAN133834		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1527	PubMLST	4205	GCA_032855585.1	Cronobacter turicensis	CFSAN133857		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1539	PubMLST	4217	GCA_032855305.1	Cronobacter turicensis	CFSAN133854		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1553	PubMLST	4231	GCA_032856125.1	Cronobacter turicensis	CFSAN133879		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1554	PubMLST	4232	GCA_032856105.1	Cronobacter turicensis	CFSAN133881		USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1655	PubMLST	4792		Cronobacter turicensis	Ctur_F1		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1656	PubMLST	4793		Cronobacter turicensis	Ctur_F2		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1657	PubMLST	4794		Cronobacter turicensis	Ctur_F3		Austria	Europe		Food	2023	Food and Food Ingredients
+ND_PM1671	PubMLST	4824		Cronobacter turicensis	ACTA281	tur281	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1672	PubMLST	4825		Cronobacter turicensis	ACTA323	tur323	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1673	PubMLST	4826		Cronobacter turicensis	ACTA324	tur324	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1675	PubMLST	4828		Cronobacter turicensis	ACTA332	tur332	France	Europe		Environmental	2022	Environmental Samples
+ND_PM1676	PubMLST	4829		Cronobacter turicensis	ACTA346	tur346	France	Europe		Environmental	2023	Environmental Samples
+ND_PM1677	PubMLST	4830		Cronobacter turicensis	ACTA347	tur347	France	Europe		Environmental	2023	Environmental Samples
+ND_PM1709	PubMLST	4872	GCA_030026565.1	Cronobacter turicensis	MOD1-E752	PDT001737492.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1718	PubMLST	4881	GCA_030012105.1	Cronobacter turicensis	MOD1-E866	PDT001736378.1	Ireland	Europe		Environmental	Unknown	Environmental Samples
+ND_PM1721	PubMLST	4884	GCA_044735645.1	Cronobacter turicensis	CFSAN135978	PDT002071075.1	USA	North America	MI	Environmental	2023	Environmental Samples
+ND_PM1722	PubMLST	4885	GCA_044863045.1	Cronobacter turicensis	CFSAN140050	PDT002464686.1	USA	North America	MI	Environmental	2024	Environmental Samples
+ND_PM1724	PubMLST	4896		Cronobacter turicensis	YNCX	CX	China	Asia	CHUXIONG	Food	2024	Food and Food Ingredients
