@@ -1,9 +1,7 @@
-# master-thesis
+# Code logbook for master thesis:
 Codes (bash and R) from my master thesis "Comparative genomic analysis of the bacterial genus Cronobacter"
 
-# Code logbook:
-Metadata gathering:
-
+# Metadata gathering:
 From NCBI (using Linux’ terminal):
 Creating a conda environment:
 conda create -n ncbi_datasets
@@ -28,7 +26,7 @@ Download of genomes:
 •	Bash-script “vsc_dl_pubmlst.sh” on June 4th, 2024 using table “PubMLST_download_20240327.csv”
 •	Download of rest of genomes that are listed in the PubMLST metadata table via PubMLST manually, renaming them as in metadata table and moving them into directory with all other genomes
 •	Divide all genomes into five different directories to ensure parallelization of programs (“p1”, “p2”, “p3”, “p4” and “p5”)
-CheckM2:
+# CheckM2:
 Installation of CheckM2 environment:
 conda create --prefix=/gpfs/data/fs71579/diepn/checkm2_env -c bioconda -c conda-forge checkm2
 Apply CheckM2 on downloaded genomes as FASTA-files:
@@ -38,7 +36,7 @@ Merging and analyzing CheckM2 reports:
 Excluding filtered genomes that did not meet the quality thresholds (also in metadata table):
 •	Bash-script “mv_excluded.sh” on May 11th, 2025
 •	R-code “Filter_master_metadata.R” on May 11th, 2025 – excluding part with “gff_quality_filtered.tsv” since it did not exist at that time
-Prokka:
+# Prokka:
 Installation of Prokka environment:
 conda create --prefix /gpfs/data/fs71579/diepn/prokka_env
 Installation of Prokka:
@@ -66,14 +64,14 @@ Gathering the master metadata table – creating filtered metadata table for eac
 Filtering of wide tables and absence/presence tables for products and genes:
 •	R-Code “widetable_gene_absence_filtered.R” on August 19th, 2025
 •	R-Code “widetable_product_absence_filtered.R” on August 19th, 2025
-Harmonizing metadata:
+# Harmonizing metadata:
 Harmonizing data in the metadata table retrieving the master metadata table:
 •	R-code “Merged_to_master_metadata.R” on August 19th, 2025
 •	R-code “Merged_to_master_metadata_2.R” on August 19th, 2025
 Analysis of core and accessory genomes:
 Creating tables for core-, softcore-, shell- and cloud-genomes of each species:
 •	R-code “core_accessory_genomes.R” on August 19th, 2025
-Principal Coordinates Analysis:
+# Principal Coordinates Analysis:
 Applying Bray-Curtis dissimilarity and PCoA on IRIS dataset:
 •	R-code “iris_pcoa.R” on July 27th, 2025
 Applying Bray-Curtis dissimilarity and PCoA on “gene_filtered.tsv” and “product_filtered.tsv”:
@@ -82,12 +80,12 @@ Applying Bray-Curtis dissimilarity and PCoA on “gene_filtered.tsv” and “pr
 Applying Jaccard index and PCoA on “gene_filtered.tsv” and “product_filtered.tsv”:
 •	R-code “Cr_spp_jac_gene_absence_pcoa.R” on August 20th, 2025
 •	R-code “Cr_spp_jac_product_absence_pcoa.R” on August 20th, 2025
-Cluster Analysis:
+# Cluster Analysis:
 Conduct PERMANOVA on Bray-Curtis dissimilarity matrix and plot results, after clustering all genomes belonging to Cronobacter spp.:
 •	R-code “Genes_PERMANOVA_crspp.R” on November 9th, 2025
 Conduct PERMANOVA on Bray-Curtis dissimilarity matrix and plot results, after clustering all genomes belonging to Cronobacter spp. with exception of C. sakazakii:
 •	R-code “Genes_PERMANOVA_wo_sakazakii.R” on November 10th, 2025
-Plotting results:
+# Plotting results:
 •	R-code “Plot_genes_absolute_freq.R” on October 30th, 2025
 •	R-code “Plot_genes_relative_freq.R” on October 30th, 2025
 •	R-code “Plot_metadata_continent.R” on October 30th, 2025
